@@ -668,7 +668,7 @@
 				<And>
 				<Category>X-SuSE-CD</Category>
 				<Category>Utility</Category>
-				<And>
+				</And>
 			</Include>
 		</Menu>
 		<Menu>
