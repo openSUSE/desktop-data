@@ -180,7 +180,13 @@
 				<Not>
 				<Category>X-SuSE-Core-Edutainment</Category>
 				<Category>Astronomy</Category>
+				<Category>Biology</Category>
+				<Category>Geology</Category>
+				<Category>MedicalSoftware</Category>
+				<Category>Physics</Category>
+				<Category>Electronics</Category>
 				<Category>Chemistry</Category>
+				<Category>Construction</Category>
 				<Category>Engineering</Category>
 				<Category>Art</Category>
 				<Category>Math</Category>
@@ -190,7 +196,6 @@
 				<Category>Teaching</Category>
 				<Category>X-KDE-Edu-Teaching</Category>
 				<Category>X-KDE-Edu-Language</Category>
-				<Category>X-SuSE-Construction</Category>
 				</Not>
 				</And>
 			</Include>
@@ -237,6 +242,11 @@
 			<Name>Science</Name>
 			<Directory>suse-edutainment-science.directory</Directory>
 			<Include>
+				<Category>Biology</Category>
+				<Category>Geology</Category>
+				<Category>MedicalSoftware</Category>
+				<Category>Physics</Category>
+				<Category>Electronics</Category>
 				<Category>Science</Category>
 			</Include>
 		</Menu>
@@ -675,6 +685,7 @@ gi
 				<Category>Mixer</Category>
 				<Category>X-SuSE-Jukebox</Category>
 				<Category>DiscBurning</Category>
+				<Category>Audio</Category>
 				<Category>Player</Category>
 				<Category>Database</Category>
 				<Category>Utility</Category>
@@ -711,6 +722,7 @@ gi
 			<Name>VideoPlayer</Name>
 			<Directory>suse-multimedia-videoplayer.directory</Directory>
 			<Include>
+				<Category>Audio</Category>
 				<And>
 				<Category>AudioVideo</Category>
 				<Category>Player</Category>
@@ -861,6 +873,7 @@ gi
 				<Category>Database</Category>
 				<Category>ProjectManagement</Category>
 				<Category>Finance</Category>
+				<Category>Chart</Category>
 				<Category>FlowChart</Category>
 				<Category>Viewer</Category>
 				<Category>X-SuSE-Editor</Category>
@@ -929,6 +942,7 @@ gi
 			<Name>FlowChart</Name>
 			<Directory>suse-office-flowchart.directory</Directory>
 			<Include>
+				<Category>Chart</Category>
 				<Category>FlowChart</Category>
 			</Include>
 		</Menu>
@@ -1002,10 +1016,13 @@ gi
 				<Category>Office</Category>
 				<Category>Accessibility</Category>
 				<Category>Settings</Category>
+				<Category>Shell</Category>
+				<Category>Clock</Category>
 				<Category>TerminalEmulator</Category>
 				<Category>Archiving</Category>
 				<Category>Filesystem</Category>
 				<Category>Calculator</Category>
+				<Category>DesktopSettings</Category>
 				<Category>X-SuSE-CD</Category>
 				<Category>X-SuSE-DesktopUtility</Category>
 				<Category>X-SuSE-Editor</Category>
@@ -1031,6 +1048,7 @@ gi
 				<Category>Utility</Category>
 				<Category>Accessibility</Category>
 				</And>
+				<Category>DesktopSettings</Category>
 				<Category>X-SuSE-DesktopUtility</Category>
 			</Include>
 		</Menu>
@@ -1073,6 +1091,7 @@ gi
 			<Name>Time</Name>
 			<Directory>suse-utility-time.directory</Directory>
 			<Include>
+				<Category>Clock</Category>
 				<Category>X-SuSE-TimeUtility</Category>
 			</Include>
 		</Menu>
@@ -1117,9 +1136,11 @@ gi
 				<Category>System</Category>
 				<Not>
 				<Category>X-SuSE-Core-System</Category>
+				<Category>HardwareSettings</Category>
 				<Category>Emulator</Category>
 				<Category>Monitor</Category>
 				<Category>Screensaver</Category>
+				<Category>Shell</Category>
 				<Category>TerminalEmulator</Category>
 				<Category>Network</Category>
 				<Category>SystemSetup</Category>
@@ -1191,6 +1212,7 @@ gi
 			<Name>SystemSetup</Name>
 			<Directory>suse-system-systemsetup.directory</Directory>
 			<Include>
+				<Category>HardwareSettings</Category>
 				<Category>SystemSetup</Category>
 				<Category>PackageManager</Category>
 			</Include>
@@ -1284,6 +1306,7 @@ gi
 			<Name>TerminalEmulator</Name>
 			<Directory>suse-system-shell.directory</Directory>
 			<Include>
+				<Category>Shell</Category>
 				<Category>TerminalEmulator</Category>
 			</Include>
 		</Menu>
