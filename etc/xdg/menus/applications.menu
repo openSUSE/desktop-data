@@ -699,6 +699,7 @@ gi
 				<Category>AudioVideo</Category>
 				<Category>Player</Category>
 				<Not><Category>X-SuSE-Video</Category></Not>
+				<Not><Category>X-SuSE-CD</Category></Not>
 				</And>
 				<And>
 				<Category>AudioVideo</Category>
@@ -750,7 +751,7 @@ gi
 		</Menu>
 		<Menu>
 			<DontShowIfEmpty/>
-			<Name>CD</Name>
+			<Name>CD Tools</Name>
 			<Directory>suse-multimedia-cd-tools.directory</Directory>
 			<Include>
 				<And>
