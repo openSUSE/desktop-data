@@ -4,7 +4,7 @@ Name=Sports
 Icon=phppg
 
 Type=Directory
-X-SuSE-GeneralDescription=true
+X-SuSE-GeneralDescription=false
 Name[bg]=Спорт
 Name[cs]=Sporty
 Name[de]=Sport

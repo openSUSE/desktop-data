@@ -4,7 +4,7 @@ Name=Puzzle
 Icon=filetypes
 
 Type=Directory
-X-SuSE-GeneralDescription=true
+X-SuSE-GeneralDescription=false
 Name[bg]=Пъзел
 Name[cs]=Skládačky
 Name[de]=Puzzle

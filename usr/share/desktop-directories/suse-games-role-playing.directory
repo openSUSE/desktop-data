@@ -4,7 +4,7 @@ Name=Role Playing
 Icon=home_white
 
 Type=Directory
-X-SuSE-GeneralDescription=true
+X-SuSE-GeneralDescription=false
 Name[bg]=Ролеви игри
 Name[cs]=Hry na hrdiny
 Name[de]=Rollenspiele
