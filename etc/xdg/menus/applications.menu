@@ -168,9 +168,29 @@
 				<Category>X-SuSE-RolePlaying</Category>
 				<Category>SportsGame</Category>
 				<Category>Strategy</Category>
+				<Category>PlatformGame</Category>
+				<Category>FirstPersonGame</Category>
 				</Not>
 			</And>
 		</Include>
+		<Menu>
+			<Name>Action</Name>
+			<Directory>suse-games-action.directory</Directory>
+			<Include>
+				<And>
+				<Category>Game</Category>
+				<Category>X-SuSE-Games-Action</Category>
+				</And>
+				<And>
+				<Category>Game</Category>
+				<Category>FirstPersonGame</Category>
+				</And>
+				<And>
+				<Category>Game</Category>
+				<Category>PlatformGame</Category>
+				</And>
+			</Include>
+		</Menu>
 		<Menu>
 			<Name>Arcade</Name>
 			<Directory>suse-games-arcade.directory</Directory>
@@ -295,7 +315,7 @@
 			<Include>
 				<And>
 				<Category>Game</Category>
-				<Category>X-SuSESimulation</Category>
+				<Category>X-SuSE-Simulation</Category>
 				</And>
 			</Include>
 		</Menu>
@@ -359,11 +379,7 @@
 			<Name>Viewer</Name>
 			<Directory>suse-graphics-viewer.directory</Directory>
 			<Include>
-				<And>
-				<Category>Graphics</Category>
-<!-- TOCHECK: Viewer -->
 				<Category>Viewer</Category>
-				</And>
 			</Include>
 		</Menu>
 	</Menu>
@@ -638,7 +654,7 @@
 				<Filename>Gnome-gdmflexiserver.desktop</Filename>
 				<Filename>Gnome-gdmsetup.desktop</Filename>
 				<Filename>Gnome-gfloppy.desktop</Filename>
-			<Exclude>
+			</Exclude>
 		</Include>
 		<Menu>
 			<Name>Network</Name>
