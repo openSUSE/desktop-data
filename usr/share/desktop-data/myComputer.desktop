@@ -5,6 +5,7 @@ Name=My Computer
 Name[de]=Arbeits-\nplatz
 Name[fr]=Poste de travail
 Name[hu]=Meghajtók
+Name[cs]=Můj počítač
 Type=Link
 URL=drives:/
 
