@@ -112,16 +112,23 @@
 		</Menu>
 		<Menu>
 			<Name>Art</Name>
-			<Directory>suse-edutainment-art.directory</Directory>
+			<Directory>suse-edu-art.directory</Directory>
 			<Include>
 				<Category>X-SuSE-Edu-Art</Category>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Astronomy</Name>
-			<Directory>suse-edutainment-astronomy.directory</Directory>
+			<Directory>suse-edu-astronomy.directory</Directory>
 			<Include>
 				<Category>Astronomy</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Construction</Name>
+			<Directory>suse-edu-construction.directory</Directory>
+			<Include>
+				<Category>X-SuSE-Construction</Category>
 			</Include>
 		</Menu>
 	</Menu>
