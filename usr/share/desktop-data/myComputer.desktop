@@ -4,6 +4,7 @@ Icon=mycomp
 Name=My Computer
 Name[de]=Arbeits-\nplatz
 Name[fr]=Poste de travail
+Name[hu]=Meghajtók
 Type=Link
 URL=drives:/
 
