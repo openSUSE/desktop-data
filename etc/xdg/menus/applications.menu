@@ -1131,7 +1131,7 @@
                 <MergeFile>yast-settings.menu</MergeFile>
 	</Menu>
         <Move>
-           <Old>YaST</Old><New>Settings/Yast</New>
+           <Old>YaST</Old><New>Settings/YaST</New>
         </Move>
 	<Menu>
 		<DontShowIfEmpty/>
