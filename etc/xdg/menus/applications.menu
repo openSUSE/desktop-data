@@ -552,7 +552,7 @@
 			<Name>NewsReader</Name>
 			<Directory>suse-internet-newsreader.directory</Directory>
 			<Include>
-				<Category>X-SuSE-Newsreader</Category>
+				<Category>X-SuSE-NewsReader</Category>
 			</Include>
 		</Menu>
 		<Menu>
