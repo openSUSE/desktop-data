@@ -28,40 +28,33 @@
 			<Name>GUI Designer</Name>
 			<Directory>suse-development-guidesigner.directory</Directory>
 			<Include>
-				<And>
-				<Category>Development</Category>
 				<Category>GUIDesigner</Category>
-				</And>
+				<Not>
+				<Category>IDE</Category>
+				<Category>X-SuSE-DevelopmentTools</Category>
+				<Category>Debugger</Category>
+				</Not>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>IDE</Name>
 			<Directory>suse-development-ide.directory</Directory>
 			<Include>
-				<And>
-				<Category>Development</Category>
 				<Category>IDE</Category>
-				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Tools</Name>
 			<Directory>suse-development-tools.directory</Directory>
 			<Include>
-				<And>
-				<Category>Development</Category>
 				<Category>X-SuSE-DevelopmentTools</Category>
-				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Debugger</Name>
 			<Directory>suse-development-debugger.directory</Directory>
 			<Include>
-				<And>
-				<Category>Development</Category>
 				<Category>Debugger</Category>
-				</And>
 			</Include>
 		</Menu>
 	</Menu>
@@ -177,156 +170,102 @@
 			<Name>Action</Name>
 			<Directory>suse-games-action.directory</Directory>
 			<Include>
-				<And>
-				<Category>Game</Category>
 				<Category>X-SuSE-Games-Action</Category>
-				</And>
-				<And>
-				<Category>Game</Category>
 				<Category>FirstPersonGame</Category>
-				</And>
-				<And>
-				<Category>Game</Category>
 				<Category>PlatformGame</Category>
-				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Arcade</Name>
 			<Directory>suse-games-arcade.directory</Directory>
 			<Include>
-				<And>
-				<Category>Game</Category>
 				<Category>ArcadeGame</Category>
-				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Board</Name>
 			<Directory>suse-games-board.directory</Directory>
 			<Include>
-				<And>
-				<Category>Game</Category>
 				<Category>BoardGame</Category>
-				</And>
-				<And>
-				<Category>Game</Category>
 				<Category>BlocksGame</Category>
-				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Card</Name>
 			<Directory>suse-games-card.directory</Directory>
 			<Include>
-				<And>
-				<Category>Game</Category>
 				<Category>CardGame</Category>
-				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Kidsgames</Name>
 			<Directory>suse-games-kids.directory</Directory>
 			<Include>
-				<And>
-				<Category>Game</Category>
 				<Category>X-KDE-KidsGame</Category>
-				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>TacticStrategy</Name>
 			<Directory>suse-games-strategy.directory</Directory>
 			<Include>
-				<And>
-				<Category>Game</Category>
 				<Category>StrategyGame</Category>
-				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Amusement</Name>
 			<Directory>suse-games-amusement.directory</Directory>
 			<Include>
-				<And>
-				<Category>Game</Category>
 				<Category>Amusement</Category>
-				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Platform</Name>
 			<Directory>suse-games-platformgame.directory</Directory>
 			<Include>
-				<And>
-				<Category>Game</Category>
 				<Category>PlatformGame</Category>
-				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Puzzle</Name>
 			<Directory>suse-games-puzzle.directory</Directory>
 			<Include>
-				<And>
-				<Category>Game</Category>
 				<Category>PuzzleGame</Category>
-				</And>
-				<And>
-				<Category>Game</Category>
 				<Category>X-SuSE-Game-Logic</Category>
-				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Sport</Name>
 			<Directory>suse-games-sports.directory</Directory>
 			<Include>
-				<And>
-				<Category>Game</Category>
 				<Category>SportsGame</Category>
-				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Adventure</Name>
 			<Directory>suse-games-adventure.directory</Directory>
 			<Include>
-				<And>
-				<Category>Game</Category>
 				<Category>X-SuSE-Adventure</Category>
-				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Role-Playing</Name>
 			<Directory>suse-games-role-playing.directory</Directory>
 			<Include>
-				<And>
-				<Category>Game</Category>
 				<Category>X-SuSE-RolePlaying</Category>
-				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Simulation</Name>
 			<Directory>suse-games-simulation.directory</Directory>
 			<Include>
-				<And>
-				<Category>Game</Category>
 				<Category>X-SuSE-Simulation</Category>
-				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Strategy</Name>
 			<Directory>suse-games-strategygame.directory</Directory>
 			<Include>
-				<And>
-				<Category>Game</Category>
 				<Category>Strategy</Category>
-				</And>
 			</Include>
 		</Menu>
 	</Menu>
@@ -349,30 +288,21 @@
 			<Name>3DGraphics</Name>
 			<Directory>suse-graphics-3dgraphics.directory</Directory>
 			<Include>
-				<And>
-				<Category>Graphics</Category>
 				<Category>3DGraphics</Category>
-				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>RasterGraphics</Name>
 			<Directory>suse-graphics-rastergraphics.directory</Directory>
 			<Include>
-				<And>
-				<Category>Graphics</Category>
 				<Category>RasterGraphics</Category>
-				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>VectorGraphics</Name>
 			<Directory>suse-graphics-vectorgraphics.directory</Directory>
 			<Include>
-				<And>
-				<Category>Graphics</Category>
 				<Category>VectorGraphics</Category>
-				</And>
 			</Include>
 		</Menu>
 		<Menu>
@@ -484,6 +414,7 @@
 				<Category>AudioVideoEditing</Category>
 				<Category>AudioVideoPlayer</Category>
 				<Category>X-SuSE-MidiPlayer</Category>
+				<Category>X-SuSE-TV</Category>
 				<Category>AudioVideoRecorder</Category>
 				<Category>Burning</Category>
 				</Not>
@@ -528,6 +459,13 @@
 			<Include>
 <!-- TOCHECK: Burning -->
 				<Category>Burning</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>TV</Name>
+			<Directory>suse-multimedia-tv.directory</Directory>
+			<Include>
+				<Category>X-SuSE-TV</Category>
 			</Include>
 		</Menu>
 	</Menu>
