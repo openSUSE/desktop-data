@@ -23,17 +23,21 @@
 		<Directory>suse-development.directory</Directory>
 		<Include>
 			<Category>X-SuSE-Core-Development</Category>
+			<And>
+			<Category>Development</Category>
+			<Not>
+			<Category>IDE</Category>
+			<Category>X-SuSE-DevelopmentTools</Category>
+			<Category>Debugger</Category>
+			<Category>X-SuSE-Profiling</Category>
+			</Not>
+			</And>
 		</Include>
 		<Menu>
 			<Name>GUI Designer</Name>
 			<Directory>suse-development-guidesigner.directory</Directory>
 			<Include>
 				<Category>GUIDesigner</Category>
-				<Not>
-				<Category>IDE</Category>
-				<Category>X-SuSE-DevelopmentTools</Category>
-				<Category>Debugger</Category>
-				</Not>
 			</Include>
 		</Menu>
 		<Menu>
@@ -125,6 +129,13 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<Name>School</Name>
+			<Directory>suse-edu-school.directory</Directory>
+			<Include>
+				<Category>X-SuSE-School</Category>
+			</Include>
+		</Menu>
+		<Menu>
 			<Name>Construction</Name>
 			<Directory>suse-edu-construction.directory</Directory>
 			<Include>
@@ -136,9 +147,9 @@
 		<Name>Games</Name>
 		<Directory>suse-games.directory</Directory>
 		<Include>
-			<Category>X-SuSE-Core-Games</Category>
+			<Category>X-SuSE-Core-Game</Category>
 			<And>
-				<Category>Games</Category>
+				<Category>Game</Category>
 				<Not>
 				<Category>ArcadeGame</Category>
 				<Category>BlocksGame</Category>
@@ -402,7 +413,7 @@
 		</Menu>
 		<Menu>
 			<Name>WebBrowser</Name>
-			<Directory>suse-internet-WebBrowser.directory</Directory>
+			<Directory>suse-internet-webbrowser.directory</Directory>
 			<Include>
 <!-- TOCHECK: WebBrowser -->
 				<Category>WebBrowser</Category>
