@@ -930,6 +930,7 @@ gi
 				<Category>X-SuSE-CD</Category>
 				<Category>X-SuSE-Calculator</Category>
 				<Category>X-SuSE-DesktopUtility</Category>
+				<Category>X-SuSE-Editor</Category>
 				<Category>X-SuSE-Filesystem</Category>
 				<Category>X-SuSE-SyncUtility</Category>
 				<Category>X-SuSE-WebUtility</Category>
@@ -955,6 +956,7 @@ gi
 			<Directory>suse-utility-texteditor.directory</Directory>
 			<Include>
 				<Category>TextEditor</Category>
+				<Category>X-SuSE-Editor</Category>
 			</Include>
 		</Menu>
 		<Menu>
