@@ -3,6 +3,7 @@ Encoding=UTF-8
 Name=Presentation
 Name[en]=Presentation
 Name[de]=Präsentation
+Name[ja]=提示
 Icon=window_list
 
 Type=Directory
