@@ -37,6 +37,7 @@
 			<Category>Documentation</Category>
 			<Category>X-SuSE-Building</Category>
 			<Category>X-SuSE-Debugger</Category>
+			<Category>X-SuSE-Design</Category>
 			<Category>X-SuSE-Profiling</Category>
 			<Category>X-SuSE-RevisionControl</Category>
 			<Category>X-SuSE-Translation</Category>
@@ -103,7 +104,10 @@
 			<Name>GUI Designer</Name>
 			<Directory>suse-development-guidesigner.directory</Directory>
 			<Include>
+				<And>
+				<Category>Development</Category>
 				<Category>GUIDesigner</Category>
+				</And>
 			</Include>
 		</Menu>
 		<Menu>
@@ -111,7 +115,10 @@
 			<Name>IDE</Name>
 			<Directory>suse-development-ide.directory</Directory>
 			<Include>
+				<And>
+				<Category>Development</Category>
 				<Category>IDE</Category>
+				</And>
 			</Include>
 		</Menu>
 		<Menu>
@@ -119,7 +126,10 @@
 			<Name>Debugger</Name>
 			<Directory>suse-development-debugger.directory</Directory>
 			<Include>
+				<And>
+				<Category>Development</Category>
 				<Category>X-SuSE-Debugger</Category>
+				</And>
 			</Include>
 		</Menu>
 		<Menu>
@@ -127,7 +137,10 @@
 			<Name>Profiling</Name>
 			<Directory>suse-development-profiling.directory</Directory>
 			<Include>
+				<And>
+				<Category>Development</Category>
 				<Category>X-SuSE-Profiling</Category>
+				</And>
 			</Include>
 		</Menu>
 	</Menu>
