@@ -6,3 +6,4 @@ Icon=hdd_umount
 Type=Directory
 X-SuSE-GeneralDescription=true
 Name[cs]=Zálohování
+Name[hu]=Biztonsági mentés
