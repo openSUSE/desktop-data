@@ -961,6 +961,7 @@ gi
 				<Category>Accessibility</Category>
 				<Category>Settings</Category>
 				<Category>System</Category>
+				<Category>X-SuSE-Archiving</Category>
 				<Category>X-SuSE-CD</Category>
 				<Category>X-SuSE-Calculator</Category>
 				<Category>X-SuSE-DesktopUtility</Category>
@@ -992,6 +993,14 @@ gi
 			<Include>
 				<Category>TextEditor</Category>
 				<Category>X-SuSE-Editor</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<DontShowIfEmpty/>
+			<Name>Archiving</Name>
+			<Directory>suse-utility-archiving.directory</Directory>
+			<Include>
+				<Category>X-SuSE-Archiving</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -1164,17 +1173,6 @@ gi
 				<And>
 				<Category>System</Category>
 				<Category>X-SuSE-Telephone</Category>
-				</And>
-			</Include>
-		</Menu>
-		<Menu>
-			<DontShowIfEmpty/>
-			<Name>Archiving</Name>
-			<Directory>suse-system-archiving.directory</Directory>
-			<Include>
-				<And>
-				<Category>System</Category>
-				<Category>X-SuSE-Archiving</Category>
 				</And>
 			</Include>
 		</Menu>
