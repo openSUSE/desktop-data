@@ -70,6 +70,17 @@
 		<Directory>suse-edutainment.directory</Directory>
 		<Include>
 			<Category>X-SuSE-Core-Edutainment</Category>
+			<And>
+				<Category>Education</Category>
+				<Not>
+				<Category>X-KDE-Edu-Language</Category>
+				<Category>Math</Category>
+				<Category>Science</Category>
+				<Category>X-KDE-Edu-Teaching</Category>
+				<Category>X-SuSE-Edu-Art</Category>
+				<Category>Astronomy</Category>
+				</Not>
+			</And>
 		</Include>
 		<Menu>
 			<Name>Languages</Name>
@@ -88,21 +99,6 @@
 				<And>
 				<Category>Education</Category>
 				<Category>Math</Category>
-				</And>
-			</Include>
-		</Menu>
-		<Menu>
-			<Name>Miscellanous</Name>
-			<Directory>suse-edu-miscellanous.directory</Directory>
-			<Include>
-				<And>
-				<Category>Education</Category>
-				<Not>
-				<Category>X-KDE-Edu-Language</Category>
-				<Category>Math</Category>
-				<Category>Science</Category>
-				<Category>X-KDE-Edu-Teaching</Category>
-				</Not>
 				</And>
 			</Include>
 		</Menu>
@@ -152,6 +148,23 @@
 		<Directory>suse-games.directory</Directory>
 		<Include>
 			<Category>X-SuSE-Core-Games</Category>
+			<And>
+				<Category>Games</Category>
+				<Not>
+				<Category>ArcadeGame</Category>
+				<Category>BoardGame</Category>
+				<Category>CardGame</Category>
+				<Category>X-KDE-KidsGame</Category>
+				<Category>StrategyGame</Category>
+				<Category>3DGame</Category>
+				<Category>Amusement</Category>
+				<Category>X-SuSE-Game-Logic</Category>
+				<Category>PlatformGame</Category>
+				<Category>PuzzleGame</Category>
+				<Category>X-SuSE-Roguelikes</Category>
+				<Category>Strategy</Category>
+				</Not>
+			</And>
 		</Include>
 		<Menu>
 			<Name>Arcade</Name>
@@ -279,6 +292,15 @@
 		<Directory>suse-graphics.directory</Directory>
 		<Include>
 			<Category>X-SuSE-Core-Graphics</Category>
+			<And>
+				<Category>Graphics</Category>
+				<Not>
+				<Category>3DGraphics</Category>
+				<Category>RasterGraphics</Category>
+				<Category>VectorGraphics</Category>
+				<Category>Viewer</Category>
+				</Not>
+			</And>
 		</Include>
 		<Menu>
 			<Name>3DGraphics</Name>
@@ -286,7 +308,6 @@
 			<Include>
 				<And>
 				<Category>Graphics</Category>
-<!-- TOCHECK: 3DGraphics -->
 				<Category>3DGraphics</Category>
 				</And>
 			</Include>
@@ -328,6 +349,20 @@
 		<Directory>suse-internet.directory</Directory>
 		<Include>
 			<Category>X-SuSE-Core-Internet</Category>
+			<And>
+				<Category>Network</Category>
+				<Not>
+				<Category>Email</Category>
+				<Category>X-SuSE-Network-P2P</Category>
+				<Category>X-SuSE-Network-FileTransfer</Category>
+				<Category>HamRadio</Category>
+				<Category>InstantMessaging</Category>
+				<Category>IRCClient</Category>
+				<Category>Newsreader</Category>
+				<Category>RemoteAccess</Category>
+				<Category>WebBrowser</Category>
+				</Not>
+			</And>
 		</Include>
 		<Menu>
 			<Name>E-Mail</Name>
@@ -450,6 +485,19 @@
 		<Directory>suse-office.directory</Directory>
 		<Include>
 			<Category>X-SuSE-Core-Office</Category>
+			<And>
+				<Category>Office</Category>
+				<Not>
+				<Category>Calendar</Category>
+				<Category>Database</Category>
+				<Category>Viewer</Category>
+				<Category>Finance</Category>
+				<Category>Presentation</Category>
+				<Category>ProjectManagement</Category>
+				<Category>Spreadsheet</Category>
+				<Category>Wordprocessor</Category>
+				</Not>
+			</And>
 		</Include>
 		<Menu>
 			<Name>Calendar</Name>
@@ -529,6 +577,21 @@
 		<Directory>suse-system.directory</Directory>
 		<Include>
 			<Category>X-SuSE-Core-System</Category>
+			<And>
+				<Category>System</Category>
+				<Not>
+				<Category>Archiving</Category>
+				<Category>Emulator</Category>
+				<Category>FileManager</Category>
+				<Category>Monitor</Category>
+				<Category>RemoteAccess</Category>
+				<Category>Screensaver</Category>
+				<Category>TerminalEmulator</Category>
+				<Category>SystemSetup</Category>
+				<Category>PackageManager</Category>
+				<Category>Utility</Category>
+				</Not>
+			</And>
 		</Include>
 		<Menu>
 			<Name>Archiving</Name>
@@ -563,13 +626,6 @@
 				<Category>System</Category>
 				<Category>Monitor</Category>
 				</And>
-			</Include>
-		</Menu>
-		<Menu>
-			<Name>RemoteAccess</Name>
-			<Directory>suse-system-remoteaccess.directory</Directory>
-			<Include>
-				<Category>RemoteAccess</Category>
 			</Include>
 		</Menu>
 		<Menu>
