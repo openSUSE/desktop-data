@@ -68,17 +68,19 @@ TtfTable: maxp 32
 !!*'"!=]$'!!`Km!!E9'!"],q!!`K("0Vk&!!<3%
 EndTtf
 LangName: 1033 "" "" "" "Bitstream Vera Sans Mono Bold" "" "Release 1.10" "" "Bitstream Vera is a trademark of Bitstream, Inc." "Bitstream Inc." "" "" "http://www.bitstream.com" "" "Copyright (c) 2003 by Bitstream, Inc.+AA0ACgAA-All Rights Reserved.+AA0ACgAA-Bitstream Vera is a trademark of Bitstream, Inc.+AA0ACgANAAoA-Permission is hereby granted, free of charge, to any person obtaining a copy of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the Font Software, including without limitation the rights to use, copy, merge, publish, distribute, and/or sell copies of the Font Software, and to permit persons to whom the Font Software is furnished to do so, subject to the following conditions:+AA0ACgANAAoA-The above copyright and trademark notices and this permission notice shall be included in all copies of one or more of the Font Software typefaces.+AA0ACgANAAoA-The Font Software may be modified, altered, or added to, and in particular the designs of glyphs or characters in the Fonts may be modified and additional glyphs or characters may be added to the Fonts, only if the fonts are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the w" 
-Encoding: unicode
+Encoding: compacted
+OldEncoding: unicode
 UnicodeInterp: none
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 210 15 15
-BeginChars: 65548 363
+WinInfo: 135 15 15
+BeginChars: 363 363
 StartChar: .notdef
 Encoding: 0 -1 0
+OldEncoding: 0
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 26
 5R[e0!!^.<#R+Z="9:*neEemi&Cg'rlnAD>
 EndTtf
@@ -96,14 +98,16 @@ Fore
 EndSplineSet
 EndChar
 StartChar: space
-Encoding: 32 32 3
+Encoding: 1 32 3
+OldEncoding: 32
 Width: 1233
-Flags: W
+Flags: HW
 EndChar
 StartChar: exclam
-Encoding: 33 33 4
+Encoding: 2 33 4
+OldEncoding: 33
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 29
 5Rdqu"CqQ>#6b,/"98c?e3*(Q3B8eo0BCp40E;(Q
 EndTtf
@@ -123,9 +127,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: quotedbl
-Encoding: 34 34 5
+Encoding: 3 34 5
+OldEncoding: 34
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 26
 5RR_r"9;s<!!3?-#S>M0eBBWI&G/*/1,&\.
 EndTtf
@@ -143,9 +148,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: numbersign
-Encoding: 35 35 6
+Encoding: 4 35 6
+OldEncoding: 35
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 74
 5VO/o#A4,=)$L$^'a\Ld%grsY+!)FB)]BP0()%;m&.]6[$jm:H"U"o/!<=#B'Hdt:bSN8o!&$Ia
 4?WO(4OcJU`%p[71,&\.
@@ -188,9 +194,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: dollar
-Encoding: 36 36 7
+Encoding: 5 36 7
+OldEncoding: 36
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 80
 5Uug>(b#S%,pXlEBHJ90',L[_+W_+H&0qB0!rr]B)ZqK2%Kc\P(CpTQ0G)_M4NnTsr5?ejr6E58
 !&$IQ`\Qs;f#A9@mP<A5&JmG]
@@ -238,13 +245,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: percent
-Encoding: 37 37 8
+Encoding: 6 37 8
+OldEncoding: 37
 Width: 1233
-Flags: W
-TtfInstrs: 86
-5V3ol-m'<8)A3?)CEF1)#n1SOC*,'D,oIUU+r_@0!%S0l0a&[8"9oA>+ojG2eAU_/lk&UAmL^'l
-3=ula3ACLem`tOohX1sC&J@)93=ula3A:F5
-EndTtf
+Flags: HW
 Fore
 33 1112 m 0,0,1
  33 1246 33 1246 126 1339 c 128,-1,2
@@ -290,9 +294,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: ampersand
-Encoding: 38 38 9
+Encoding: 7 38 9
+OldEncoding: 38
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 169
 5["3i!WrEO-n6Vo-nQtO/h7n^*&9<,2)[At0fU0o*$mQp-m]l;,60GI#ok0'0lS?>'6"S&(2se%
 "*,h=,TnTi)'^.E*"iQ1!&tT/!=U)"&gR`8!=T/m&DY4jr5?Ot&FL,j3>"7`3>+>4&J@)9&ihZH
@@ -344,9 +349,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: quotesingle
-Encoding: 39 39 10
+Encoding: 8 39 10
+OldEncoding: 39
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 17
 [K-A="98K+&CeoY!"eeH0E;(Q
 EndTtf
@@ -359,9 +365,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: parenleft
-Encoding: 40 40 11
+Encoding: 9 40 11
+OldEncoding: 40
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 30
 5Rn!@!-A\[#64i,"onu?&CeWRlk)6<0`Vd_lnAD>
 EndTtf
@@ -380,9 +387,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: parenright
-Encoding: 41 41 12
+Encoding: 10 41 12
+OldEncoding: 41
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 30
 5Rn$A!-A\U!=K/5"9Al?&CgWr1(cN,0`Vd_lnAD>
 EndTtf
@@ -401,9 +409,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: asterisk
-Encoding: 42 42 13
+Encoding: 11 42 13
+OldEncoding: 42
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 74
 5U[0Q$NL;<#mUS7":,)5&I]!I%W2mb$jm(C"q^q<!s/H5":GMF"qhKs4N'#14N&uk3=ul?3ACLF
 o[H"A1;q*d(HE*E3A:F5
@@ -431,9 +440,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: plus
-Encoding: 43 43 14
+Encoding: 12 43 14
+OldEncoding: 43
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 35
 5S*o%!HnVO!t556!!ro<"q2'm4N..[`%_6'e3(\I4N&oR
 EndTtf
@@ -454,9 +464,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: comma
-Encoding: 44 44 15
+Encoding: 13 44 15
+OldEncoding: 44
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 23
 5RISnG6S-P!=Af2&Cg(%`%_6'r6-hp
 EndTtf
@@ -471,9 +482,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: hyphen
-Encoding: 45 45 16
+Encoding: 14 45 16
+OldEncoding: 45
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 16
 [/^72!<<66eBBWI&CeoX
 EndTtf
@@ -486,9 +498,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: period
-Encoding: 46 46 17
+Encoding: 15 46 17
+OldEncoding: 46
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 16
 [K(LQ!=Af0&Cg&$!&*[m
 EndTtf
@@ -501,9 +514,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: slash
-Encoding: 47 47 18
+Encoding: 16 47 18
+OldEncoding: 47
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 22
 5R@JlA-;o5!WrQ:eATkT0`VdWbV0"s
 EndTtf
@@ -516,9 +530,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: zero
-Encoding: 48 48 19
+Encoding: 17 48 19
+OldEncoding: 48
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 292
 5SsS0&pPQ.GT1NDE[2A1*X2Tc%1`sd$mZD^m-N6G&FM7Q&ENKM&FS&n0L51^!&"@+!\XX/">9p3
 "tp37#VQK;$82cO!'^KK!^?cO"@!&S#!W>W#X8V[$9nno!)EVg!_WVg"A9"n#tkV$$WI1,"&oD"
@@ -557,9 +572,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: one
-Encoding: 49 49 20
+Encoding: 18 49 20
+OldEncoding: 49
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 36
 5S=0D"9NfOA-W*Z#m^_F!rr?0&CeY:r5:;i0C1Idm*tAU
 EndTtf
@@ -579,9 +595,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: two
-Encoding: 50 50 21
+Encoding: 19 50 21
+OldEncoding: 50
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 91
 5VE*@";i!p)]T"t*<cTL,m=_\"9JQ7H4bE3GSG#qGQJ$N!"]J=!=B>R%1iUM*YA7fr9V57&J@):
 3ACLem.BZ:lk'jj&J@)X92ept&-^/f(HD^(a]Tef
@@ -612,13 +629,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: three
-Encoding: 51 51 22
+Encoding: 20 51 22
+OldEncoding: 51
 Width: 1233
-Flags: W
-TtfInstrs: 71
-5UdHKDuq/.+*f)M*"7-&GmSF$DB*Zu.2E3l!!E<,&JHK')%?uT*t0S0r5?POm*tA6(HF2M&B*Z%
-m.BWUme6&[mPus$
-EndTtf
+Flags: HW
 Fore
 549 668 m 2,0,-1
  391 668 l 1,1,-1
@@ -653,9 +667,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: four
-Encoding: 52 52 23
+Encoding: 21 52 23
+OldEncoding: 52
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 66
 5T^"9!t>54!t?OV!t,?Y"T\^9#ltGA!"K8;"q:tL%M8R9e3*(Q&NMQG0BCVFlnT260M>>H#7q$[
 #7q'\=X!hG
@@ -680,9 +695,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: five
-Encoding: 53 53 24
+Encoding: 22 53 24
+OldEncoding: 53
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 60
 5Tp78*?'/-&UG"6'R1&gGQ;7`EX*Wf!<<-:&IJsI&.BTkr5AO"`";>k!"d*0o^!.Wp?iLk`"G'a
 
@@ -714,12 +730,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: six
-Encoding: 54 54 25
+Encoding: 23 54 25
+OldEncoding: 54
 Width: 1233
-Flags: W
-TtfInstrs: 53
-5TUR=HPQg4*"@3&Gn><HDB*[C$jdL`%20<U&0D<,&H(n]r9V?V!"e5`m.BWUmaged0E;(Q
-EndTtf
+Flags: HW
 Fore
 643 748 m 0,0,1
  547 748 547 748 496.5 678.5 c 128,-1,2
@@ -751,9 +765,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: seven
-Encoding: 55 55 26
+Encoding: 24 55 26
+OldEncoding: 55
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 53
 5T'_<!WrK+&d/@@,mAMnA-2u;!<`E4!"9)Dr9V?63B8eo0D+Tb92ept&-_G+&-_H(+ohTC
 EndTtf
@@ -769,13 +784,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: eight
-Encoding: 56 56 27
+Encoding: 25 56 27
+OldEncoding: 56
 Width: 1233
-Flags: W
-TtfInstrs: 68
-5U@6U!.-'tHQFbc&oJb2-SQAP#n-n]'+ZQ+'aYNm%0I7S+Ug%9r5@t"m*tA5mL_Gk&ihZH&B*Z%
-lk&RrmQ!9]
-EndTtf
+Flags: HW
 Fore
 616 666 m 0,0,1
  517 666 517 666 456 603.5 c 128,-1,2
@@ -815,12 +827,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: nine
-Encoding: 57 57 28
+Encoding: 26 57 28
+OldEncoding: 57
 Width: 1233
-Flags: W
-TtfInstrs: 55
-5T^4KHO9e"!-n]o(().1&8i8(,mP#%&/,KQ+qY7m,nU"@`;Jug0`VdGo^'L-me6&[mPus$
-EndTtf
+Flags: HW
 Fore
 203 20 m 1,0,-1
  203 289 l 1,1,2
@@ -852,9 +862,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: colon
-Encoding: 58 58 29
+Encoding: 27 58 29
+OldEncoding: 58
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 26
 5R[^<!!IKM"T\r5!!j.c4R=gX!&*]glnAD>
 EndTtf
@@ -872,9 +883,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: semicolon
-Encoding: 59 59 30
+Encoding: 28 59 30
+OldEncoding: 59
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 34
 5S+3F"p4jL"ptG8#6>/9!"':e4R=iY`%_6'`;IgjmP"V@
 EndTtf
@@ -894,9 +906,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: less
-Encoding: 60 60 31
+Encoding: 29 60 31
+OldEncoding: 60
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 31
 5S+)%!W`9)!sSu2!WWr<'F,3IlnURU!"dZ((HF/L
 EndTtf
@@ -912,9 +925,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: equal
-Encoding: 61 61 32
+Encoding: 30 61 32
+OldEncoding: 61
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 29
 5Rmp?"p/rJ#R(5D"99,A&H"ZW1,/b?eEk]O0E;(Q
 EndTtf
@@ -932,9 +946,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: greater
-Encoding: 62 62 33
+Encoding: 31 62 33
+OldEncoding: 62
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 31
 5S+,'!s/H+"9A`3!Ykh<'F,3I4R>'_!"dZ((HF/L
 EndTtf
@@ -950,9 +965,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: question
-Encoding: 63 63 34
+Encoding: 32 63 34
+OldEncoding: 63
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 113
 5WB,P$jn$r#QY/:*Zc=J,T[6r":?._"99*I'G+poD?'_Y)@ZuR!$3%%%13+9%2Kiq"9AN,!$r3+
 4R=iQeEdb[3>"7a3=ula&J@)Y!&)Rgm*tA5`=Y*j(HF0B;cj89%`o;!3<p&9&JmH1+ohTC
@@ -991,13 +1007,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: at
-Encoding: 64 64 35
+Encoding: 33 64 35
+OldEncoding: 64
 Width: 1233
-Flags: W
-TtfInstrs: 93
-5VXZ;,T7I$%L`X_1]r+A$%*-nI4$:f.i3UTHn-p/-R]B'"r@sR(E*`!$ksj$$naCKeAV:'&FM=A
-&FL,C3B8eo&CeYrlk'07rP\+8mQ!9>&igO:3=ula0E;(Q
-EndTtf
+Flags: HW
 Fore
 973 545 m 0,0,1
  973 658 973 658 922 722 c 128,-1,2
@@ -1041,9 +1054,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: A
-Encoding: 65 65 36
+Encoding: 34 65 36
+OldEncoding: 65
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 188
 5W\rH!!EH.!X/]3"U##5"U"i5!t##0!!<<1#m1M?$3LV]!!<I>!Ib,]#mCV@#6k;5!W`9-"WIdc
 $P;ss(HF2M00J=nlk2<492ept&-^/\"j$u\#g!;_"j$u\"j$uQaTi!k#7q0_=X!l>YR+9%YR4?6
@@ -1067,13 +1081,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: B
-Encoding: 66 66 37
+Encoding: 35 66 37
+OldEncoding: 66
 Width: 1233
-Flags: W
-TtfInstrs: 62
-5U73IBF5&Z&nD#V$@j39"WnBi$O?e<!"KMT"V2Ro#lkJK*?c!lln\M*eEdb`3>"8+!&*F"o^!.W
-3A:F5
-EndTtf
+Flags: HW
 Fore
 410 678 m 1,0,-1
  410 236 l 1,1,-1
@@ -1106,9 +1117,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: C
-Encoding: 67 67 38
+Encoding: 36 67 38
+OldEncoding: 67
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 46
 5T1Mk!,iWl!tBeiD\-joD?Fnt'-Rba*sN]'&H(lMlnJJOjRhg2lk&UYmP"V@
 EndTtf
@@ -1135,9 +1147,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: D
-Encoding: 68 68 39
+Encoding: 37 68 39
+OldEncoding: 68
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 40
 5SX9<$"O'U&-r=K$315Q%3>K[#pKunr9X@J&NMj33ACLem.BWu
 EndTtf
@@ -1161,9 +1174,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: E
-Encoding: 69 69 40
+Encoding: 38 69 40
+OldEncoding: 69
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 42
 5Sj]F"pAlHA.!8[J,fg!!rsDL"V1VR$kW@'1Aj8q0`Wlfm.BWUmP"V@
 EndTtf
@@ -1184,9 +1198,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: F
-Encoding: 70 70 41
+Encoding: 39 70 41
+OldEncoding: 70
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 37
 5SO??!W[0FA-.8c"![df"T],=*"!8Tln\M"0`Wlfo^!.W0E;(Q
 EndTtf
@@ -1205,9 +1220,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: G
-Encoding: 71 71 42
+Encoding: 40 71 42
+OldEncoding: 71
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 83
 5Tp+."WI^JE!%%u#SM\#D\[4$D?t8(!WXMY"<JC'$QU9"r9X@"r5:;i&ENKMo^!.geF!n]3>"8*
 5S>.?*s7Q*NroLq!=o5B!tPM;>le42
@@ -1239,9 +1255,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: H
-Encoding: 72 72 43
+Encoding: 41 72 43
+OldEncoding: 72
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 38
 5SOKC!e:CRA-rMG!tPPW#ltP:+q,%\ln\M*1,/b^4QJ9ilnAD>
 EndTtf
@@ -1262,9 +1279,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: I
-Encoding: 73 73 44
+Encoding: 42 73 44
+OldEncoding: 73
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 35
 5S4(uDujJU"`O\N!X'#>!"',GeAO-?`%j%I0C1IdlnU6p
 EndTtf
@@ -1285,9 +1303,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: J
-Encoding: 74 74 45
+Encoding: 43 74 45
+OldEncoding: 74
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 46
 5T't8#Q]JVDZk"i#]L,]%rr9h#7h1a!#uU_r;?K20`VdGo^!.Wp?iMQ3A:F5
 EndTtf
@@ -1310,9 +1329,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: K
-Encoding: 75 75 46
+Encoding: 44 75 46
+OldEncoding: 75
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 97
 5ViZP#R(D9#6kA9#m157#7(D5"U5,3!s/T-!s0bS"Tec.!+ZE@#R:M9"9nl5!=o/N$kW@'1(_5;
 3ACLe4QJ763A=*)=9fB@aTi@_aTi*n#6`-R&-^/\&.$B\+ohTC
@@ -1334,9 +1354,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: L
-Encoding: 76 76 47
+Encoding: 45 76 47
+OldEncoding: 76
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 24
 5R[a6!Fu03%g3gO*!QuPm-HG,0BDIR
 EndTtf
@@ -1351,9 +1372,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: M
-Encoding: 77 77 48
+Encoding: 46 77 48
+OldEncoding: 77
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 179
 5V*0B!s/]0!s/f1!W`T/!WaSS#6Fu-#Qk';$O$hB!s/K,$3hdZ*XX1n*"<JWm/62^(HF2M00J;N
 `"<eG0M>>H#7q'\#7q$[#7q$[#7q'\=X(/4#lt'45Z/*u%ga0V*s*km4T[hR57*)HJ-)nZY6r#L
@@ -1377,9 +1399,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: N
-Encoding: 78 78 49
+Encoding: 47 78 49
+OldEncoding: 78
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 83
 5TC"0!W`?,#6lIZ!WrF5#R(D5#6H4T*sX+m*=<AUm/62^3B8eo00J;N3B8cd;cj89"N^l["Nadj
 ZA/G]!F7r!&-;k="r./o!Jq!`>l\.1
@@ -1399,9 +1422,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: O
-Encoding: 79 79 50
+Encoding: 48 79 50
+OldEncoding: 79
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 35
 5SF?@'``1`DA@1/#pBp&"!J(#(_HW3r9Q-<&ENKM&FM4P
 EndTtf
@@ -1427,12 +1451,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: P
-Encoding: 80 80 51
+Encoding: 49 80 51
+OldEncoding: 80
 Width: 1233
-Flags: W
-TtfInstrs: 44
-5SjH?&--YUA.f.L&./C@+UoM*!"TAU'G13/1ApJN3B9)[0`Wm!m*tAU
-EndTtf
+Flags: HW
 Fore
 457 1245 m 1,0,-1
  457 807 l 1,1,-1
@@ -1455,9 +1477,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: Q
-Encoding: 81 81 52
+Encoding: 50 81 52
+OldEncoding: 81
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 60
 5Tg%J&.oEi&K#Hh&o\.p"!/$c%g*4?'cS;)*Yfh&-QWism/62^3>!&f0`Vd'o^!.W`=b0D3>+>+
 
@@ -1489,13 +1512,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: R
-Encoding: 82 82 53
+Encoding: 51 82 53
+OldEncoding: 82
 Width: 1233
-Flags: W
-TtfInstrs: 102
-5W/rU#R:J?"p4u1"U"r1,mFJP('=[TE!d>!%V,tN!!NH,&fhbq"p>GT$Nq@k&g%hr%h0^(&H(lM
-r9V?6&igag&JmG^!&$J,m*tA73>+=b3A=*)=9fB@aTi@\aUo=L=X!hG
-EndTtf
+Flags: HW
 Fore
 807 705 m 1,0,1
  851 696 851 696 883.5 663.5 c 128,-1,2
@@ -1525,9 +1545,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: S
-Encoding: 83 83 54
+Encoding: 52 83 54
+OldEncoding: 83
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 112
 5X#qu!Z)Ou!%/6e&.oNY%2/^A-RBE?-NF8V*e>>M+`J>,JI-6(E!C1uE[W:K'EBBi#q.&7(EX2(
 *<RK6&H'K5r9WJV&ihs43ACLFjRhg2lk&UYmL^6q0M>>H#7qBe&JmG4&.Zeo(HGVB
@@ -1565,9 +1586,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: T
-Encoding: 84 84 55
+Encoding: 53 84 55
+OldEncoding: 84
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 26
 5R[huE!0\O"TT&8!=07d`;IP.!&+!21,&\.
 EndTtf
@@ -1584,12 +1606,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: U
-Encoding: 85 85 56
+Encoding: 54 85 56
+OldEncoding: 85
 Width: 1233
-Flags: W
-TtfInstrs: 42
-5SaY.$ig;4E"?sr!FufL%gsH\%fdU_&H(nmlnJJOj>-Ao&NMj33A:F5
-EndTtf
+Flags: HW
 Fore
 106 551 m 2,0,-1
  106 1493 l 1,1,-1
@@ -1609,9 +1629,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: V
-Encoding: 86 86 57
+Encoding: 55 86 57
+OldEncoding: 86
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 115
 5U?F4!s/H,!!<<)!!*'&"U##5"U$+O"T`-9"p>#/!!NEC"W.IUo^!AS0`Wlf1-%$];cj89"j$u\
 #g!;_#g!;_"j'mk!DBX'<*6g6#QMR>!<<?)#67"K&N;[P5Rmbo!!!'-!=Ao4"9\o3>l\.1
@@ -1628,9 +1649,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: W
-Encoding: 87 87 58
+Encoding: 56 87 58
+OldEncoding: 87
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 181
 5X5JW"UPMB":>G;$4@1B!<NW:$3g_@#6b56#RCY:!s/l2$ip>:,mjeW!seu5!+ZHC$k!CK#R1G8
 !s/K2#66F$(HF2M00Jkh`"<eG0M>>H#6i3S&.$A_&.$A_&-^/\&.$A_&-^/\"j$u\#g$3nZA/Sa
@@ -1655,9 +1677,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: X
-Encoding: 88 88 59
+Encoding: 57 88 59
+OldEncoding: 88
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 170
 5XPVV"U"l-!X/`1!WrK3!"/f-!"0)?$OR.E#R_"I#RLb?"pG59"pH:Y"Tec4#%Rf9$OI(D"Tnf,
 #R1V9)[6E^$kW'Lr590`3ACLe4QJ763A=*)=9fB@aTi@_aTi@_aTi@\aTi@\aTi@_aTi@_aTi@\
@@ -1680,9 +1703,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: Y
-Encoding: 89 89 60
+Encoding: 58 89 60
+OldEncoding: 89
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 83
 5UZ^;"U"l-!X/`1!WrK0!!iT*!!jkP!ruj9!XAf2"9A`-"9f;9#71sk`;IOc&igO:3>"8+!&*Cg
 3A=*)=9fB@aTi@_aTi@_aTi@\a]Tef
@@ -1701,9 +1725,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: Z
-Encoding: 90 90 61
+Encoding: 59 90 61
+OldEncoding: 90
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 56
 5T0_0#R:V:!s0bSDuaDNE!6LL!!*3D!!XGN&H'KE`">!i0`Wlno^"8);cj89"j$u\"j'mk
 EndTtf
@@ -1722,9 +1747,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: bracketleft
-Encoding: 91 91 62
+Encoding: 60 91 62
+OldEncoding: 91
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 36
 5S=3O#'C!!!-AJN"Te],!s&B-&Cg%X^qdb$0`Vd_m/63(
 EndTtf
@@ -1741,9 +1767,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: backslash
-Encoding: 92 92 63
+Encoding: 61 92 63
+OldEncoding: 92
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 22
 5R@GkA-;r6!<WH9eBBp50`VdWbV0"s
 EndTtf
@@ -1756,9 +1783,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: bracketright
-Encoding: 93 93 64
+Encoding: 62 93 64
+OldEncoding: 93
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 32
 5S+$L!HeQt!-AJN!XJc,":,Rglk2<=0`Vd_m/63(
 EndTtf
@@ -1775,9 +1803,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: asciicircum
-Encoding: 94 94 65
+Encoding: 63 94 65
+OldEncoding: 94
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 24
 5RISr!<?X8!s&Q1&Ceoa0`VdWbVD14
 EndTtf
@@ -1793,9 +1822,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: underscore
-Encoding: 95 95 66
+Encoding: 64 95 66
+OldEncoding: 95
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 15
 [/bdZ"98KVbV9)/eEejh
 EndTtf
@@ -1808,9 +1838,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: grave
-Encoding: 96 96 67
+Encoding: 65 96 67
+OldEncoding: 96
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 46
 [K-A\"9AT-&CeoY!"eeH0E=bM#ujR%%THY7]`838^]4B8"98Q)5WB?73*?4]
 EndTtf
@@ -1823,9 +1854,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: a
-Encoding: 97 97 68
+Encoding: 66 97 68
+OldEncoding: 97
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 133
 5VEEJ!#Zjp%L`OL!,!)PB+Z5!+Gq.O,Dd"Q(PN7t,9.L%!uMIR((2`:!u;S"-4p+Abl$f_1(b<_
 3ACLejQ,t"o^!.W&FMOj&igO:3=ula0L.3H*\\Zi+>b6a!cf#r(5MsH!Jh)6'nI-n!2'@c$(qX&
@@ -1865,12 +1897,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: b
-Encoding: 98 98 69
+Encoding: 67 98 69
+OldEncoding: 98
 Width: 1233
-Flags: W
-TtfInstrs: 54
-5TL7D!uMm^")&2OBGGOuM&UOS!#?2&(^pTa)DE0Cr9Q0or9Q-<0C7cllk&Rs&igO:3A:F5
-EndTtf
+Flags: HW
 Fore
 850 557 m 0,0,1
  850 719 850 719 796 811 c 128,-1,2
@@ -1898,12 +1928,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: c
-Encoding: 99 99 70
+Encoding: 68 99 70
+OldEncoding: 99
 Width: 1233
-Flags: W
-TtfInstrs: 46
-5T1Mu!-o>n!tC.sGn=WqM$%c:',CuV2[2,X&H(lMlnJJOjRhg2lk&UYmP"V@
-EndTtf
+Flags: HW
 Fore
 1061 57 m 1,0,1
  987 14 987 14 902 -7.5 c 128,-1,2
@@ -1927,12 +1955,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: d
-Encoding: 100 100 71
+Encoding: 69 100 71
+OldEncoding: 100
 Width: 1233
-Flags: W
-TtfInstrs: 54
-5TKhC%L!OK)JBTpBF&VgM#h]#(Ba^R!\t?'$Rm)-r9X@J1,:Qa0C7cllk&Rs&igO:3A:F5
-EndTtf
+Flags: HW
 Fore
 791 961 m 1,0,-1
  791 1556 l 1,1,-1
@@ -1960,9 +1986,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: e
-Encoding: 101 101 72
+Encoding: 70 101 72
+OldEncoding: 101
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 76
 5U-[P%2=^#'ore9BE3;[%?;9=$&Jb)*#04h$n`#*)\rW,*"`&7m/4fg0`VdGo^(oUk3`fK&FL,C
 3A<]+cOA,/cOS89cPm$n
@@ -1993,9 +2020,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: f
-Encoding: 102 102 73
+Encoding: 71 102 73
+OldEncoding: 102
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 52
 5T0V1&-i;u!>(;%F9qu0"VD4T!X&K=#RUbM&C`h\r&hnQ3B8eo0B=ndlk&S?&ihs+
 EndTtf
@@ -2022,9 +2050,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: g
-Encoding: 103 103 74
+Encoding: 72 103 74
+OldEncoding: 103
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 73
 5U[Ng$loX$-NaZg*>=>DGnt'(")&p9-]ek$*@W<Q!#>tu&dB*o.4Gi+m)8hg1,:Qa&B*Yjo^!.W
 p?iL[&J@)9&ihs40E;(Q
@@ -2064,9 +2093,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: h
-Encoding: 104 104 75
+Encoding: 73 104 75
+OldEncoding: 104
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 46
 5SstC#m1/.#&"U*%!2gW!Ytbp%1*dX2&$W"ln\M*0`Wjhm.BWV3B9)33A:F5
 EndTtf
@@ -2091,9 +2121,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: i
-Encoding: 105 105 76
+Encoding: 74 105 76
+OldEncoding: 105
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 66
 5SX\7#`etI"p0hmEs)RQ!>Yh=$3q%Pe3([fr&hnP!&*^*1A'oEc7f8lYR+92]`8QB^]4B8%KHt=
 5WB?73*?4]
@@ -2118,9 +2149,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: j
-Encoding: 106 106 77
+Encoding: 75 106 77
+OldEncoding: 106
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 79
 5TC(1$3^nN"ci`mNsq*POUuRH"p559%KI7T#ndg!4R=iA`&Th4!"eMXo^!.W&C(k#3B8bo9<\_%
 =M4\Is1eU8!"o8E!'iLU2`Oq?
@@ -2147,9 +2179,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: k
-Encoding: 107 107 78
+Encoding: 76 107 78
+OldEncoding: 107
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 64
 5TpC>#R(D9#6k>X#R(83"-<M)$3gb>"9Si7!>Ykl!&Y/rr9Wc*&JmG^!&$J$j;0g192ept"j$u\
 #g$3n
@@ -2171,9 +2204,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: l
-Encoding: 108 108 79
+Encoding: 77 108 79
+OldEncoding: 108
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 37
 5S=5##Q]tgF9mp7#R^qA('4IG&CeYr`&Th4!&*^:lk)6<0E;(Q
 EndTtf
@@ -2194,14 +2228,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: m
-Encoding: 109 109 80
+Encoding: 78 109 80
+OldEncoding: 109
 Width: 1233
-Flags: W
-TtfInstrs: 159
-5URB]%g`@D!$*!_#8IY\+9RH>O;ST7!"f_](ciQu%gY3#4V'Rc,7rAkr9P!om`lCW3ACLe4?Vd"
-4ROs:3>"83&JmG]!DBX(<(jG'<*NJ<!$hNZ!!*'E!$_J/3"\)/=[4ng"<[jj"s=-n#TsEr$6T^0
-'e^=U(G?UY)(us_*A8He+$U#q#sSb]$U5%a&O-mm'0d0q'cUEY
-EndTtf
+Flags: HW
 Fore
 690 1008 m 1,0,1
  723 1079 723 1079 774 1113 c 128,-1,2
@@ -2234,9 +2264,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: n
-Encoding: 110 110 81
+Encoding: 79 110 81
+OldEncoding: 110
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 48
 5T'k1!=fM<!=!3LM%#IQ!<O#:2[p'/$T/V0r9Q3:lnJJn4QQ/$&NLF`&NMj*
 EndTtf
@@ -2261,12 +2292,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: o
-Encoding: 111 111 82
+Encoding: 80 111 82
+OldEncoding: 111
 Width: 1233
-Flags: W
-TtfInstrs: 35
-5SF?8'`_nXM%t%J#o4.+!u;:o(_HW3r9Q-<&ENKM&FM4P
-EndTtf
+Flags: HW
 Fore
 616 909 m 0,0,1
  511 909 511 909 451 816.5 c 128,-1,2
@@ -2289,12 +2318,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: p
-Encoding: 112 112 83
+Encoding: 81 112 83
+OldEncoding: 112
 Width: 1233
-Flags: W
-TtfInstrs: 57
-5T]tE%L!OK)JBTpBF'G)EWM:)O<"oK$SiM$!#>Vi*>&/81,Ado0`VdGjQ,t"&FL,C3=ula0E;(Q
-EndTtf
+Flags: HW
 Fore
 442 158 m 1,0,-1
  442 -426 l 1,1,-1
@@ -2322,12 +2349,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: q
-Encoding: 113 113 84
+Encoding: 82 113 84
+OldEncoding: 113
 Width: 1233
-Flags: W
-TtfInstrs: 53
-5TL[Z#n-oL%gcnaM%=VGOVs6$(^pTa)DV:.&h+h4r9X@J1,:Qa&EMp5o^!.W3=ula0E;(Q
-EndTtf
+Flags: HW
 Fore
 383 561 m 0,0,1
  383 399 383 399 437 307 c 128,-1,2
@@ -2355,9 +2380,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: r
-Encoding: 114 114 85
+Encoding: 83 114 85
+OldEncoding: 114
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 41
 5SO\B!so;7'E`"\M%#IQ%1*dM$Pa6&`9]66!&*F*m*rrc3=ula0E;(Q
 EndTtf
@@ -2382,9 +2408,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: s
-Encoding: 115 115 86
+Encoding: 84 115 86
+OldEncoding: 115
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 165
 5WoPb!Y,S[*XE&R#7;Lo*[M+"":>MX*s;TZM\LFRBFt9'!-n]\-&E4S-lr[&*ubFb4rY7I2[:*4
 +uLb[r5@t"m,S`k3B9)[0`VdGo^)5:&FT8[&JmG>&ihX=;cj89%`o;!3<p&9&JmH1,-iU?!<?Cj
@@ -2423,9 +2450,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: t
-Encoding: 116 116 87
+Encoding: 85 116 87
+OldEncoding: 116
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 78
 5SsY7#S.#u!"f6n#`f;u$OHk;!#?+Y%MTK(4N..[`%j>50`WlnoK:(Y1(cN,0EFhN$WKd'$rgG5
 ]`8cH^]4B8'EAgI5WB?73*?4]
@@ -2453,12 +2481,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: u
-Encoding: 117 117 88
+Encoding: 86 117 88
+OldEncoding: 117
 Width: 1233
-Flags: W
-TtfInstrs: 48
-5T'k1!=fM<!=!3LEXDi/$k3LY$TA,&!&YH%r9X@J1,/b^j>-Ao&NLF`&NMj*
-EndTtf
+Flags: HW
 Fore
 160 391 m 2,0,-1
  160 1120 l 1,1,-1
@@ -2480,9 +2506,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: v
-Encoding: 118 118 89
+Encoding: 87 118 89
+OldEncoding: 118
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 105
 5U?U7!<<9+"T\W("U5,3!s/T-!s0bP!s"D`"pG,2!<iHX""sljr9P4[0`Wlf1-%$];cj89"j$u\
 #g!;_#g!;_"j'mkZ<.;3!F7r+!sM[.!X\o2!s8Z7#$M","'#J,"peK7>lXj)
@@ -2499,9 +2526,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: w
-Encoding: 119 119 90
+Encoding: 88 119 90
+OldEncoding: 119
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 191
 5X5JW"UPMB":>G;$4@1B!<NW:$3g_@#6b56#RCY:!s/l2$ip>:,mjeW!seu5!0@Qo$k!CK#R1G8
 !s/K2#66F$(HF2M00Jkh`"<eG0M>>H#6i3S&.$A_&.$A_&-^/\&.$A_&-^/\"j$u\#g$3nZ=jOF
@@ -2526,9 +2554,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: x
-Encoding: 120 120 91
+Encoding: 89 120 91
+OldEncoding: 120
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 151
 5XGVY#6k;5":#/9"9eo/!W`B)!W`Z/!<<H5$3:/-$4@1G#R:YA#R;X_#6Y&1#QTqi!Xf>A#6Y&3
 #QOo\#R2pj&H'KE`"<eG0`Wjhj>%N30M>>H#7q'\#7q0_#7q0_#7q'\#7q'\#7q0_#7q0_#7q'\
@@ -2551,9 +2580,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: y
-Encoding: 121 121 92
+Encoding: 90 121 92
+OldEncoding: 121
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 119
 5X>_b$31S@#7(D8#ljr9%M&OM%1E[G!"TMK%13IM$k!FM,n14g&-*(ANrtLS$]ko0%1ERM"p4i2
 %g3Ct$SN&&r9V?6(HF2M&EGV=lk)5i3>+>+92ept&-^/\&.$A_&.$A_&-^/\&-^/f(HD^+a]Tef
@@ -2577,9 +2607,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: z
-Encoding: 122 122 93
+Encoding: 91 122 93
+OldEncoding: 122
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 56
 5T0_0#R:V:!s0bSNrY7DNs,dk!!E<\!!Y(`&H'K51(cN,0`Wlno^"8);cj89"j$u\"j'mk
 EndTtf
@@ -2598,9 +2629,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: braceleft
-Encoding: 123 123 94
+Encoding: 92 123 94
+OldEncoding: 123
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 94
 5VO&d'ak3l#oX?i*=E#n+Th]PJdDF/!>U1m'6GN@)%6fY"XFis!YbVW)$('T"XO`04N..[`%j>5
 3B7Za3B7^40`Vd_`9c"?&FL/I3>+=a3B7Za3=ula3A:F5
@@ -2639,9 +2671,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: bar
-Encoding: 124 124 95
+Encoding: 93 124 95
+OldEncoding: 124
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 17
 [K-AM"98K+&CeoY!"f(P0E;(Q
 EndTtf
@@ -2654,9 +2687,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: braceright
-Encoding: 125 125 96
+Encoding: 94 125 96
+OldEncoding: 125
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 96
 5VX?,)\rhm#TF-d)%QiR+9MT]Jf=]A,7fAF&Tf<=)&`bq%fmmf"99>^'`ejG$Nqaee3(Z)r&hn0
 &ihs43>"7a3B8eo&H'K5eEdb7&f3P?&ihra3>"83&J@)X
@@ -2695,9 +2729,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: asciitilde
-Encoding: 126 126 97
+Encoding: 95 126 97
+OldEncoding: 126
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 43
 5SXeI&e4pM"99&;Or4mq$QK-]%MTlor9Q-<&CgX-lk$rE&ihra&ihWG
 EndTtf
@@ -2724,14 +2759,16 @@ Fore
 EndSplineSet
 EndChar
 StartChar: nonbreakingspace
-Encoding: 160 160 172
+Encoding: 96 160 172
+OldEncoding: 160
 Width: 1233
-Flags: W
+Flags: HW
 EndChar
 StartChar: exclamdown
-Encoding: 161 161 163
+Encoding: 97 161 163
+OldEncoding: 161
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 29
 5Rdqu!b;E>#6Y#-"T\rAe3*(Q3B8eo0D+&<0E;(Q
 EndTtf
@@ -2751,9 +2788,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: cent
-Encoding: 162 162 132
+Encoding: 98 162 132
+OldEncoding: 162
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 70
 5UHbp$$dHnBFP@NMZA#B"DAPf'o<G0EZuG;%MoNV#QQFu((r8E&H(nm4OcJUbVCq.!"e3HoK:(Y
 1A'oE`pPVSmP"V@
@@ -2790,9 +2828,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: sterling
-Encoding: 163 163 133
+Encoding: 99 163 133
+OldEncoding: 163
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 62
 5Tg:I!>5a##Q]5OGm%duD@d5$'F50X#lk><%MK?f&KDA34N,294N,1V0`WlF1@-dgm.BWUmP5D8
 3A:F5
@@ -2826,9 +2865,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: currency
-Encoding: 164 164 189
+Encoding: 100 164 189
+OldEncoding: 164
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 99
 5WBl-(`!5n#q@>5$j8.0+VbLj!sp%c)ZqMu/MJ7q-QrU<"r.XX(Bb@#*Z,:g"ooDK&dBa,,VTeZ
 `%oQd`%oOK(HE'D3=ul?3ACLFeAO,deAO,d&JmG?(HE'?(HF/L
@@ -2875,9 +2915,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: yen
-Encoding: 165 165 150
+Encoding: 101 165 150
+OldEncoding: 165
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 117
 5Wf,O"U"l-!X/`1!WrK>!#>S8!#?j^#6bVG&IB0U'*eU>A.9:f&ci+H!Y,MB"Tnl3":>>A%hoQT
 %Mo]+`5FG/`%o7D(HE*g&JmG^!&*Cge3(r1gcWe9&J@)X92ept&-^/\&.$A_&.$A_&-^0Y+ohTC
@@ -2910,9 +2951,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: brokenbar
-Encoding: 166 166 231
+Encoding: 102 166 231
+OldEncoding: 166
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 25
 5RIMl"9f&6!!WK1&C`hd1,/b?eBHFd0E;(Q
 EndTtf
@@ -2930,9 +2972,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: section
-Encoding: 167 167 134
+Encoding: 103 167 134
+OldEncoding: 167
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 121
 5XR1Y.PV;8!!F)Y0K'%C-Y=\TAg7as$kR#5DBhA#1GCI6'+5*H"ooGn">(9-$jeg=""c_[#sSh:
 '0eJq"$\+g57l>_m)7E?&B+"dmL^'l&J@)9&f3P?&igO:3=ula0`Vd'o^()o&FS-;&JmGD3=ula
@@ -2986,9 +3029,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: dieresis
-Encoding: 168 168 142
+Encoding: 104 168 142
+OldEncoding: 168
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 73
 5RI\s"98].!!NK2&CfLbbV9)/e3(r10E=bM$<1-@!!iQi!!*'*!!rV?3"\)/=TM1"$<1-@!!rV?
 !!*'*!!iQi3"\)/=TAF%
@@ -3007,13 +3051,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: copyright
-Encoding: 169 169 139
+Encoding: 105 169 139
+OldEncoding: 169
 Width: 1233
-Flags: W
-TtfInstrs: 68
-5U?mL!!*Or$C;?j4oq#RQPYrCPo;iO-;"LW6p_=_+;@1&66Ig4`r>'2`%p`lc7o;1eEk]_o_db]
-p&="`c4J8T
-EndTtf
+Flags: HW
 Fore
 848 1049 m 1,0,-1
  848 881 l 1,1,2
@@ -3071,9 +3112,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: ordfeminine
-Encoding: 170 170 157
+Encoding: 106 170 157
+OldEncoding: 170
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 100
 5VrHH!>ZXh$R?!&'EKVW-34f+#br^V*2=OK)5@\;+DrYU*"`5d"TTqu'ak!X,9-k'&Ln@Am**uG
 1,?Y\&J@)a&J@)Y!"ee`m.BWUc0j*4c4KCU&igO:3=ula&J@)X
@@ -3117,9 +3159,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: guillemotleft
-Encoding: 171 171 169
+Encoding: 107 171 169
+OldEncoding: 171
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 45
 5SXS,$Np\7%LEOI!XAf-<<W^7<=B?KeGMGYlnT/5&J@)Y!"dXBbVD1=0E;(Q
 EndTtf
@@ -3143,9 +3186,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: logicalnot
-Encoding: 172 172 164
+Encoding: 108 172 164
+OldEncoding: 172
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 25
 5R[d=!WWE,#ltb@'F#-Hr9Q-<&CeYb0E;(Q
 EndTtf
@@ -3160,9 +3204,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: sfthyphen
-Encoding: 173 173 256
+Encoding: 109 173 256
+OldEncoding: 173
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 16
 [/^72!<<66eBBWI&CeoX
 EndTtf
@@ -3175,13 +3220,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: registered
-Encoding: 174 174 138
+Encoding: 110 174 138
+OldEncoding: 174
 Width: 1233
-Flags: W
-TtfInstrs: 92
-5VjuA.jm"h(a52&PlM^X/!`Jd!";RO-S,?F0J+4\"<eg@)+?>3*^q>A7m[D96T[U=&hh9(jUhFa
-m_f\)1(cM_3>*,g0`Vd7`;K6i`";q@c4J8]&NMj*
-EndTtf
+Flags: HW
 Fore
 616 1358 m 0,0,1
  743 1358 743 1358 852 1313 c 128,-1,2
@@ -3245,9 +3287,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: macron
-Encoding: 175 175 217
+Encoding: 111 175 217
+OldEncoding: 175
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 64
 [/p=2!<<66eBBWI&CeoX!)'O'<*6g6"9:[e!<<6&"TQ7s&N;[P!DBX(<*6g6"TQ7;!<<6&"9:\H
 &N;[P
@@ -3261,12 +3304,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: degree
-Encoding: 176 176 131
+Encoding: 112 176 131
+OldEncoding: 176
 Width: 1233
-Flags: W
-TtfInstrs: 30
-5S"]r$ked)DB9`^"r0B6*Y?ifeEemi&G5>=lnAD>
-EndTtf
+Flags: HW
 Fore
 616 1520 m 0,0,1
  683 1520 683 1520 744 1494.5 c 128,-1,2
@@ -3293,9 +3334,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: plusminus
-Encoding: 177 177 147
+Encoding: 113 177 147
+OldEncoding: 177
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 42
 5SOA,"*OYN!=X,]%0?Y4#n.(H"qV?q4N'#Q4N'!0!&*]g4N..[`%V/k
 EndTtf
@@ -3321,9 +3363,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: twosuperior
-Encoding: 178 178 241
+Encoding: 114 178 241
+OldEncoding: 178
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 50
 5T0b*Z2tNA&$uDE$aLDM)#t-P!W`R5'b1<`&CeYJm(gCK&ihZH&G5>Uo^!.W3A:F5
 EndTtf
@@ -3349,9 +3392,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: threesuperior
-Encoding: 179 179 242
+Encoding: 115 179 242
+OldEncoding: 179
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 68
 5UI6HZ2u/S+1*8u!ZVWS%C@+]$*k,I.2E!c!s&U4'..$'$iqG!&CeY:eEk]O&JmG^!"eehm.BWU
 `pWQg&FMP4
@@ -3390,9 +3434,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: acute
-Encoding: 180 180 141
+Encoding: 116 180 141
+OldEncoding: 180
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 46
 [K6G]"9AT-&CeoY!"eeH0E=bM%TH**#uk,2]`838^]4B8"98Q)5WB?73*?4]
 EndTtf
@@ -3405,9 +3450,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: mu
-Encoding: 181 181 151
+Encoding: 117 181 151
+OldEncoding: 181
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 71
 5UR3_*s38_#m1S<!>5nIBH.e.!0IThO<G_J)$po^((3&C!Ytbn+V=S<1ApLW&igOa0`VdG1?A'i
 r&hn0(HE'?(HF/L
@@ -3442,9 +3488,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: paragraph
-Encoding: 182 182 136
+Encoding: 118 182 136
+OldEncoding: 182
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 34
 5S",%"9;s:!Y,28"Tnc5%M7.>gsjP.0`Vd'1A&d&3A:F5
 EndTtf
@@ -3465,9 +3512,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: periodcentered
-Encoding: 183 183 195
+Encoding: 119 183 195
+OldEncoding: 183
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 18
 [fUaR"9Ai0";')L0`Vd7lnAD>
 EndTtf
@@ -3480,9 +3528,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: cedilla
-Encoding: 184 184 221
+Encoding: 120 184 221
+OldEncoding: 184
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 33
 5S"/*$4X3D!!s2M!"`E<'G/d\eAMp:0`WlXrl#L10E;(Q
 EndTtf
@@ -3505,9 +3554,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: onesuperior
-Encoding: 185 185 240
+Encoding: 121 185 240
+OldEncoding: 185
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 41
 5SXM(Z3^W="9Pk8ZN[TA#R4T;!!*H=eAT<'`%_6'o^(qolk&S?0E;(Q
 EndTtf
@@ -3527,12 +3577,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: ordmasculine
-Encoding: 186 186 158
+Encoding: 122 186 158
+OldEncoding: 186
 Width: 1233
-Flags: W
-TtfInstrs: 48
-5T'Wu!#D==U_':+DB&Zp$31_B)&EVn(Bb]heEk]O&J@)9&ihZH&G5>]m+gq]
-EndTtf
+Flags: HW
 Fore
 293 598 m 1,0,-1
  981 598 l 1,1,-1
@@ -3560,9 +3608,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: guillemotright
-Encoding: 187 187 170
+Encoding: 123 187 170
+OldEncoding: 187
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 45
 5SX\2$3LM5%L`UD"TSg.$3pT3!rrfBe3*ZY4R<\@&J@)Y!"dXBbVD1=0E;(Q
 EndTtf
@@ -3586,39 +3635,43 @@ Fore
 EndSplineSet
 EndChar
 StartChar: onequarter
-Encoding: 188 188 243
+Encoding: 124 188 243
+OldEncoding: 188
 Width: 1233
-Flags: W
-Ref: 185 185 N 1 0 0 1 -258 156
-Ref: 65544 -1 N 1 0 0 1 0 0
-Ref: 65545 -1 N 1 0 0 1 184 -938
+Flags: HW
+Ref: 121 185 N 1 0 0 1 -258 156
+Ref: 359 -1 N 1 0 0 1 0 0
+Ref: 360 -1 N 1 0 0 1 184 -938
 Ligature: 0 0 'frac' one slash four
 Ligature: 0 0 'frac' one fraction four
 EndChar
 StartChar: onehalf
-Encoding: 189 189 244
+Encoding: 125 189 244
+OldEncoding: 189
 Width: 1233
-Flags: W
-Ref: 185 185 N 1 0 0 1 -258 156
-Ref: 65544 -1 N 1 0 0 1 0 0
-Ref: 178 178 N 1 0 0 1 201 -938
+Flags: HW
+Ref: 121 185 N 1 0 0 1 -258 156
+Ref: 359 -1 N 1 0 0 1 0 0
+Ref: 114 178 N 1 0 0 1 201 -938
 Ligature: 0 0 'frac' one slash two
 Ligature: 0 0 'frac' one fraction two
 EndChar
 StartChar: threequarters
-Encoding: 190 190 245
+Encoding: 126 190 245
+OldEncoding: 190
 Width: 1233
-Flags: W
-Ref: 179 179 N 1 0 0 1 -227 156
-Ref: 65544 -1 N 1 0 0 1 0 0
-Ref: 65545 -1 N 1 0 0 1 184 -938
+Flags: HW
+Ref: 115 179 N 1 0 0 1 -227 156
+Ref: 359 -1 N 1 0 0 1 0 0
+Ref: 360 -1 N 1 0 0 1 184 -938
 Ligature: 0 0 'frac' three slash four
 Ligature: 0 0 'frac' three fraction four
 EndChar
 StartChar: questiondown
-Encoding: 191 191 162
+Encoding: 127 191 162
+OldEncoding: 191
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 120
 5WfDT$jn$r#QY/:*Zc=J,p!?s":?.P'4qp]!!3^F'GkckA0r<8,7Oq[!$3%%%13+9%2Kiq"TSQ+
 !@AB-4T%=keEdb[3>"7a3=ula&NLIa0`VdGoYg)-hSg&o&NMif3A=*)=9fBIaUo=L#7eif(HGVB
@@ -3658,51 +3711,50 @@ Fore
 EndSplineSet
 EndChar
 StartChar: Agrave
-Encoding: 192 192 173
+Encoding: 128 192 173
+OldEncoding: 192
 Width: 1233
-Flags: W
-Ref: 65 65 N 1 0 0 1 0 0
-Ref: 65541 -1 N 1 0 0 1 0 373
+Flags: HW
+Ref: 34 65 N 1 0 0 1 0 0
+Ref: 356 -1 N 1 0 0 1 0 373
 EndChar
 StartChar: Aacute
-Encoding: 193 193 201
+Encoding: 129 193 201
+OldEncoding: 193
 Width: 1233
-Flags: W
-Ref: 65 65 N 1 0 0 1 0 0
-Ref: 65539 -1 N 1 0 0 1 0 373
+Flags: HW
+Ref: 34 65 N 1 0 0 1 0 0
+Ref: 354 -1 N 1 0 0 1 0 373
 EndChar
 StartChar: Acircumflex
-Encoding: 194 194 199
+Encoding: 130 194 199
+OldEncoding: 194
 Width: 1233
-Flags: W
-Ref: 65 65 N 1 0 0 1 0 0
-Ref: 65542 -1 N 1 0 0 1 0 373
+Flags: HW
+Ref: 34 65 N 1 0 0 1 0 0
+Ref: 357 -1 N 1 0 0 1 0 373
 EndChar
 StartChar: Atilde
-Encoding: 195 195 174
+Encoding: 131 195 174
+OldEncoding: 195
 Width: 1233
-Flags: W
-Ref: 65 65 N 1 0 0 1 0 0
-Ref: 65540 -1 N 1 0 0 1 0 373
+Flags: HW
+Ref: 34 65 N 1 0 0 1 0 0
+Ref: 355 -1 N 1 0 0 1 0 373
 EndChar
 StartChar: Adieresis
-Encoding: 196 196 98
+Encoding: 132 196 98
+OldEncoding: 196
 Width: 1233
-Flags: W
-Ref: 65 65 N 1 0 0 1 0 0
-Ref: 65538 -1 N 1 0 0 1 0 373
+Flags: HW
+Ref: 34 65 N 1 0 0 1 0 0
+Ref: 353 -1 N 1 0 0 1 0 373
 EndChar
 StartChar: Aring
-Encoding: 197 197 99
+Encoding: 133 197 99
+OldEncoding: 197
 Width: 1233
-Flags: W
-TtfInstrs: 253
-5YW=C*rl<A+TVQF!<<0%!<=5H#6l7n*sW#T"U>57"pY>Y*sVc]")&es%2NY#IK]`o'-RGX!uVXm
-#6Y,B"UYG8!>uFL'++aZ"rnfur9VqW&Ceu<3=ula&JmG>&f3P?3ACLe4RV@_c4KCV3B9)R92ept
-&-^/\"j$u\#g!;_"j$u\"j$uQaTi!k#7q0_=X(-W!!*++5[4gA!$D7b0EX!30H`%mD]bSnY90qi
-]G%dh\/;jr]GeO(^Dt!/]H4g0'b(-D#6l:N+:',$+X\B]+Zfc_">h5_+`niS+bChr+g;Wa'YbL"
-)8@)o*jm-%+W+Jb>lXj)
-EndTtf
+Flags: HW
 Fore
 815 1421 m 1,0,-1
  1200 0 l 1,1,-1
@@ -3736,9 +3788,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: AE
-Encoding: 198 198 144
+Encoding: 134 198 144
+OldEncoding: 198
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 99
 5Viu^%h9-]%h9$Z%L`gX%OD9t!t/cS&-6_MA-[&cIKP*0#n[^Z%1ECM"p-(`$3127%PQ>M`7-p9
 1(kB`0`WjhjQu7*lnT.?&FM5F;cj89"j$uQaTi@\aTi@\a]Tef
@@ -3769,72 +3822,82 @@ Fore
 EndSplineSet
 EndChar
 StartChar: Ccedilla
-Encoding: 199 199 100
+Encoding: 135 199 100
+OldEncoding: 199
 Width: 1233
-Flags: W
-Ref: 67 67 N 1 0 0 1 0 0
-Ref: 184 184 N 1 0 0 1 117 0
+Flags: HW
+Ref: 36 67 N 1 0 0 1 0 0
+Ref: 120 184 N 1 0 0 1 117 0
 EndChar
 StartChar: Egrave
-Encoding: 200 200 203
+Encoding: 136 200 203
+OldEncoding: 200
 Width: 1233
-Flags: W
-Ref: 69 69 N 1 0 0 1 0 0
-Ref: 65541 -1 N 1 0 0 1 31 373
+Flags: HW
+Ref: 38 69 N 1 0 0 1 0 0
+Ref: 356 -1 N 1 0 0 1 31 373
 EndChar
 StartChar: Eacute
-Encoding: 201 201 101
+Encoding: 137 201 101
+OldEncoding: 201
 Width: 1233
-Flags: W
-Ref: 69 69 N 1 0 0 1 0 0
-Ref: 65539 -1 N 1 0 0 1 31 373
+Flags: HW
+Ref: 38 69 N 1 0 0 1 0 0
+Ref: 354 -1 N 1 0 0 1 31 373
 EndChar
 StartChar: Ecircumflex
-Encoding: 202 202 200
+Encoding: 138 202 200
+OldEncoding: 202
 Width: 1233
-Flags: W
-Ref: 69 69 N 1 0 0 1 0 0
-Ref: 65542 -1 N 1 0 0 1 31 373
+Flags: HW
+Ref: 38 69 N 1 0 0 1 0 0
+Ref: 357 -1 N 1 0 0 1 31 373
 EndChar
 StartChar: Edieresis
-Encoding: 203 203 202
+Encoding: 139 203 202
+OldEncoding: 203
 Width: 1233
-Flags: W
-Ref: 69 69 N 1 0 0 1 0 0
-Ref: 65538 -1 N 1 0 0 1 31 373
+Flags: HW
+Ref: 38 69 N 1 0 0 1 0 0
+Ref: 353 -1 N 1 0 0 1 31 373
 EndChar
 StartChar: Igrave
-Encoding: 204 204 207
+Encoding: 140 204 207
+OldEncoding: 204
 Width: 1233
-Flags: W
-Ref: 73 73 N 1 0 0 1 0 0
-Ref: 65541 -1 N 1 0 0 1 0 373
+Flags: HW
+Ref: 42 73 N 1 0 0 1 0 0
+Ref: 356 -1 N 1 0 0 1 0 373
 EndChar
 StartChar: Iacute
-Encoding: 205 205 204
+Encoding: 141 205 204
+OldEncoding: 205
 Width: 1233
-Flags: W
-Ref: 73 73 N 1 0 0 1 0 0
-Ref: 65539 -1 N 1 0 0 1 0 373
+Flags: HW
+Ref: 42 73 N 1 0 0 1 0 0
+Ref: 354 -1 N 1 0 0 1 0 373
 EndChar
 StartChar: Icircumflex
-Encoding: 206 206 205
+Encoding: 142 206 205
+OldEncoding: 206
 Width: 1233
-Flags: W
-Ref: 73 73 N 1 0 0 1 0 0
-Ref: 65542 -1 N 1 0 0 1 0 373
+Flags: HW
+Ref: 42 73 N 1 0 0 1 0 0
+Ref: 357 -1 N 1 0 0 1 0 373
 EndChar
 StartChar: Idieresis
-Encoding: 207 207 206
+Encoding: 143 207 206
+OldEncoding: 207
 Width: 1233
-Flags: W
-Ref: 73 73 N 1 0 0 1 0 0
-Ref: 65538 -1 N 1 0 0 1 0 373
+Flags: HW
+Ref: 42 73 N 1 0 0 1 0 0
+Ref: 353 -1 N 1 0 0 1 0 373
 EndChar
 StartChar: Eth
-Encoding: 208 208 232
+Encoding: 144 208 232
+OldEncoding: 208
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 57
 5T^aDBE8*P%:fW](]b<Z"p+l@%KHeY&KV&T%i#Nt(GGbMmP=e0&NMif3ACLe`\QuUmL\eA0E;(Q
 EndTtf
@@ -3866,51 +3929,58 @@ Fore
 EndSplineSet
 EndChar
 StartChar: Ntilde
-Encoding: 209 209 102
+Encoding: 145 209 102
+OldEncoding: 209
 Width: 1233
-Flags: W
-Ref: 78 78 N 1 0 0 1 0 0
-Ref: 65540 -1 N 1 0 0 1 0 373
+Flags: HW
+Ref: 47 78 N 1 0 0 1 0 0
+Ref: 355 -1 N 1 0 0 1 0 373
 EndChar
 StartChar: Ograve
-Encoding: 210 210 210
+Encoding: 146 210 210
+OldEncoding: 210
 Width: 1233
-Flags: W
-Ref: 79 79 N 1 0 0 1 0 0
-Ref: 65541 -1 N 1 0 0 1 0 373
+Flags: HW
+Ref: 48 79 N 1 0 0 1 0 0
+Ref: 356 -1 N 1 0 0 1 0 373
 EndChar
 StartChar: Oacute
-Encoding: 211 211 208
+Encoding: 147 211 208
+OldEncoding: 211
 Width: 1233
-Flags: W
-Ref: 79 79 N 1 0 0 1 0 0
-Ref: 65539 -1 N 1 0 0 1 0 373
+Flags: HW
+Ref: 48 79 N 1 0 0 1 0 0
+Ref: 354 -1 N 1 0 0 1 0 373
 EndChar
 StartChar: Ocircumflex
-Encoding: 212 212 209
+Encoding: 148 212 209
+OldEncoding: 212
 Width: 1233
-Flags: W
-Ref: 79 79 N 1 0 0 1 0 0
-Ref: 65542 -1 N 1 0 0 1 0 373
+Flags: HW
+Ref: 48 79 N 1 0 0 1 0 0
+Ref: 357 -1 N 1 0 0 1 0 373
 EndChar
 StartChar: Otilde
-Encoding: 213 213 175
+Encoding: 149 213 175
+OldEncoding: 213
 Width: 1233
-Flags: W
-Ref: 79 79 N 1 0 0 1 0 0
-Ref: 65540 -1 N 1 0 0 1 0 373
+Flags: HW
+Ref: 48 79 N 1 0 0 1 0 0
+Ref: 355 -1 N 1 0 0 1 0 373
 EndChar
 StartChar: Odieresis
-Encoding: 214 214 103
+Encoding: 150 214 103
+OldEncoding: 214
 Width: 1233
-Flags: W
-Ref: 79 79 N 1 0 0 1 0 0
-Ref: 65538 -1 N 1 0 0 1 0 373
+Flags: HW
+Ref: 48 79 N 1 0 0 1 0 0
+Ref: 353 -1 N 1 0 0 1 0 373
 EndChar
 StartChar: multiply
-Encoding: 215 215 239
+Encoding: 151 215 239
+OldEncoding: 215
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 48
 5TL1;#6k;4!<<B/!t,DD$OR1F"U"o.#Qau3"r%IWr&i1Y(HF2M&C`hd1)Dr)
 EndTtf
@@ -3931,9 +4001,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: Oslash
-Encoding: 216 216 145
+Encoding: 152 216 145
+OldEncoding: 216
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 115
 5X$,-(_%oD&J,9U!!NfZ,T[R-""5E7(^"_&%<*/%,]Y@_&ets!*$GXq!!<EQ'bD;g*?cj9+X%m<
 +Vc@S&H(nmln/jb&igO:3>*,g&NMi`&ihs,!"e5`lk&Rr^_"9n&ihrb3>*,g&igO:3B8bn
@@ -3976,44 +4047,50 @@ Fore
 EndSplineSet
 EndChar
 StartChar: Ugrave
-Encoding: 217 217 213
+Encoding: 153 217 213
+OldEncoding: 217
 Width: 1233
-Flags: W
-Ref: 85 85 N 1 0 0 1 0 0
-Ref: 65541 -1 N 1 0 0 1 0 373
+Flags: HW
+Ref: 54 85 N 1 0 0 1 0 0
+Ref: 356 -1 N 1 0 0 1 0 373
 EndChar
 StartChar: Uacute
-Encoding: 218 218 211
+Encoding: 154 218 211
+OldEncoding: 218
 Width: 1233
-Flags: W
-Ref: 85 85 N 1 0 0 1 0 0
-Ref: 65539 -1 N 1 0 0 1 0 373
+Flags: HW
+Ref: 54 85 N 1 0 0 1 0 0
+Ref: 354 -1 N 1 0 0 1 0 373
 EndChar
 StartChar: Ucircumflex
-Encoding: 219 219 212
+Encoding: 155 219 212
+OldEncoding: 219
 Width: 1233
-Flags: W
-Ref: 85 85 N 1 0 0 1 0 0
-Ref: 65542 -1 N 1 0 0 1 0 373
+Flags: HW
+Ref: 54 85 N 1 0 0 1 0 0
+Ref: 357 -1 N 1 0 0 1 0 373
 EndChar
 StartChar: Udieresis
-Encoding: 220 220 104
+Encoding: 156 220 104
+OldEncoding: 220
 Width: 1233
-Flags: W
-Ref: 85 85 N 1 0 0 1 0 0
-Ref: 65538 -1 N 1 0 0 1 0 373
+Flags: HW
+Ref: 54 85 N 1 0 0 1 0 0
+Ref: 353 -1 N 1 0 0 1 0 373
 EndChar
 StartChar: Yacute
-Encoding: 221 221 234
+Encoding: 157 221 234
+OldEncoding: 221
 Width: 1233
-Flags: W
-Ref: 89 89 N 1 0 0 1 0 0
-Ref: 65539 -1 N 1 0 0 1 0 373
+Flags: HW
+Ref: 58 89 N 1 0 0 1 0 0
+Ref: 354 -1 N 1 0 0 1 0 373
 EndChar
 StartChar: Thorn
-Encoding: 222 222 236
+Encoding: 158 222 236
+OldEncoding: 222
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 48
 5T'T9&ccSQ$"O_U!YPnA"X+Bu'++^M#oj]lr9Q0or9P"U3B9)S!&*uom*tAU
 EndTtf
@@ -4041,9 +4118,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: germandbls
-Encoding: 223 223 137
+Encoding: 159 223 137
+OldEncoding: 223
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 88
 5Vac5*<uQJ#TPBN"==b>&J\sh->5&S%WX$>*$>=g#T*OD+<pkP(`!Jk+=S'6/h8S2&H(nm`5E5T
 oZe#n&J@)a&J@)a0`WlfrpC?cf'X+d3>X\0
@@ -4088,57 +4166,58 @@ Fore
 EndSplineSet
 EndChar
 StartChar: agrave
-Encoding: 224 224 106
+Encoding: 160 224 106
+OldEncoding: 224
 Width: 1233
-Flags: W
-Ref: 97 97 N 1 0 0 1 0 0
-Ref: 96 96 N 1 0 0 1 0 0
+Flags: HW
+Ref: 66 97 N 1 0 0 1 0 0
+Ref: 65 96 N 1 0 0 1 0 0
 EndChar
 StartChar: aacute
-Encoding: 225 225 105
+Encoding: 161 225 105
+OldEncoding: 225
 Width: 1233
-Flags: W
-Ref: 97 97 N 1 0 0 1 0 0
-Ref: 180 180 N 1 0 0 1 0 0
+Flags: HW
+Ref: 66 97 N 1 0 0 1 0 0
+Ref: 116 180 N 1 0 0 1 0 0
 EndChar
 StartChar: acircumflex
-Encoding: 226 226 107
+Encoding: 162 226 107
+OldEncoding: 226
 Width: 1233
-Flags: W
-Ref: 97 97 N 1 0 0 1 0 0
-Ref: 710 710 N 1 0 0 1 0 0
+Flags: HW
+Ref: 66 97 N 1 0 0 1 0 0
+Ref: 309 710 N 1 0 0 1 0 0
 EndChar
 StartChar: atilde
-Encoding: 227 227 109
+Encoding: 163 227 109
+OldEncoding: 227
 Width: 1233
-Flags: W
-Ref: 97 97 N 1 0 0 1 0 0
-Ref: 732 732 N 1 0 0 1 0 0
+Flags: HW
+Ref: 66 97 N 1 0 0 1 0 0
+Ref: 315 732 N 1 0 0 1 0 0
 EndChar
 StartChar: adieresis
-Encoding: 228 228 108
+Encoding: 164 228 108
+OldEncoding: 228
 Width: 1233
-Flags: W
-Ref: 97 97 N 1 0 0 1 0 0
-Ref: 168 168 N 1 0 0 1 0 0
+Flags: HW
+Ref: 66 97 N 1 0 0 1 0 0
+Ref: 104 168 N 1 0 0 1 0 0
 EndChar
 StartChar: aring
-Encoding: 229 229 110
+Encoding: 165 229 110
+OldEncoding: 229
 Width: 1233
-Flags: W
-Ref: 97 97 N 1 0 0 1 0 0
-Ref: 730 730 N 1 0 0 1 0 0
+Flags: HW
+Ref: 66 97 N 1 0 0 1 0 0
+Ref: 313 730 N 1 0 0 1 0 0
 EndChar
 StartChar: ae
-Encoding: 230 230 160
+Encoding: 166 230 160
+OldEncoding: 230
 Width: 1233
-Flags: W
-TtfInstrs: 181
-5YE^C%0JF<$QKmC2%UuQ#XJk"*/bgGB,)9iB,u7?1lF5K'ok![B/fp)/;68IM'a?c637;j,<IIj
-/-Q"n$l(T&<%/P6!)aRG64hX/r5?P'm*$$d`=W_C&J@)a&J@)Y!"e3Hj>-Ao&FM=Ap?iLSmP5@A
-&FL,C3=ula&J@)9&igO:(HF07-SmP41b^dC2FfPn1e0Dn2H^u%**F:b*`k.!2U;fX'[IN?(=,8[
->lXj)
-EndTtf
+Flags: HW
 Fore
 489 401 m 1,0,-1
  489 483 l 1,1,-1
@@ -4194,72 +4273,82 @@ Fore
 EndSplineSet
 EndChar
 StartChar: ccedilla
-Encoding: 231 231 111
+Encoding: 167 231 111
+OldEncoding: 231
 Width: 1233
-Flags: W
-Ref: 99 99 N 1 0 0 1 0 0
-Ref: 184 184 N 1 0 0 1 72 0
+Flags: HW
+Ref: 68 99 N 1 0 0 1 0 0
+Ref: 120 184 N 1 0 0 1 72 0
 EndChar
 StartChar: egrave
-Encoding: 232 232 113
+Encoding: 168 232 113
+OldEncoding: 232
 Width: 1233
-Flags: W
-Ref: 101 101 N 1 0 0 1 0 0
-Ref: 96 96 N 1 0 0 1 39 0
+Flags: HW
+Ref: 70 101 N 1 0 0 1 0 0
+Ref: 65 96 N 1 0 0 1 39 0
 EndChar
 StartChar: eacute
-Encoding: 233 233 112
+Encoding: 169 233 112
+OldEncoding: 233
 Width: 1233
-Flags: W
-Ref: 101 101 N 1 0 0 1 0 0
-Ref: 180 180 N 1 0 0 1 39 0
+Flags: HW
+Ref: 70 101 N 1 0 0 1 0 0
+Ref: 116 180 N 1 0 0 1 39 0
 EndChar
 StartChar: ecircumflex
-Encoding: 234 234 114
+Encoding: 170 234 114
+OldEncoding: 234
 Width: 1233
-Flags: W
-Ref: 101 101 N 1 0 0 1 0 0
-Ref: 710 710 N 1 0 0 1 39 0
+Flags: HW
+Ref: 70 101 N 1 0 0 1 0 0
+Ref: 309 710 N 1 0 0 1 39 0
 EndChar
 StartChar: edieresis
-Encoding: 235 235 115
+Encoding: 171 235 115
+OldEncoding: 235
 Width: 1233
-Flags: W
-Ref: 101 101 N 1 0 0 1 0 0
-Ref: 168 168 N 1 0 0 1 39 0
+Flags: HW
+Ref: 70 101 N 1 0 0 1 0 0
+Ref: 104 168 N 1 0 0 1 39 0
 EndChar
 StartChar: igrave
-Encoding: 236 236 117
+Encoding: 172 236 117
+OldEncoding: 236
 Width: 1233
-Flags: W
-Ref: 305 305 N 1 0 0 1 0 0
-Ref: 96 96 N 1 0 0 1 0 0
+Flags: HW
+Ref: 238 305 N 1 0 0 1 0 0
+Ref: 65 96 N 1 0 0 1 0 0
 EndChar
 StartChar: iacute
-Encoding: 237 237 116
+Encoding: 173 237 116
+OldEncoding: 237
 Width: 1233
-Flags: W
-Ref: 305 305 N 1 0 0 1 0 0
-Ref: 180 180 N 1 0 0 1 0 0
+Flags: HW
+Ref: 238 305 N 1 0 0 1 0 0
+Ref: 116 180 N 1 0 0 1 0 0
 EndChar
 StartChar: icircumflex
-Encoding: 238 238 118
+Encoding: 174 238 118
+OldEncoding: 238
 Width: 1233
-Flags: W
-Ref: 305 305 N 1 0 0 1 0 0
-Ref: 710 710 N 1 0 0 1 0 0
+Flags: HW
+Ref: 238 305 N 1 0 0 1 0 0
+Ref: 309 710 N 1 0 0 1 0 0
 EndChar
 StartChar: idieresis
-Encoding: 239 239 119
+Encoding: 175 239 119
+OldEncoding: 239
 Width: 1233
-Flags: W
-Ref: 305 305 N 1 0 0 1 0 0
-Ref: 168 168 N 1 0 0 1 0 0
+Flags: HW
+Ref: 238 305 N 1 0 0 1 0 0
+Ref: 104 168 N 1 0 0 1 0 0
 EndChar
 StartChar: eth
-Encoding: 240 240 233
+Encoding: 176 240 233
+OldEncoding: 240
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 139
 5Y`CD+".XJ*$#)"*Y/c0,:"Q\+sA-V,pXcb-RBr[+<Lh5*Wlol-6iV+)[U0mEZ66F.1[dQ!tl"b
 +X7(+-m^&Z"<IaU((r5(()SJL&H(nmlk)5o3>*,g&J>m?0`VdO`:WC-mL[/H3>"7`(HF0B;cj89
@@ -4302,19 +4391,18 @@ Fore
 EndSplineSet
 EndChar
 StartChar: ntilde
-Encoding: 241 241 120
+Encoding: 177 241 120
+OldEncoding: 241
 Width: 1233
-Flags: W
-Ref: 110 110 N 1 0 0 1 0 0
-Ref: 732 732 N 1 0 0 1 0 0
+Flags: HW
+Ref: 79 110 N 1 0 0 1 0 0
+Ref: 315 732 N 1 0 0 1 0 0
 EndChar
 StartChar: ograve
-Encoding: 242 242 122
+Encoding: 178 242 122
+OldEncoding: 242
 Width: 1233
-Flags: W
-TtfInstrs: 48
-5T0Y'$>::[BG64?EWD:C%2K^3#8RjO!tZn$&F@ob&FTPc0`VdOjRhdMmL[Yt
-EndTtf
+Flags: HW
 Fore
 481 1561 m 1,0,-1
  764 1262 l 1,1,-1
@@ -4342,12 +4430,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: oacute
-Encoding: 243 243 121
+Encoding: 179 243 121
+OldEncoding: 243
 Width: 1233
-Flags: W
-TtfInstrs: 48
-5T0\($>::[BG64?EWD:C%2K^3#8RjO!tZn$&F@ob&FTPc0`VdOjRhdMmL[Yt
-EndTtf
+Flags: HW
 Fore
 752 1561 m 1,0,-1
  1034 1561 l 1,1,-1
@@ -4375,12 +4461,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: ocircumflex
-Encoding: 244 244 123
+Encoding: 180 244 123
+OldEncoding: 244
 Width: 1233
-Flags: W
-TtfInstrs: 56
-5TU%3!WW[C*!^-mM&^O9P90o7&/H-9$5O9V"qrF-&F@ob&FTPc&NMQG&FAKMlk&Rrc8%C6
-EndTtf
+Flags: HW
 Fore
 496 1561 m 1,0,-1
  737 1561 l 1,1,-1
@@ -4411,13 +4495,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: otilde
-Encoding: 245 245 125
+Encoding: 181 245 125
+OldEncoding: 245
 Width: 1233
-Flags: W
-TtfInstrs: 104
-5WT_p&H`aX#m^P3"<[jc)AN_i"Vi./BK.5M1'Jd1P;7tSE]Y*N#QY&?!%&^)//C)q-5J6Q$83hi
-&F@ob&FTPc&NLF`3>X\1!"e5Pr5?ejmL\dtc4W,L&ihra&f3P?&f3P^
-EndTtf
+Flags: HW
 Fore
 618 1331 m 2,0,-1
  563 1368 l 2,1,2
@@ -4466,12 +4547,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: odieresis
-Encoding: 246 246 124
+Encoding: 182 246 124
+OldEncoding: 246
 Width: 1233
-Flags: W
-TtfInstrs: 55
-5TL%1!"NZ_#\Y$2*HD8_+;#A-/diF/"U"f+'Ib.9m*s8/bRj4AmP+\Q`%pEGlk&Rrc8%'R
-EndTtf
+Flags: HW
 Fore
 301 1561 m 1,0,-1
  537 1561 l 1,1,-1
@@ -4504,9 +4583,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: divide
-Encoding: 247 247 184
+Encoding: 183 247 184
+OldEncoding: 247
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 36
 5S*ns#R1D;Fp\Wa"T\l3!"9Fg4N-#;`%_6'eEk]/&Co&[
 EndTtf
@@ -4529,9 +4609,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: oslash
-Encoding: 248 248 161
+Encoding: 184 248 161
+OldEncoding: 248
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 115
 5X$21)@e8K$OQn7"9]hc%Oi(p.OH2T"DB+lBGu^SE\&^l.MN[2+<Da8$3:,0#:UH$*=!Yk(*bFD
 ()JDN&H(nmm(a5o&J@):(HE'f3=ula3>"8+!"e5`lk&Rr^_"9o3B7Za3>*,g&NLF93B8bn
@@ -4575,47 +4656,50 @@ Fore
 EndSplineSet
 EndChar
 StartChar: ugrave
-Encoding: 249 249 127
+Encoding: 185 249 127
+OldEncoding: 249
 Width: 1233
-Flags: W
-Ref: 117 117 N 1 0 0 1 0 0
-Ref: 96 96 N 1 0 0 1 0 0
+Flags: HW
+Ref: 86 117 N 1 0 0 1 0 0
+Ref: 65 96 N 1 0 0 1 0 0
 EndChar
 StartChar: uacute
-Encoding: 250 250 126
+Encoding: 186 250 126
+OldEncoding: 250
 Width: 1233
-Flags: W
-Ref: 117 117 N 1 0 0 1 0 0
-Ref: 180 180 N 1 0 0 1 0 0
+Flags: HW
+Ref: 86 117 N 1 0 0 1 0 0
+Ref: 116 180 N 1 0 0 1 0 0
 EndChar
 StartChar: ucircumflex
-Encoding: 251 251 128
+Encoding: 187 251 128
+OldEncoding: 251
 Width: 1233
-Flags: W
-Ref: 117 117 N 1 0 0 1 0 0
-Ref: 710 710 N 1 0 0 1 0 0
+Flags: HW
+Ref: 86 117 N 1 0 0 1 0 0
+Ref: 309 710 N 1 0 0 1 0 0
 EndChar
 StartChar: udieresis
-Encoding: 252 252 129
+Encoding: 188 252 129
+OldEncoding: 252
 Width: 1233
-Flags: W
-Ref: 117 117 N 1 0 0 1 0 0
-Ref: 168 168 N 1 0 0 1 0 0
+Flags: HW
+Ref: 86 117 N 1 0 0 1 0 0
+Ref: 104 168 N 1 0 0 1 0 0
 EndChar
 StartChar: yacute
-Encoding: 253 253 235
+Encoding: 189 253 235
+OldEncoding: 253
 Width: 1233
-Flags: W
-Ref: 121 121 N 1 0 0 1 0 0
-Ref: 180 180 N 1 0 0 1 0 0
+Flags: HW
+Ref: 90 121 N 1 0 0 1 0 0
+Ref: 116 180 N 1 0 0 1 0 0
 EndChar
 StartChar: thorn
-Encoding: 254 254 237
+Encoding: 190 254 237
+OldEncoding: 254
 Width: 1233
-Flags: W
-TtfInstrs: 57
-5T^.D#QPbQ'PIajBF]%gM#i_@F<(r/$SiM$!#>Vi*>&/81,Ado0`VdOjQ,t"&FL,C3=ula0E;(Q
-EndTtf
+Flags: HW
 Fore
 442 158 m 1,0,-1
  442 -426 l 1,1,-1
@@ -4643,132 +4727,146 @@ Fore
 EndSplineSet
 EndChar
 StartChar: ydieresis
-Encoding: 255 255 186
+Encoding: 191 255 186
+OldEncoding: 255
 Width: 1233
-Flags: W
-Ref: 121 121 N 1 0 0 1 0 0
-Ref: 168 168 N 1 0 0 1 0 0
+Flags: HW
+Ref: 90 121 N 1 0 0 1 0 0
+Ref: 104 168 N 1 0 0 1 0 0
 EndChar
 StartChar: Amacron
-Encoding: 256 256 187
+Encoding: 192 256 187
+OldEncoding: 256
 Width: 1233
-Flags: H
-Ref: 175 175 N 1 0 0 1 0 274
-Ref: 65 65 N 1 0 0 1 0 0
+Flags: HW
+Ref: 111 175 N 1 0 0 1 0 274
+Ref: 34 65 N 1 0 0 1 0 0
 EndChar
 StartChar: amacron
-Encoding: 257 257 188
+Encoding: 193 257 188
+OldEncoding: 257
 Width: 1233
-Flags: H
-Ref: 175 175 N 1 0 0 1 -2.5 -99
-Ref: 97 97 N 1 0 0 1 0 0
+Flags: HW
+Ref: 111 175 N 1 0 0 1 -2.5 -99
+Ref: 66 97 N 1 0 0 1 0 0
 EndChar
 StartChar: Abreve
-Encoding: 258 258 189
+Encoding: 194 258 189
+OldEncoding: 258
 Width: 1233
-Flags: H
-Ref: 728 728 N 1 0 0 1 0 333
-Ref: 65 65 N 1 0 0 1 0 0
+Flags: HW
+Ref: 311 728 N 1 0 0 1 0 333
+Ref: 34 65 N 1 0 0 1 0 0
 EndChar
 StartChar: abreve
-Encoding: 259 259 190
+Encoding: 195 259 190
+OldEncoding: 259
 Width: 1233
-Flags: H
-Ref: 728 728 N 1 0 0 1 -2.5 -40
-Ref: 97 97 N 1 0 0 1 0 0
+Flags: HW
+Ref: 311 728 N 1 0 0 1 -2.5 -40
+Ref: 66 97 N 1 0 0 1 0 0
 EndChar
 StartChar: Aogonek
-Encoding: 260 260 191
+Encoding: 196 260 191
+OldEncoding: 260
 Width: 1233
-Flags: H
-Ref: 731 731 S 1 0 0 1 359.5 3.3667
-Ref: 65 65 N 1 0 0 1 0 0
+Flags: HW
+Ref: 314 731 S 1 0 0 1 359.5 3.3667
+Ref: 34 65 N 1 0 0 1 0 0
 EndChar
 StartChar: aogonek
-Encoding: 261 261 192
+Encoding: 197 261 192
+OldEncoding: 261
 Width: 1233
-Flags: H
-Ref: 731 731 S 1 0 0 1 361 -0.633301
-Ref: 97 97 N 1 0 0 1 0 0
+Flags: HW
+Ref: 314 731 S 1 0 0 1 361 -0.633301
+Ref: 66 97 N 1 0 0 1 0 0
 EndChar
 StartChar: Cacute
-Encoding: 262 262 251
+Encoding: 198 262 251
+OldEncoding: 262
 Width: 1233
-Flags: W
-Ref: 67 67 N 1 0 0 1 0 0
-Ref: 65539 -1 N 1 0 0 1 137 373
+Flags: HW
+Ref: 36 67 N 1 0 0 1 0 0
+Ref: 354 -1 N 1 0 0 1 137 373
 EndChar
 StartChar: cacute
-Encoding: 263 263 252
+Encoding: 199 263 252
+OldEncoding: 263
 Width: 1233
-Flags: W
-Ref: 99 99 N 1 0 0 1 0 0
-Ref: 180 180 N 1 0 0 1 102 0
+Flags: HW
+Ref: 68 99 N 1 0 0 1 0 0
+Ref: 116 180 N 1 0 0 1 102 0
 EndChar
 StartChar: Ccircumflex
-Encoding: 264 264 253
+Encoding: 200 264 253
+OldEncoding: 264
 Width: 1233
-Flags: H
-Ref: 710 710 N 1 0 0 1 155.5 380
-Ref: 67 67 N 1 0 0 1 0 0
+Flags: HW
+Ref: 309 710 N 1 0 0 1 155.5 380
+Ref: 36 67 N 1 0 0 1 0 0
 EndChar
 StartChar: ccircumflex
-Encoding: 265 265 254
+Encoding: 201 265 254
+OldEncoding: 265
 Width: 1233
-Flags: H
-Ref: 710 710 N 1 0 0 1 104.5 9
-Ref: 99 99 N 1 0 0 1 0 0
+Flags: HW
+Ref: 309 710 N 1 0 0 1 104.5 9
+Ref: 68 99 N 1 0 0 1 0 0
 EndChar
 StartChar: Cdotaccent
-Encoding: 266 266 255
+Encoding: 202 266 255
+OldEncoding: 266
 Width: 1233
-Flags: H
-Ref: 729 729 N 1 0 0 1 155.5 303
-Ref: 67 67 N 1 0 0 1 0 0
+Flags: HW
+Ref: 312 729 N 1 0 0 1 155.5 303
+Ref: 36 67 N 1 0 0 1 0 0
 EndChar
 StartChar: cdotaccent
-Encoding: 267 267 256
+Encoding: 203 267 256
+OldEncoding: 267
 Width: 1233
-Flags: H
-Ref: 729 729 N 1 0 0 1 104.5 -68
-Ref: 99 99 N 1 0 0 1 0 0
+Flags: HW
+Ref: 312 729 N 1 0 0 1 104.5 -68
+Ref: 68 99 N 1 0 0 1 0 0
 EndChar
 StartChar: Ccaron
-Encoding: 268 268 253
+Encoding: 204 268 253
+OldEncoding: 268
 Width: 1233
-Flags: W
-Ref: 67 67 N 1 0 0 1 0 0
-Ref: 65543 -1 N 1 0 0 1 137 373
+Flags: HW
+Ref: 36 67 N 1 0 0 1 0 0
+Ref: 358 -1 N 1 0 0 1 137 373
 EndChar
 StartChar: ccaron
-Encoding: 269 269 254
+Encoding: 205 269 254
+OldEncoding: 269
 Width: 1233
-Flags: W
-Ref: 99 99 N 1 0 0 1 0 0
-Ref: 711 711 N 1 0 0 1 102 0
+Flags: HW
+Ref: 68 99 N 1 0 0 1 0 0
+Ref: 310 711 N 1 0 0 1 102 0
 EndChar
 StartChar: Dcaron
-Encoding: 270 270 255
+Encoding: 206 270 255
+OldEncoding: 270
 Width: 1233
-Flags: H
-Ref: 711 711 N 1 0 0 1 22.5 380
-Ref: 68 68 N 1 0 0 1 0 0
+Flags: HW
+Ref: 310 711 N 1 0 0 1 22.5 380
+Ref: 37 68 N 1 0 0 1 0 0
 EndChar
 StartChar: dcaron
-Encoding: 271 271 256
+Encoding: 207 271 256
+OldEncoding: 271
 Width: 1233
-Flags: H
-Ref: 711 711 N 1 0 0 1 -30 416
-Ref: 100 100 N 1 0 0 1 0 0
+Flags: HW
+Ref: 310 711 N 1 0 0 1 -30 416
+Ref: 69 100 N 1 0 0 1 0 0
 EndChar
 StartChar: dcroat
-Encoding: 273 273 255
+Encoding: 208 273 255
+OldEncoding: 273
 Width: 1233
-Flags: W
-TtfInstrs: 70
-5UHIT((D5k#6P85,%q`3BFo2"M$7u/!ZqgR!rs)B$3i7'()&,C&H(nm4N..64N&rS0C7cllk&U8
-4O,\o&igO:3A:F5
-EndTtf
+Flags: HW
 Fore
 791 961 m 1,0,-1
  791 1251 l 1,1,-1
@@ -4804,212 +4902,242 @@ Fore
 EndSplineSet
 EndChar
 StartChar: Emacron
-Encoding: 274 274 256
+Encoding: 209 274 256
+OldEncoding: 274
 Width: 1233
-Flags: H
-Ref: 175 175 N 1 0 0 1 16.5 274
-Ref: 69 69 N 1 0 0 1 0 0
+Flags: HW
+Ref: 111 175 N 1 0 0 1 16.5 274
+Ref: 38 69 N 1 0 0 1 0 0
 EndChar
 StartChar: emacron
-Encoding: 275 275 257
+Encoding: 210 275 257
+OldEncoding: 275
 Width: 1233
-Flags: H
-Ref: 175 175 N 1 0 0 1 8.5 -99
-Ref: 101 101 N 1 0 0 1 0 0
+Flags: HW
+Ref: 111 175 N 1 0 0 1 8.5 -99
+Ref: 70 101 N 1 0 0 1 0 0
 EndChar
 StartChar: Ebreve
-Encoding: 276 276 258
+Encoding: 211 276 258
+OldEncoding: 276
 Width: 1233
-Flags: H
-Ref: 728 728 N 1 0 0 1 16.5 333
-Ref: 69 69 N 1 0 0 1 0 0
+Flags: HW
+Ref: 311 728 N 1 0 0 1 16.5 333
+Ref: 38 69 N 1 0 0 1 0 0
 EndChar
 StartChar: ebreve
-Encoding: 277 277 259
+Encoding: 212 277 259
+OldEncoding: 277
 Width: 1233
-Flags: H
-Ref: 728 728 N 1 0 0 1 8.5 -40
-Ref: 101 101 N 1 0 0 1 0 0
+Flags: HW
+Ref: 311 728 N 1 0 0 1 8.5 -40
+Ref: 70 101 N 1 0 0 1 0 0
 EndChar
 StartChar: Edotaccent
-Encoding: 278 278 260
+Encoding: 213 278 260
+OldEncoding: 278
 Width: 1233
-Flags: H
-Ref: 729 729 N 1 0 0 1 16.5 303
-Ref: 69 69 N 1 0 0 1 0 0
+Flags: HW
+Ref: 312 729 N 1 0 0 1 16.5 303
+Ref: 38 69 N 1 0 0 1 0 0
 EndChar
 StartChar: edotaccent
-Encoding: 279 279 261
+Encoding: 214 279 261
+OldEncoding: 279
 Width: 1233
-Flags: H
-Ref: 729 729 N 1 0 0 1 8.5 -70
-Ref: 101 101 N 1 0 0 1 0 0
+Flags: HW
+Ref: 312 729 N 1 0 0 1 8.5 -70
+Ref: 70 101 N 1 0 0 1 0 0
 EndChar
 StartChar: Eogonek
-Encoding: 280 280 262
+Encoding: 215 280 262
+OldEncoding: 280
 Width: 1233
-Flags: H
-Ref: 731 731 N 1 0 0 1 76 13.3667
-Ref: 69 69 N 1 0 0 1 0 0
+Flags: HW
+Ref: 314 731 N 1 0 0 1 76 13.3667
+Ref: 38 69 N 1 0 0 1 0 0
 EndChar
 StartChar: eogonek
-Encoding: 281 281 263
+Encoding: 216 281 263
+OldEncoding: 281
 Width: 1233
-Flags: H
-Ref: 731 731 N 1 0 0 1 42.5 -15.6333
-Ref: 101 101 N 1 0 0 1 0 0
+Flags: HW
+Ref: 314 731 N 1 0 0 1 42.5 -15.6333
+Ref: 70 101 N 1 0 0 1 0 0
 EndChar
 StartChar: Ecaron
-Encoding: 282 282 264
+Encoding: 217 282 264
+OldEncoding: 282
 Width: 1233
-Flags: H
-Ref: 711 711 N 1 0 0 1 16.5 380
-Ref: 69 69 N 1 0 0 1 0 0
+Flags: HW
+Ref: 310 711 N 1 0 0 1 16.5 380
+Ref: 38 69 N 1 0 0 1 0 0
 EndChar
 StartChar: ecaron
-Encoding: 283 283 265
+Encoding: 218 283 265
+OldEncoding: 283
 Width: 1233
-Flags: H
-Ref: 711 711 N 1 0 0 1 8.5 7
-Ref: 101 101 N 1 0 0 1 0 0
+Flags: HW
+Ref: 310 711 N 1 0 0 1 8.5 7
+Ref: 70 101 N 1 0 0 1 0 0
 EndChar
 StartChar: Gcircumflex
-Encoding: 284 284 266
+Encoding: 219 284 266
+OldEncoding: 284
 Width: 1233
-Flags: H
-Ref: 710 710 N 1 0 0 1 120.5 380
-Ref: 71 71 N 1 0 0 1 0 0
+Flags: HW
+Ref: 309 710 N 1 0 0 1 120.5 380
+Ref: 40 71 N 1 0 0 1 0 0
 EndChar
 StartChar: gcircumflex
-Encoding: 285 285 267
+Encoding: 220 285 267
+OldEncoding: 285
 Width: 1233
-Flags: H
-Ref: 710 710 S 1 0 0 1 5.5 3
-Ref: 103 103 N 1 0 0 1 0 0
+Flags: HW
+Ref: 309 710 S 1 0 0 1 5.5 3
+Ref: 72 103 N 1 0 0 1 0 0
 EndChar
 StartChar: Gbreve
-Encoding: 286 286 246
+Encoding: 221 286 246
+OldEncoding: 286
 Width: 1233
-Flags: W
-Ref: 71 71 N 1 0 0 1 0 0
-Ref: 65546 -1 N 1 0 0 1 0 373
+Flags: HW
+Ref: 40 71 N 1 0 0 1 0 0
+Ref: 361 -1 N 1 0 0 1 0 373
 EndChar
 StartChar: gbreve
-Encoding: 287 287 247
+Encoding: 222 287 247
+OldEncoding: 287
 Width: 1233
-Flags: W
-Ref: 103 103 N 1 0 0 1 0 0
-Ref: 728 728 N 1 0 0 1 0 0
+Flags: HW
+Ref: 72 103 N 1 0 0 1 0 0
+Ref: 311 728 N 1 0 0 1 0 0
 EndChar
 StartChar: Gdotaccent
-Encoding: 288 288 248
+Encoding: 223 288 248
+OldEncoding: 288
 Width: 1233
-Flags: H
-Ref: 729 729 N 1 0 0 1 120.5 303
-Ref: 71 71 N 1 0 0 1 0 0
+Flags: HW
+Ref: 312 729 N 1 0 0 1 120.5 303
+Ref: 40 71 N 1 0 0 1 0 0
 EndChar
 StartChar: gdotaccent
-Encoding: 289 289 249
+Encoding: 224 289 249
+OldEncoding: 289
 Width: 1233
-Flags: H
-Ref: 729 729 N 1 0 0 1 -102.5 -68
-Ref: 103 103 N 1 0 0 1 0 0
+Flags: HW
+Ref: 312 729 N 1 0 0 1 -102.5 -68
+Ref: 72 103 N 1 0 0 1 0 0
 EndChar
 StartChar: Gcommaaccent
-Encoding: 290 290 250
+Encoding: 225 290 250
+OldEncoding: 290
 Width: 1233
-Flags: H
-Ref: 184 184 N 1 0 0 1 86 -15.6333
-Ref: 71 71 N 1 0 0 1 0 0
+Flags: HW
+Ref: 120 184 N 1 0 0 1 86 -15.6333
+Ref: 40 71 N 1 0 0 1 0 0
 EndChar
 StartChar: gcommaaccent
-Encoding: 291 291 251
+Encoding: 226 291 251
+OldEncoding: 291
 Width: 1233
-Flags: H
-Ref: 184 184 N 1 0 0 1 -57 -410.633
-Ref: 103 103 N 1 0 0 1 0 0
+Flags: HW
+Ref: 120 184 N 1 0 0 1 -57 -410.633
+Ref: 72 103 N 1 0 0 1 0 0
 EndChar
 StartChar: Hcircumflex
-Encoding: 292 292 252
+Encoding: 227 292 252
+OldEncoding: 292
 Width: 1233
-Flags: H
-Ref: 710 710 N 1 0 0 1 0 380
-Ref: 72 72 N 1 0 0 1 0 0
+Flags: HW
+Ref: 309 710 N 1 0 0 1 0 380
+Ref: 41 72 N 1 0 0 1 0 0
 EndChar
 StartChar: hcircumflex
-Encoding: 293 293 253
+Encoding: 228 293 253
+OldEncoding: 293
 Width: 1233
-Flags: H
-Ref: 710 710 N 1 0 0 1 5 416
-Ref: 104 104 N 1 0 0 1 0 0
+Flags: HW
+Ref: 309 710 N 1 0 0 1 5 416
+Ref: 73 104 N 1 0 0 1 0 0
 EndChar
 StartChar: Itilde
-Encoding: 296 296 254
+Encoding: 229 296 254
+OldEncoding: 296
 Width: 1233
-Flags: H
-Ref: 732 732 N 1 0 0 1 0 335
-Ref: 73 73 N 1 0 0 1 0 0
+Flags: HW
+Ref: 315 732 N 1 0 0 1 0 335
+Ref: 42 73 N 1 0 0 1 0 0
 EndChar
 StartChar: itilde
-Encoding: 297 297 255
+Encoding: 230 297 255
+OldEncoding: 297
 Width: 1233
-Flags: H
-Ref: 732 732 N 1 0 0 1 -105.5 -38
-Ref: 305 305 N 1 0 0 1 0 0
+Flags: HW
+Ref: 315 732 N 1 0 0 1 -105.5 -38
+Ref: 238 305 N 1 0 0 1 0 0
 EndChar
 StartChar: Imacron
-Encoding: 298 298 256
+Encoding: 231 298 256
+OldEncoding: 298
 Width: 1233
-Flags: H
-Ref: 175 175 N 1 0 0 1 0 274
-Ref: 73 73 N 1 0 0 1 0 0
+Flags: HW
+Ref: 111 175 N 1 0 0 1 0 274
+Ref: 42 73 N 1 0 0 1 0 0
 EndChar
 StartChar: imacron
-Encoding: 299 299 257
+Encoding: 232 299 257
+OldEncoding: 299
 Width: 1233
-Flags: H
-Ref: 175 175 N 1 0 0 1 -105.5 -99
-Ref: 305 305 N 1 0 0 1 0 0
+Flags: HW
+Ref: 111 175 N 1 0 0 1 -105.5 -99
+Ref: 238 305 N 1 0 0 1 0 0
 EndChar
 StartChar: Ibreve
-Encoding: 300 300 258
+Encoding: 233 300 258
+OldEncoding: 300
 Width: 1233
-Flags: H
-Ref: 728 728 N 1 0 0 1 0 333
-Ref: 73 73 N 1 0 0 1 0 0
+Flags: HW
+Ref: 311 728 N 1 0 0 1 0 333
+Ref: 42 73 N 1 0 0 1 0 0
 EndChar
 StartChar: ibreve
-Encoding: 301 301 259
+Encoding: 234 301 259
+OldEncoding: 301
 Width: 1233
-Flags: H
-Ref: 728 728 N 1 0 0 1 -105.5 -40
-Ref: 305 305 N 1 0 0 1 0 0
+Flags: HW
+Ref: 311 728 N 1 0 0 1 -105.5 -40
+Ref: 238 305 N 1 0 0 1 0 0
 EndChar
 StartChar: Iogonek
-Encoding: 302 302 260
+Encoding: 235 302 260
+OldEncoding: 302
 Width: 1233
-Flags: H
-Ref: 731 731 N 1 0 0 1 -11 13.3667
-Ref: 73 73 N 1 0 0 1 0 0
+Flags: HW
+Ref: 314 731 N 1 0 0 1 -11 13.3667
+Ref: 42 73 N 1 0 0 1 0 0
 EndChar
 StartChar: iogonek
-Encoding: 303 303 261
+Encoding: 236 303 261
+OldEncoding: 303
 Width: 1233
-Flags: H
-Ref: 731 731 N 1 0 0 1 26.5 13.3667
-Ref: 105 105 N 1 0 0 1 0 0
+Flags: HW
+Ref: 314 731 N 1 0 0 1 26.5 13.3667
+Ref: 74 105 N 1 0 0 1 0 0
 EndChar
 StartChar: Idotaccent
-Encoding: 304 304 248
+Encoding: 237 304 248
+OldEncoding: 304
 Width: 1233
-Flags: W
-Ref: 73 73 N 1 0 0 1 0 0
-Ref: 65547 -1 N 1 0 0 1 0 373
+Flags: HW
+Ref: 42 73 N 1 0 0 1 0 0
+Ref: 362 -1 N 1 0 0 1 0 373
 EndChar
 StartChar: dotlessi
-Encoding: 305 305 214
+Encoding: 238 305 214
+OldEncoding: 305
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 31
 5S"-]!0@BdNs#Oc('O[C$4t_*`;IP.!&*[oo^"73
 EndTtf
@@ -5028,95 +5156,108 @@ Fore
 EndSplineSet
 EndChar
 StartChar: Jcircumflex
-Encoding: 308 308 215
+Encoding: 239 308 215
+OldEncoding: 308
 Width: 1233
-Flags: H
-Ref: 710 710 N 1 0 0 1 63.5 380
-Ref: 74 74 N 1 0 0 1 0 0
+Flags: HW
+Ref: 309 710 N 1 0 0 1 63.5 380
+Ref: 43 74 N 1 0 0 1 0 0
 EndChar
 StartChar: jcircumflex
-Encoding: 309 309 216
+Encoding: 240 309 216
+OldEncoding: 309
 Width: 1233
-Flags: H
-Ref: 710 710 N 1 0 0 1 87 525
-Ref: 106 106 N 1 0 0 1 0 0
+Flags: HW
+Ref: 309 710 N 1 0 0 1 87 525
+Ref: 75 106 N 1 0 0 1 0 0
 EndChar
 StartChar: Kcommaaccent
-Encoding: 310 310 217
+Encoding: 241 310 217
+OldEncoding: 310
 Width: 1233
-Flags: H
-Ref: 184 184 N 1 0 0 1 -36 13.3667
-Ref: 75 75 N 1 0 0 1 0 0
+Flags: HW
+Ref: 120 184 N 1 0 0 1 -36 13.3667
+Ref: 44 75 N 1 0 0 1 0 0
 EndChar
 StartChar: kcommaaccent
-Encoding: 311 311 218
+Encoding: 242 311 218
+OldEncoding: 311
 Width: 1233
-Flags: H
-Ref: 184 184 N 1 0 0 1 -21 13.3667
-Ref: 107 107 N 1 0 0 1 0 0
+Flags: HW
+Ref: 120 184 N 1 0 0 1 -21 13.3667
+Ref: 76 107 N 1 0 0 1 0 0
 EndChar
 StartChar: Lacute
-Encoding: 313 313 219
+Encoding: 243 313 219
+OldEncoding: 313
 Width: 1233
-Flags: H
-Ref: 180 180 N 1 0 0 1 120.5 380
-Ref: 76 76 N 1 0 0 1 0 0
+Flags: HW
+Ref: 116 180 N 1 0 0 1 120.5 380
+Ref: 45 76 N 1 0 0 1 0 0
 EndChar
 StartChar: lacute
-Encoding: 314 314 220
+Encoding: 244 314 220
+OldEncoding: 314
 Width: 1233
-Flags: H
-Ref: 180 180 N 1 0 0 1 -182.5 416
-Ref: 108 108 N 1 0 0 1 0 0
+Flags: HW
+Ref: 116 180 N 1 0 0 1 -182.5 416
+Ref: 77 108 N 1 0 0 1 0 0
 EndChar
 StartChar: Lcommaaccent
-Encoding: 315 315 221
+Encoding: 245 315 221
+OldEncoding: 315
 Width: 1233
-Flags: H
-Ref: 184 184 N 1 0 0 1 51 13.3667
-Ref: 76 76 N 1 0 0 1 0 0
+Flags: HW
+Ref: 120 184 N 1 0 0 1 51 13.3667
+Ref: 45 76 N 1 0 0 1 0 0
 EndChar
 StartChar: lcommaaccent
-Encoding: 316 316 222
+Encoding: 246 316 222
+OldEncoding: 316
 Width: 1233
-Flags: H
-Ref: 184 184 N 1 0 0 1 299 13.3667
-Ref: 108 108 N 1 0 0 1 0 0
+Flags: HW
+Ref: 120 184 N 1 0 0 1 299 13.3667
+Ref: 77 108 N 1 0 0 1 0 0
 EndChar
 StartChar: Lcaron
-Encoding: 317 317 223
+Encoding: 247 317 223
+OldEncoding: 317
 Width: 1233
-Flags: H
-Ref: 711 711 N 1 0 0 1 71.5 380
-Ref: 76 76 N 1 0 0 1 0 0
+Flags: HW
+Ref: 310 711 N 1 0 0 1 71.5 380
+Ref: 45 76 N 1 0 0 1 0 0
 EndChar
 StartChar: lcaron
-Encoding: 318 318 224
+Encoding: 248 318 224
+OldEncoding: 318
 Width: 1233
-Flags: H
-Ref: 711 711 N 1 0 0 1 -231.5 416
-Ref: 108 108 N 1 0 0 1 0 0
+Flags: HW
+Ref: 310 711 N 1 0 0 1 -231.5 416
+Ref: 77 108 N 1 0 0 1 0 0
 EndChar
 StartChar: Ldot
-Encoding: 319 319 225
+Encoding: 249 319 225
+OldEncoding: 319
 Width: 1233
-Flags: H
-Ref: 183 183 N 1 0 0 1 72.5 47.5
-Ref: 76 76 N 1 0 0 1 0 0
+Flags: HW
+Ref: 119 183 N 1 0 0 1 72.5 47.5
+Ref: 45 76 N 1 0 0 1 0 0
 Ligature: 0 1 'liga' L periodcentered
 EndChar
 StartChar: ldot
-Encoding: 320 320 226
-Width: 2466
-Flags: H
-Ref: 183 183 N 1 0 0 1 1233 0
-Ref: 108 108 N 1 0 0 1 0 0
+Encoding: 250 320 226
+OldEncoding: 320
+Width: 1233
+Flags: HW
+Ref: 119 183 N 1 0 0 1 1233 0
+Ref: 77 108 N 1 0 0 1 0 0
 Ligature: 0 1 'liga' l periodcentered
 EndChar
 StartChar: Lslash
-Encoding: 321 321 225
+Encoding: 251 321 225
+OldEncoding: 321
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 55
 5TU4;#6P#."pGBR"_7T>#Rgn=%KHS<"qM+]"99DO&H"ZWlnU1*&igO:3B8eo0BDI3(HF/L
 EndTtf
@@ -5139,9 +5280,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: lslash
-Encoding: 322 322 226
+Encoding: 252 322 226
+OldEncoding: 322
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 68
 5U?dF#m150"q:PD"cin1&<@G8$OQtJ#QkhD"oo;K$j[UQ"992Ke3(\I4N'5l&igOa&J>m?0`Wln
 r9P"U3>X\0
@@ -5171,93 +5313,106 @@ Fore
 EndSplineSet
 EndChar
 StartChar: Nacute
-Encoding: 323 323 227
+Encoding: 253 323 227
+OldEncoding: 323
 Width: 1233
-Flags: H
-Ref: 180 180 N 1 0 0 1 48 380
-Ref: 78 78 N 1 0 0 1 0 0
+Flags: HW
+Ref: 116 180 N 1 0 0 1 48 380
+Ref: 47 78 N 1 0 0 1 0 0
 EndChar
 StartChar: nacute
-Encoding: 324 324 228
+Encoding: 254 324 228
+OldEncoding: 324
 Width: 1233
-Flags: H
-Ref: 180 180 N 1 0 0 1 54 7
-Ref: 110 110 N 1 0 0 1 0 0
+Flags: HW
+Ref: 116 180 N 1 0 0 1 54 7
+Ref: 79 110 N 1 0 0 1 0 0
 EndChar
 StartChar: Ncommaaccent
-Encoding: 325 325 229
+Encoding: 255 325 229
+OldEncoding: 325
 Width: 1233
-Flags: H
-Ref: 184 184 N 1 0 0 1 -91.5 13.3667
-Ref: 78 78 N 1 0 0 1 0 0
+Flags: HW
+Ref: 120 184 N 1 0 0 1 -91.5 13.3667
+Ref: 47 78 N 1 0 0 1 0 0
 EndChar
 StartChar: ncommaaccent
-Encoding: 326 326 230
+Encoding: 256 326 230
+OldEncoding: 326
 Width: 1233
-Flags: H
-Ref: 184 184 S 1 0 0 1 366.5 1.3667
-Ref: 110 110 N 1 0 0 1 0 0
+Flags: HW
+Ref: 120 184 S 1 0 0 1 366.5 1.3667
+Ref: 79 110 N 1 0 0 1 0 0
 EndChar
 StartChar: Ncaron
-Encoding: 327 327 231
+Encoding: 257 327 231
+OldEncoding: 327
 Width: 1233
-Flags: H
-Ref: 711 711 N 1 0 0 1 -1 380
-Ref: 78 78 N 1 0 0 1 0 0
+Flags: HW
+Ref: 310 711 N 1 0 0 1 -1 380
+Ref: 47 78 N 1 0 0 1 0 0
 EndChar
 StartChar: ncaron
-Encoding: 328 328 232
+Encoding: 258 328 232
+OldEncoding: 328
 Width: 1233
-Flags: H
-Ref: 711 711 N 1 0 0 1 5 7
-Ref: 110 110 N 1 0 0 1 0 0
+Flags: HW
+Ref: 310 711 N 1 0 0 1 5 7
+Ref: 79 110 N 1 0 0 1 0 0
 EndChar
 StartChar: Omacron
-Encoding: 332 332 233
+Encoding: 259 332 233
+OldEncoding: 332
 Width: 1233
-Flags: H
-Ref: 175 175 N 1 0 0 1 -0.5 274
-Ref: 79 79 N 1 0 0 1 0 0
+Flags: HW
+Ref: 111 175 N 1 0 0 1 -0.5 274
+Ref: 48 79 N 1 0 0 1 0 0
 EndChar
 StartChar: omacron
-Encoding: 333 333 234
+Encoding: 260 333 234
+OldEncoding: 333
 Width: 1233
-Flags: H
-Ref: 175 175 N 1 0 0 1 -0.5 -99
-Ref: 111 111 N 1 0 0 1 0 0
+Flags: HW
+Ref: 111 175 N 1 0 0 1 -0.5 -99
+Ref: 80 111 N 1 0 0 1 0 0
 EndChar
 StartChar: Obreve
-Encoding: 334 334 235
+Encoding: 261 334 235
+OldEncoding: 334
 Width: 1233
-Flags: H
-Ref: 728 728 N 1 0 0 1 -0.5 333
-Ref: 79 79 N 1 0 0 1 0 0
+Flags: HW
+Ref: 311 728 N 1 0 0 1 -0.5 333
+Ref: 48 79 N 1 0 0 1 0 0
 EndChar
 StartChar: obreve
-Encoding: 335 335 236
+Encoding: 262 335 236
+OldEncoding: 335
 Width: 1233
-Flags: H
-Ref: 728 728 N 1 0 0 1 -0.5 -40
-Ref: 111 111 N 1 0 0 1 0 0
+Flags: HW
+Ref: 311 728 N 1 0 0 1 -0.5 -40
+Ref: 80 111 N 1 0 0 1 0 0
 EndChar
 StartChar: Ohungarumlaut
-Encoding: 336 336 237
+Encoding: 263 336 237
+OldEncoding: 336
 Width: 1233
-Flags: H
-Ref: 733 733 N 1 0 0 1 61 380
-Ref: 79 79 N 1 0 0 1 0 0
+Flags: HW
+Ref: 316 733 N 1 0 0 1 61 380
+Ref: 48 79 N 1 0 0 1 0 0
 EndChar
 StartChar: ohungarumlaut
-Encoding: 337 337 238
+Encoding: 264 337 238
+OldEncoding: 337
 Width: 1233
-Flags: H
-Ref: 733 733 N 1 0 0 1 61 7
-Ref: 111 111 N 1 0 0 1 0 0
+Flags: HW
+Ref: 316 733 N 1 0 0 1 61 7
+Ref: 80 111 N 1 0 0 1 0 0
 EndChar
 StartChar: OE
-Encoding: 338 338 176
+Encoding: 265 338 176
+OldEncoding: 338
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 62
 5TpVV$kWhc#\4_OE"%6t(D.>e!Z33o$PWmV!#lU_"WSElr9X@"`":E\mQ!9>3B8eo0BV[Xp?j[I
 mP"V@
@@ -5290,13 +5445,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: oe
-Encoding: 339 339 177
+Encoding: 266 339 177
+OldEncoding: 339
 Width: 1233
-Flags: W
-TtfInstrs: 111
-5VXZ2+W;XC%L<1[+_Lc[M[4Sa"D8)BN\)Pi*>aPE$Z\-8)CbbA<"pJ\!#-n\-il4;e3*ZIeATQB
-mL^'l3ACLFj>-?iln[o=mP=M(&FMOj&igO:3>"830L-/p!7(\l+O;4W,0q[`.0j,Y
-EndTtf
+Flags: HW
 Fore
 1210 479 m 1,0,-1
  760 479 l 1,1,2
@@ -5342,296 +5494,338 @@ Fore
 EndSplineSet
 EndChar
 StartChar: Racute
-Encoding: 340 340 178
+Encoding: 267 340 178
+OldEncoding: 340
 Width: 1233
-Flags: H
-Ref: 180 180 N 1 0 0 1 -221.5 380
-Ref: 82 82 N 1 0 0 1 0 0
+Flags: HW
+Ref: 116 180 N 1 0 0 1 -221.5 380
+Ref: 51 82 N 1 0 0 1 0 0
 EndChar
 StartChar: racute
-Encoding: 341 341 179
+Encoding: 268 341 179
+OldEncoding: 341
 Width: 1233
-Flags: H
-Ref: 180 180 N 1 0 0 1 153.5 7
-Ref: 114 114 N 1 0 0 1 0 0
+Flags: HW
+Ref: 116 180 N 1 0 0 1 153.5 7
+Ref: 83 114 N 1 0 0 1 0 0
 EndChar
 StartChar: Rcommaaccent
-Encoding: 342 342 180
+Encoding: 269 342 180
+OldEncoding: 342
 Width: 1233
-Flags: H
-Ref: 184 184 N 1 0 0 1 -24 13.3667
-Ref: 82 82 N 1 0 0 1 0 0
+Flags: HW
+Ref: 120 184 N 1 0 0 1 -24 13.3667
+Ref: 51 82 N 1 0 0 1 0 0
 EndChar
 StartChar: rcommaaccent
-Encoding: 343 343 181
+Encoding: 270 343 181
+OldEncoding: 343
 Width: 1233
-Flags: H
-Ref: 184 184 N 1 0 0 1 -269.5 13.3667
-Ref: 114 114 N 1 0 0 1 0 0
+Flags: HW
+Ref: 120 184 N 1 0 0 1 -269.5 13.3667
+Ref: 83 114 N 1 0 0 1 0 0
 EndChar
 StartChar: Rcaron
-Encoding: 344 344 182
+Encoding: 271 344 182
+OldEncoding: 344
 Width: 1233
-Flags: H
-Ref: 711 711 S 1 0 0 1 -11.5001 373
-Ref: 82 82 N 1 0 0 1 0 0
+Flags: HW
+Ref: 310 711 S 1 0 0 1 -11.5001 373
+Ref: 51 82 N 1 0 0 1 0 0
 EndChar
 StartChar: rcaron
-Encoding: 345 345 183
+Encoding: 272 345 183
+OldEncoding: 345
 Width: 1233
-Flags: H
-Ref: 711 711 N 1 0 0 1 104.5 7
-Ref: 114 114 N 1 0 0 1 0 0
+Flags: HW
+Ref: 310 711 N 1 0 0 1 104.5 7
+Ref: 83 114 N 1 0 0 1 0 0
 EndChar
 StartChar: Sacute
-Encoding: 346 346 184
+Encoding: 273 346 184
+OldEncoding: 346
 Width: 1233
-Flags: H
-Ref: 180 180 N 1 0 0 1 48.5 380
-Ref: 83 83 N 1 0 0 1 0 0
+Flags: HW
+Ref: 116 180 N 1 0 0 1 48.5 380
+Ref: 52 83 N 1 0 0 1 0 0
 EndChar
 StartChar: sacute
-Encoding: 347 347 185
+Encoding: 274 347 185
+OldEncoding: 347
 Width: 1233
-Flags: H
-Ref: 180 180 N 1 0 0 1 50.5 7
-Ref: 115 115 N 1 0 0 1 0 0
+Flags: HW
+Ref: 116 180 N 1 0 0 1 50.5 7
+Ref: 84 115 N 1 0 0 1 0 0
 EndChar
 StartChar: Scircumflex
-Encoding: 348 348 186
+Encoding: 275 348 186
+OldEncoding: 348
 Width: 1233
-Flags: H
-Ref: 710 710 N 1 0 0 1 -0.5 380
-Ref: 83 83 N 1 0 0 1 0 0
+Flags: HW
+Ref: 309 710 N 1 0 0 1 -0.5 380
+Ref: 52 83 N 1 0 0 1 0 0
 EndChar
 StartChar: scircumflex
-Encoding: 349 349 187
+Encoding: 276 349 187
+OldEncoding: 349
 Width: 1233
-Flags: H
-Ref: 710 710 N 1 0 0 1 1.5 7
-Ref: 115 115 N 1 0 0 1 0 0
+Flags: HW
+Ref: 309 710 N 1 0 0 1 1.5 7
+Ref: 84 115 N 1 0 0 1 0 0
 EndChar
 StartChar: Scedilla
-Encoding: 350 350 249
+Encoding: 277 350 249
+OldEncoding: 350
 Width: 1233
-Flags: W
-Ref: 83 83 N 1 0 0 1 0 0
-Ref: 184 184 N 1 0 0 1 0 0
+Flags: HW
+Ref: 52 83 N 1 0 0 1 0 0
+Ref: 120 184 N 1 0 0 1 0 0
 EndChar
 StartChar: scedilla
-Encoding: 351 351 250
+Encoding: 278 351 250
+OldEncoding: 351
 Width: 1233
-Flags: W
-Ref: 115 115 N 1 0 0 1 0 0
-Ref: 184 184 N 1 0 0 1 0 0
+Flags: HW
+Ref: 84 115 N 1 0 0 1 0 0
+Ref: 120 184 N 1 0 0 1 0 0
 EndChar
 StartChar: Scaron
-Encoding: 352 352 227
+Encoding: 279 352 227
+OldEncoding: 352
 Width: 1233
-Flags: W
-Ref: 83 83 N 1 0 0 1 0 0
-Ref: 65543 -1 N 1 0 0 1 0 373
+Flags: HW
+Ref: 52 83 N 1 0 0 1 0 0
+Ref: 358 -1 N 1 0 0 1 0 373
 EndChar
 StartChar: scaron
-Encoding: 353 353 228
+Encoding: 280 353 228
+OldEncoding: 353
 Width: 1233
-Flags: W
-Ref: 115 115 N 1 0 0 1 0 0
-Ref: 711 711 N 1 0 0 1 0 0
+Flags: HW
+Ref: 84 115 N 1 0 0 1 0 0
+Ref: 310 711 N 1 0 0 1 0 0
 EndChar
 StartChar: Tcommaaccent
-Encoding: 354 354 229
+Encoding: 281 354 229
+OldEncoding: 354
 Width: 1233
-Flags: H
-Ref: 184 184 N 1 0 0 1 -20.5 13.3667
-Ref: 84 84 N 1 0 0 1 0 0
+Flags: HW
+Ref: 120 184 N 1 0 0 1 -20.5 13.3667
+Ref: 53 84 N 1 0 0 1 0 0
 EndChar
 StartChar: tcommaaccent
-Encoding: 355 355 230
+Encoding: 282 355 230
+OldEncoding: 355
 Width: 1233
-Flags: H
-Ref: 184 184 N 1 0 0 1 313 13.3667
-Ref: 116 116 N 1 0 0 1 0 0
+Flags: HW
+Ref: 120 184 N 1 0 0 1 313 13.3667
+Ref: 85 116 N 1 0 0 1 0 0
 EndChar
 StartChar: Tcaron
-Encoding: 356 356 231
+Encoding: 283 356 231
+OldEncoding: 356
 Width: 1233
-Flags: H
-Ref: 711 711 N 1 0 0 1 0 380
-Ref: 84 84 N 1 0 0 1 0 0
+Flags: HW
+Ref: 310 711 N 1 0 0 1 0 380
+Ref: 53 84 N 1 0 0 1 0 0
 EndChar
 StartChar: tcaron
-Encoding: 357 357 232
+Encoding: 284 357 232
+OldEncoding: 357
 Width: 1233
-Flags: H
-Ref: 711 711 N 1 0 0 1 -73 298
-Ref: 116 116 N 1 0 0 1 0 0
+Flags: HW
+Ref: 310 711 N 1 0 0 1 -73 298
+Ref: 85 116 N 1 0 0 1 0 0
 EndChar
 StartChar: Utilde
-Encoding: 360 360 233
+Encoding: 285 360 233
+OldEncoding: 360
 Width: 1233
-Flags: H
-Ref: 732 732 N 1 0 0 1 -0.5 335
-Ref: 85 85 N 1 0 0 1 0 0
+Flags: HW
+Ref: 315 732 N 1 0 0 1 -0.5 335
+Ref: 54 85 N 1 0 0 1 0 0
 EndChar
 StartChar: utilde
-Encoding: 361 361 234
+Encoding: 286 361 234
+OldEncoding: 361
 Width: 1233
-Flags: H
-Ref: 732 732 N 1 0 0 1 -6 -38
-Ref: 117 117 N 1 0 0 1 0 0
+Flags: HW
+Ref: 315 732 N 1 0 0 1 -6 -38
+Ref: 86 117 N 1 0 0 1 0 0
 EndChar
 StartChar: Umacron
-Encoding: 362 362 235
+Encoding: 287 362 235
+OldEncoding: 362
 Width: 1233
-Flags: H
-Ref: 175 175 N 1 0 0 1 -0.5 274
-Ref: 85 85 N 1 0 0 1 0 0
+Flags: HW
+Ref: 111 175 N 1 0 0 1 -0.5 274
+Ref: 54 85 N 1 0 0 1 0 0
 EndChar
 StartChar: umacron
-Encoding: 363 363 236
+Encoding: 288 363 236
+OldEncoding: 363
 Width: 1233
-Flags: H
-Ref: 175 175 N 1 0 0 1 -6 -99
-Ref: 117 117 N 1 0 0 1 0 0
+Flags: HW
+Ref: 111 175 N 1 0 0 1 -6 -99
+Ref: 86 117 N 1 0 0 1 0 0
 EndChar
 StartChar: Ubreve
-Encoding: 364 364 237
+Encoding: 289 364 237
+OldEncoding: 364
 Width: 1233
-Flags: H
-Ref: 728 728 N 1 0 0 1 -0.5 333
-Ref: 85 85 N 1 0 0 1 0 0
+Flags: HW
+Ref: 311 728 N 1 0 0 1 -0.5 333
+Ref: 54 85 N 1 0 0 1 0 0
 EndChar
 StartChar: ubreve
-Encoding: 365 365 238
+Encoding: 290 365 238
+OldEncoding: 365
 Width: 1233
-Flags: H
-Ref: 728 728 N 1 0 0 1 -6 -40
-Ref: 117 117 N 1 0 0 1 0 0
+Flags: HW
+Ref: 311 728 N 1 0 0 1 -6 -40
+Ref: 86 117 N 1 0 0 1 0 0
 EndChar
 StartChar: Uring
-Encoding: 366 366 239
+Encoding: 291 366 239
+OldEncoding: 366
 Width: 1233
-Flags: H
-Ref: 730 730 N 1 0 0 1 -0.5 393
-Ref: 85 85 N 1 0 0 1 0 0
+Flags: HW
+Ref: 313 730 N 1 0 0 1 -0.5 393
+Ref: 54 85 N 1 0 0 1 0 0
 EndChar
 StartChar: uring
-Encoding: 367 367 240
+Encoding: 292 367 240
+OldEncoding: 367
 Width: 1233
-Flags: H
-Ref: 730 730 N 1 0 0 1 -6 20
-Ref: 117 117 N 1 0 0 1 0 0
+Flags: HW
+Ref: 313 730 N 1 0 0 1 -6 20
+Ref: 86 117 N 1 0 0 1 0 0
 EndChar
 StartChar: Uhungarumlaut
-Encoding: 368 368 241
+Encoding: 293 368 241
+OldEncoding: 368
 Width: 1233
-Flags: H
-Ref: 733 733 N 1 0 0 1 61 380
-Ref: 85 85 N 1 0 0 1 0 0
+Flags: HW
+Ref: 316 733 N 1 0 0 1 61 380
+Ref: 54 85 N 1 0 0 1 0 0
 EndChar
 StartChar: uhungarumlaut
-Encoding: 369 369 242
+Encoding: 294 369 242
+OldEncoding: 369
 Width: 1233
-Flags: H
-Ref: 733 733 N 1 0 0 1 55.5 7
-Ref: 117 117 N 1 0 0 1 0 0
+Flags: HW
+Ref: 316 733 N 1 0 0 1 55.5 7
+Ref: 86 117 N 1 0 0 1 0 0
 EndChar
 StartChar: Uogonek
-Encoding: 370 370 243
+Encoding: 295 370 243
+OldEncoding: 370
 Width: 1233
-Flags: H
-Ref: 731 731 N 1 0 0 1 -11.5 -15.6333
-Ref: 85 85 N 1 0 0 1 0 0
+Flags: HW
+Ref: 314 731 N 1 0 0 1 -11.5 -15.6333
+Ref: 54 85 N 1 0 0 1 0 0
 EndChar
 StartChar: uogonek
-Encoding: 371 371 244
+Encoding: 296 371 244
+OldEncoding: 371
 Width: 1233
-Flags: H
-Ref: 731 731 S 1 0 0 1 354 0.366699
-Ref: 117 117 N 1 0 0 1 0 0
+Flags: HW
+Ref: 314 731 S 1 0 0 1 354 0.366699
+Ref: 86 117 N 1 0 0 1 0 0
 EndChar
 StartChar: Wcircumflex
-Encoding: 372 372 245
+Encoding: 297 372 245
+OldEncoding: 372
 Width: 1233
-Flags: H
-Ref: 710 710 N 1 0 0 1 0 380
-Ref: 87 87 N 1 0 0 1 0 0
+Flags: HW
+Ref: 309 710 N 1 0 0 1 0 380
+Ref: 56 87 N 1 0 0 1 0 0
 EndChar
 StartChar: wcircumflex
-Encoding: 373 373 246
+Encoding: 298 373 246
+OldEncoding: 373
 Width: 1233
-Flags: H
-Ref: 710 710 N 1 0 0 1 0 7
-Ref: 119 119 N 1 0 0 1 0 0
+Flags: HW
+Ref: 309 710 N 1 0 0 1 0 7
+Ref: 88 119 N 1 0 0 1 0 0
 EndChar
 StartChar: Ycircumflex
-Encoding: 374 374 247
+Encoding: 299 374 247
+OldEncoding: 374
 Width: 1233
-Flags: H
-Ref: 710 710 N 1 0 0 1 0 380
-Ref: 89 89 N 1 0 0 1 0 0
+Flags: HW
+Ref: 309 710 N 1 0 0 1 0 380
+Ref: 58 89 N 1 0 0 1 0 0
 EndChar
 StartChar: ycircumflex
-Encoding: 375 375 248
+Encoding: 300 375 248
+OldEncoding: 375
 Width: 1233
-Flags: H
-Ref: 710 710 N 1 0 0 1 1 7
-Ref: 121 121 N 1 0 0 1 0 0
+Flags: HW
+Ref: 309 710 N 1 0 0 1 1 7
+Ref: 90 121 N 1 0 0 1 0 0
 EndChar
 StartChar: Ydieresis
-Encoding: 376 376 187
+Encoding: 301 376 187
+OldEncoding: 376
 Width: 1233
-Flags: W
-Ref: 89 89 N 1 0 0 1 0 0
-Ref: 65538 -1 N 1 0 0 1 0 373
+Flags: HW
+Ref: 58 89 N 1 0 0 1 0 0
+Ref: 353 -1 N 1 0 0 1 0 373
 EndChar
 StartChar: Zacute
-Encoding: 377 377 188
+Encoding: 302 377 188
+OldEncoding: 377
 Width: 1233
-Flags: H
-Ref: 180 180 N 1 0 0 1 74.5 380
-Ref: 90 90 N 1 0 0 1 0 0
+Flags: HW
+Ref: 116 180 N 1 0 0 1 74.5 380
+Ref: 59 90 N 1 0 0 1 0 0
 EndChar
 StartChar: zacute
-Encoding: 378 378 189
+Encoding: 303 378 189
+OldEncoding: 378
 Width: 1233
-Flags: H
-Ref: 180 180 N 1 0 0 1 66 7
-Ref: 122 122 N 1 0 0 1 0 0
+Flags: HW
+Ref: 116 180 N 1 0 0 1 66 7
+Ref: 91 122 N 1 0 0 1 0 0
 EndChar
 StartChar: Zdotaccent
-Encoding: 379 379 190
+Encoding: 304 379 190
+OldEncoding: 379
 Width: 1233
-Flags: H
-Ref: 729 729 N 1 0 0 1 25.5 303
-Ref: 90 90 N 1 0 0 1 0 0
+Flags: HW
+Ref: 312 729 N 1 0 0 1 25.5 303
+Ref: 59 90 N 1 0 0 1 0 0
 EndChar
 StartChar: zdotaccent
-Encoding: 380 380 191
+Encoding: 305 380 191
+OldEncoding: 380
 Width: 1233
-Flags: H
-Ref: 729 729 N 1 0 0 1 17 -70
-Ref: 122 122 N 1 0 0 1 0 0
+Flags: HW
+Ref: 312 729 N 1 0 0 1 17 -70
+Ref: 91 122 N 1 0 0 1 0 0
 EndChar
 StartChar: Zcaron
-Encoding: 381 381 229
+Encoding: 306 381 229
+OldEncoding: 381
 Width: 1233
-Flags: W
-Ref: 90 90 N 1 0 0 1 0 0
-Ref: 65543 -1 N 1 0 0 1 0 373
+Flags: HW
+Ref: 59 90 N 1 0 0 1 0 0
+Ref: 358 -1 N 1 0 0 1 0 373
 EndChar
 StartChar: zcaron
-Encoding: 382 382 230
+Encoding: 307 382 230
+OldEncoding: 382
 Width: 1233
-Flags: W
-Ref: 122 122 N 1 0 0 1 0 0
-Ref: 711 711 N 1 0 0 1 0 0
+Flags: HW
+Ref: 91 122 N 1 0 0 1 0 0
+Ref: 310 711 N 1 0 0 1 0 0
 EndChar
 StartChar: florin
-Encoding: 402 402 166
+Encoding: 308 402 166
+OldEncoding: 402
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 132
 5Y2Fp!Y5\L)&aA#%N66'#S%jr*<cWK":#DX*ZZOE$kisQ*W[/dNsHDW&pY7+%fqRgGm%e(D@[]m
 ,T[sF)Arqk#m^bC!"pOgeBA^h0`Vd'1;rhOo^!.Wp?iL[1(lT-&J@)a0M>>H#7q(+&JmG4&-_G+
@@ -5670,9 +5864,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: circumflex
-Encoding: 710 710 215
+Encoding: 309 710 215
+OldEncoding: 710
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 53
 5RIVt!W[iX"9Jc4&Ceoa0`VdWbVD14!)'O&<(jG*<*NJ<!!iP>!!*')!!`Kh3"\)/=TAF%
 EndTtf
@@ -5688,9 +5883,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: caron
-Encoding: 711 711 224
+Encoding: 310 711 224
+OldEncoding: 711
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 53
 5RISn"9F,[!sJ]1&Ceoa0`VdW4Nof>!)'O&<(jG*<*NJ<!!iP>!!*')!!`Kh3"\)/=TAF%
 EndTtf
@@ -5706,13 +5902,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: breve
-Encoding: 728 728 218
+Encoding: 311 728 218
+OldEncoding: 728
 Width: 1233
-Flags: W
-TtfInstrs: 96
-5Rdk#$O6YA#@.T9>lY?GeEk]O0`Vd74Oi^O!)'O'<*6g6%KJ`o!<<T0%fa=(&N;[P!)'O)<*6g6
-%fa<E!<<T0%KJaR&N;[P5S4M,%fm1G%gX6W*s!Gg*s`-X
-EndTtf
+Flags: HW
 Fore
 281 1606 m 1,0,-1
  422 1606 l 1,1,2
@@ -5728,9 +5921,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: dotaccent
-Encoding: 729 729 219
+Encoding: 312 729 219
+OldEncoding: 729
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 77
 [/p=2!<<66eBBWI&CeoX!DBX(<*6g6"TQ7;!<<6&"9:\H&N;[P!)'O'<(jG'<*NJ<!!E9e!!*'&
 !!N>;3"\)/=gTj`0EM:V>lXj)
@@ -5744,13 +5938,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: ring
-Encoding: 730 730 220
+Encoding: 313 730 220
+OldEncoding: 730
 Width: 1233
-Flags: W
-TtfInstrs: 82
-5RnO5!tVUB(_U*Y$s`iM&Cg'rlnJJOeEk]O0E=bM#ujR%$rgG5]`8oL^]4B8(]YBQ5WB?73*?8T
-YRFK5]`8oL^]4B8(]YBQ5WB?73*?4]
-EndTtf
+Flags: HW
 Fore
 332 1534 m 0,0,1
  332 1652 332 1652 415 1735.5 c 128,-1,2
@@ -5773,9 +5964,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: ogonek
-Encoding: 731 731 223
+Encoding: 314 731 223
+OldEncoding: 731
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 31
 5Rn/3$4!dF!!*'&>m_/X&CeYbeAO'A0@]p<&ihWG
 EndTtf
@@ -5798,9 +5990,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: tilde
-Encoding: 732 732 216
+Encoding: 315 732 216
+OldEncoding: 732
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 209
 5U7-X&-EUU#QXo-*!I2s'FbBU"Ve0\"gAFX&HNFC#T"?a$6Ki/bgaiK3B9)[0`Vd7r7('G3B7Za
 3B7Za(HE'?(HF/L9<\_%9<\h(>?JQ=+90+V!<=2A*rnPc&N;[P!DBX(<(jG'<*NJ<!$D6V!!*'A
@@ -5834,9 +6027,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: hungarumlaut
-Encoding: 733 733 222
+Encoding: 316 733 222
+OldEncoding: 733
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 73
 5S+,$"9=&[":##/"T\]/#7(mjgsjO[3=ula0`VdW4NoQ7!)'O&<(jG*<*NJ<!!rV?!!*'*!!iQi
 3"\)/=gU$e2$*g[>lXj)
@@ -5855,9 +6049,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: Omega
-Encoding: 937 937 159
+Encoding: 317 937 159
+OldEncoding: 937
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 70
 5U7?^!#MX?W!ra-*Y/\o$321L)?^Q\$4ouI*D[Rf:'qn7"<\9*m*tA5j:LA`^q^Np3>+=a&ihZH
 00JYXrpC@Y3A:F5
@@ -5891,9 +6086,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: pi
-Encoding: 960 960 155
+Encoding: 318 960 155
+OldEncoding: 960
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 60
 5TgCC"r@@T!=92Q'`jm+S.2/.#tt=l'1r<E9,:,:8/r35m,Z[_jQ&#q0BDcl1,9Ed&NMi`3>+>+
 
@@ -5926,9 +6122,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: endash
-Encoding: 8211 8211 178
+Encoding: 319 8211 178
+OldEncoding: 8211
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 14
 ZiU41!<=du0`Vd7bV0"s
 EndTtf
@@ -5941,9 +6138,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: emdash
-Encoding: 8212 8212 179
+Encoding: 320 8212 179
+OldEncoding: 8212
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 14
 ZiU41!<=ds0`Vd7bV0"s
 EndTtf
@@ -5956,9 +6154,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: quoteleft
-Encoding: 8216 8216 182
+Encoding: 321 8216 182
+OldEncoding: 8216
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 23
 5RIJnF9VgM!*91*&CgX5`%_6'r6-hp
 EndTtf
@@ -5973,9 +6172,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: quoteright
-Encoding: 8217 8217 183
+Encoding: 322 8217 183
+OldEncoding: 8217
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 23
 5RISnF9VgM!ET7*&Cg(%`%_6'r6-hp
 EndTtf
@@ -5990,9 +6190,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: quotesinglbase
-Encoding: 8218 8218 196
+Encoding: 323 8218 196
+OldEncoding: 8218
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 23
 5RISnG6S-P!ET7*&Cg(%`%_6'r6-hp
 EndTtf
@@ -6007,9 +6208,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: quotedblleft
-Encoding: 8220 8220 180
+Encoding: 324 8220 180
+OldEncoding: 8220
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 38
 5S=8$#m58X#mpk="9DR(#$2$<&Cg'rm+fMjgr;&K&H"Z71,&\.
 EndTtf
@@ -6031,9 +6233,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: quotedblright
-Encoding: 8221 8221 181
+Encoding: 325 8221 181
+OldEncoding: 8221
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 38
 5S=A*"or`R#mpl<#6P)0<sJ^6&CeYbgr'd'gr;&K&H"Z71,&\.
 EndTtf
@@ -6055,9 +6258,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: quotedblbase
-Encoding: 8222 8222 197
+Encoding: 326 8222 197
+OldEncoding: 8222
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 38
 5S=A*"oriU#mpl<#6P)0<sJ^6&CeYbgr'd'gr;&K&H"Z71,&\.
 EndTtf
@@ -6079,9 +6283,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: dagger
-Encoding: 8224 8224 130
+Encoding: 327 8224 130
+OldEncoding: 8224
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 36
 5S48)AdSS>A-NGE"T^go#65/De3(\I4N&rS&B+4j4R=gW
 EndTtf
@@ -6102,9 +6307,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: daggerdbl
-Encoding: 8225 8225 194
+Encoding: 328 8225 194
+OldEncoding: 8225
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 57
 5TC7<AdAqNAeG.F$j[1?A/#7N#mC>o&If6Y!#-!o4?UP;r&d*[1,/b?jOD+'&C`i11(`k/0E;(Q
 EndTtf
@@ -6133,9 +6339,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: bullet
-Encoding: 8226 8226 135
+Encoding: 329 8226 135
+OldEncoding: 8226
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 16
 [1WZ\$ih+UeBBWI&CeoX
 EndTtf
@@ -6160,9 +6367,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: ellipsis
-Encoding: 8230 8230 171
+Encoding: 330 8230 171
+OldEncoding: 8230
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 35
 5S48)!-\bS!Wc=%"]ba4<X9*FeGRhoeEemi00DA`1,:N`
 EndTtf
@@ -6186,13 +6394,10 @@ EndSplineSet
 Ligature: 0 0 'liga' period period period
 EndChar
 StartChar: perthousand
-Encoding: 8240 8240 198
+Encoding: 331 8240 198
+OldEncoding: 8240
 Width: 1233
-Flags: W
-TtfInstrs: 112
-5X.je9.NRX9EP\^0bt<)!!a0#%BfjaY9L(pY8h:6"0Fp(Y;ut`-qQ-291ft)"qY#>7U.l;>VRj9
-+#,0K))(?ph!>U?hX94fhX3Ba&J@)93ACLe4ROum1A:/8mL\eA&JmG>3>+=a3>+>+
-EndTtf
+Flags: HW
 Fore
 662 289 m 2,0,1
  662 409 662 409 744.5 492 c 128,-1,2
@@ -6257,9 +6462,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: guilsinglleft
-Encoding: 8249 8249 190
+Encoding: 332 8249 190
+OldEncoding: 8249
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 24
 5RIPq!!`Q-!*'1-&Cg&%3ACLFeBBp,
 EndTtf
@@ -6275,9 +6481,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: guilsinglright
-Encoding: 8250 8250 191
+Encoding: 333 8250 191
+OldEncoding: 8250
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 24
 5RIYs!!`Z.<<E4+&C`i/3ACLFeBBp,
 EndTtf
@@ -6293,9 +6500,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: Euro
-Encoding: 8364 8364 258
+Encoding: 334 8364 258
+OldEncoding: 8364
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 129
 5WL/.-l*6l%j-?FD]F!H#D!(t$?uYj,B>FJ1,11)0.AFh((^Q]%i5^&!%\us(Ch5p%ko@Q"tVM@
 eAO,\1Ao)/&ihrb3B7Za3>!&f&ihra3B8eo&B$?bo^)5:&FT8[&C*&e4O,]95S/GUL(AeF"!7ae
@@ -6344,9 +6552,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: trademark
-Encoding: 8482 8482 140
+Encoding: 335 8482 140
+OldEncoding: 8482
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 65
 5U6X?!<Wf:&./OQ%LiI>A/,@T!W`9)#mEd##t>:37Lqs#7M@HQrp82'f'X+d3ACLFoK57[1=SEK
 `"<eG0E;(Q
@@ -6379,9 +6588,10 @@ EndSplineSet
 Ligature: 0 0 'liga' T M
 EndChar
 StartChar: partialdiff
-Encoding: 8706 8706 152
+Encoding: 336 8706 152
+OldEncoding: 8706
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 56
 5T0VM+UK(l-PZgr+WCq,[OM\2(]saZ&gS;D&CeqZbW.Zq&ihZH&EM'jbRi&2c4L[L&J@)X
 EndTtf
@@ -6419,9 +6629,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: Delta
-Encoding: 8710 8710 168
+Encoding: 337 8710 168
+OldEncoding: 8710
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 75
 5UHL5!<`Q/!!NN/!X8`2!<<-&!sU%P!s!!:X9A_/!W`9)#6b;:&Ceo9(HF2M0BDI33A=*)=9fBC
 aTi@\aTi@\aTi@_a]Tef
@@ -6439,9 +6650,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: product
-Encoding: 8719 8719 154
+Encoding: 338 8719 154
+OldEncoding: 8719
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 29
 5Rmqu\-'2?#Qe?5"CD?=&Cg'rlnJJOh!FA_0E;(Q
 EndTtf
@@ -6458,9 +6670,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: summation
-Encoding: 8721 8721 153
+Encoding: 339 8721 153
+OldEncoding: 8721
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 42
 5SaP($j6gE$+L,I!Xo;<"Tn`.#RUS@&C`h\(HF2M&DZXMlk'jj3A:F5
 EndTtf
@@ -6481,9 +6694,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: minus
-Encoding: 8722 8722 238
+Encoding: 340 8722 238
+OldEncoding: 8722
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 18
 [fCRQ"9AK:";(LT0`Vd7lnAD>
 EndTtf
@@ -6496,9 +6710,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: fraction
-Encoding: 8725 8725 188
+Encoding: 341 8725 188
+OldEncoding: 8725
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 22
 5R@JlA-;o5!WrQ:eATkT0`VdWbV0"s
 EndTtf
@@ -6511,9 +6726,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: periodcentered
-Encoding: 8729 8729 257
+Encoding: 342 8729 257
+OldEncoding: 8729
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 18
 [fUaR"9Ai0";')L0`Vd7lnAD>
 EndTtf
@@ -6526,9 +6742,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: radical
-Encoding: 8730 8730 165
+Encoding: 343 8730 165
+OldEncoding: 8730
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 44
 5T0t3!W`9)$O"-I]EelP#m^b=!s/H.$O$P=&CeW1(HF2M&B+M5&f3P^
 EndTtf
@@ -6548,12 +6765,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: infinity
-Encoding: 8734 8734 146
+Encoding: 344 8734 146
+OldEncoding: 8734
 Width: 1233
-Flags: W
-TtfInstrs: 55
-5TD$d#o*Q2-R"ri$(<FbR4o$L,T%-u7ii:5.PMF`m*tA63B9)[0`Vd_4R=j$4R=g83B8bn
-EndTtf
+Flags: HW
 Fore
 725 629 m 1,0,1
  773 513 773 513 813 467.5 c 128,-1,2
@@ -6593,9 +6808,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: integral
-Encoding: 8747 8747 156
+Encoding: 345 8747 156
+OldEncoding: 8747
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 42
 5SbWV!$8`]\eGC[.OQAB$=F]Z+^bF&&Cg(Elk'jj0`Vd_bj>8OlnAD>
 EndTtf
@@ -6630,9 +6846,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: approxequal
-Encoding: 8776 8776 167
+Encoding: 346 8776 167
+OldEncoding: 8776
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 90
 5VXuI.g%X].NKlZ'bh/\)%mD[$NpGP&f`9^/iAe7"HjW1OqK`/0GP9))up^'%MUl6r&j=$(HF2M
 &Cg'rm*ts_m(a2G3=ula3=ul?3=ula3=ul?3A:F5
@@ -6679,9 +6896,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: notequal
-Encoding: 8800 8800 143
+Encoding: 347 8800 143
+OldEncoding: 8800
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 62
 5U$XO$3L>0$j6QR&dAgQFq=on&e5?Z#Qt52#RLYL%fd:X&H"ZW1)Dr*!"dXBln['QlnU1)^c;u>
 3A:F5
@@ -6711,9 +6929,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: lessequal
-Encoding: 8804 8804 148
+Encoding: 348 8804 148
+OldEncoding: 8804
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 38
 5SOA)!W`9)!sT!R#QY/3!#5eC'FPKM4R=gY3ACLem*s5q3A:F5
 EndTtf
@@ -6734,9 +6953,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: greaterequal
-Encoding: 8805 8805 149
+Encoding: 349 8805 149
+OldEncoding: 8805
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 38
 5SOD+!s/H+"9AaN#mLY:'aFjA'FPKM4?Vsc3ACLem*s5q3A:F5
 EndTtf
@@ -6757,9 +6977,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: lozenge
-Encoding: 9674 9674 185
+Encoding: 350 9674 185
+OldEncoding: 9674
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 34
 5S4&%!!i]3#R1D6!W`9*"U>;EeBA^h0`Vd7bRliJ3A:F5
 EndTtf
@@ -6777,9 +6998,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: fi
-Encoding: 64257 64257 192
+Encoding: 351 64257 192
+OldEncoding: 64257
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 71
 5UI'G!Y#Hs"W!.#'EE4c"cs)s(DHue=pP*D"p%j:=:,0H&.DYZ&H"ZW1@4p$r&j<X3B8eo00J;N
 r&i3i&FM:d3B8bn
@@ -6815,9 +7037,10 @@ EndSplineSet
 Ligature: 0 1 'liga' f i
 EndChar
 StartChar: fl
-Encoding: 64258 64258 193
+Encoding: 352 64258 193
+OldEncoding: 64258
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 63
 5U$19&dJN"!>:G'F9qu0&-W^W!!6=9((XOR=9JU>$3jTJ&H"ZW1@4r:lk)6<0`Wjhj>-Z"&FM:d
 3B8bn
@@ -6848,9 +7071,10 @@ EndSplineSet
 Ligature: 0 1 'liga' f l
 EndChar
 StartChar: c6459
-Encoding: 65538 -1 259
+Encoding: 353 -1 259
+OldEncoding: 65538
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 49
 5RIVo"p,&2!!NK2&CfLbbV9)/e3(r10E=bM&QDlG!!iQi!!*'*!!rV?3"\)/=TAF%
 EndTtf
@@ -6868,9 +7092,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: c6460
-Encoding: 65539 -1 260
+Encoding: 354 -1 260
+OldEncoding: 65539
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 56
 [/^72!<WH9eBBWI&CeoX!)'O)<*6g6"TQ7;!<<6&"9:\H&N;[P5Re5(%fmaP*s""p0*)8_
 EndTtf
@@ -6883,9 +7108,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: c6461
-Encoding: 65540 -1 261
+Encoding: 355 -1 261
+OldEncoding: 65540
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 209
 5Tg[O'b1KM!!<T8"gAgR'sJbd+qan^*#T=g#T+Eb$6g&2bgaiK3B7[3&NMj+!"dXBr7!jq&NLXf
 &J@)a0E=bM$rg?B!$_HY!!*'D!$VD.3"\)/=TM1"$WL6A!$_HY!!*'D!$VD.3"\)/=[67"!"&`6
@@ -6921,9 +7147,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: c6468
-Encoding: 65541 -1 262
+Encoding: 356 -1 262
+OldEncoding: 65541
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 56
 [/^41!<WH9eBBWI&CeoX!)'O)<*6g6"TQ7;!<<6&"9:\H&N;[P5Re5(%g*mR*s4.r0*;Da
 EndTtf
@@ -6936,9 +7163,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: c6470
-Encoding: 65542 -1 263
+Encoding: 357 -1 263
+OldEncoding: 65542
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 98
 5R@Pn"Teo3!X8l@eBBp-!"dXBbW.?X9<\h(9<\e'>?JQ=#QMR>!<<?)#67"K&N;[P!)'O)<*6g6
 #QMR>!<<?)#67"K&N;[P5SFY.%fm1D*rmA`*s=4s0**^/$!dN2
@@ -6955,9 +7183,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: c6472
-Encoding: 65543 -1 264
+Encoding: 358 -1 264
+OldEncoding: 65543
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 104
 5R@Mq!<<?,"T\i>eAO@%!"dYu1-%#h9<\e'9<\h(>?JQ=#QMR>!<<?)#67"K&N;[P!)'O)<*6g6
 #QMR>!<<?)#67"K&N;[P5T((5%g!7E%g=$U*s*Me*sF:u0*3d00*Mbi
@@ -6974,9 +7203,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: c6477
-Encoding: 65544 -1 265
+Encoding: 359 -1 265
+OldEncoding: 65544
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 66
 5RIPp!<<6(!!<6)&Ceoa3ACLFeBHFd0E=bM%oc3+&6)k,YS0u?=M4\;!'gMb!!E9)s1gT+2`OsI
 2ZYl?!aPd+
@@ -6990,9 +7220,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: c6478
-Encoding: 65545 -1 266
+Encoding: 360 -1 266
+OldEncoding: 65545
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 69
 5Tg(:!t>54!t?OV!sJ_2$O7!E"0i=:$igJ;"C;KD!"KRi4N..[`"<VB0`VdWr7!jq1(cN#92ept
 &-U)[&-^0Y+ohTC
@@ -7017,9 +7248,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: c6475
-Encoding: 65546 -1 267
+Encoding: 361 -1 267
+OldEncoding: 65546
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 27
 5R[kt":G\E>mLI:!"KRim*tAV!"dZ8`%j"H
 EndTtf
@@ -7038,9 +7270,10 @@ Fore
 EndSplineSet
 EndChar
 StartChar: c6476
-Encoding: 65547 -1 268
+Encoding: 362 -1 268
+OldEncoding: 65547
 Width: 1233
-Flags: W
+Flags: HW
 TtfInstrs: 16
 [/^72!<<66eBBWI&CeoX
 EndTtf
