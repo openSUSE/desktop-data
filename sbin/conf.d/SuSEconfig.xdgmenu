@@ -54,9 +54,7 @@ fi
 
 make_menu() # usage make_menu <menufile> <format>
 {
-test -f $r/$1 || exit 1
-xdg_menu --format $2 > $r/$1.SuSEconfig 2>/dev/null
-check_md5_and_move $r/$1 
+test -f $r/$1 && xdg_menu --format $2 > $r/$1.SuSEconfig 2>/dev/null && check_md5_and_move $r/$1 
 }
 
 make_menu /usr/share/openbox/menu openbox
