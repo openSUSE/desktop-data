@@ -4,5 +4,5 @@ Icon=mycomp
 Name=my Computer
 Name[de]=Arbeits-\nplatz
 Type=Link
-URL=service:/
+URL=drives:/
 
