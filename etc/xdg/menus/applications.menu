@@ -10,19 +10,21 @@
 	<DefaultDirectoryDirs/>
 
 	<Include>
-		<Category>X-SuSE-core</Category>
+		<Category>X-SuSE-Core</Category>
 	</Include>
 
 	<Menu>
+		<DontShowIfEmpty/>
+		<OnlyUnallocated/>
 		<Name>Applications</Name>
 		<Directory>suse-applications.directory</Directory>
-		<OnlyUnallocated/>
 		<Include>
 			<All/>
 		</Include>
 	</Menu>
 
 	<Menu>
+		<DontShowIfEmpty/>
 		<Name>Development</Name>
 		<Directory>suse-development.directory</Directory>
 		<Include>
@@ -42,6 +44,7 @@
 			</And>
 		</Include>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>RevisionControl</Name>
 			<Directory>suse-development-revisioncontrol.directory</Directory>
 			<Include>
@@ -52,6 +55,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Translation</Name>
 			<Directory>suse-development-translation.directory</Directory>
 			<Include>
@@ -62,6 +66,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Documentation</Name>
 			<Directory>suse-development-documentation.directory</Directory>
 			<Include>
@@ -72,6 +77,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>More</Name>
 			<Directory>suse-more.directory</Directory>
 			<Include>
@@ -82,6 +88,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>GUI Designer</Name>
 			<Directory>suse-development-guidesigner.directory</Directory>
 			<Include>
@@ -89,6 +96,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>IDE</Name>
 			<Directory>suse-development-ide.directory</Directory>
 			<Include>
@@ -96,6 +104,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Debugger</Name>
 			<Directory>suse-development-debugger.directory</Directory>
 			<Include>
@@ -103,6 +112,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Profiling</Name>
 			<Directory>suse-development-profiling.directory</Directory>
 			<Include>
@@ -110,6 +120,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Translation</Name>
 			<Directory>suse-development-translation.directory</Directory>
 			<Include>
@@ -118,6 +129,7 @@
 		</Menu>
 	</Menu>
 	<Menu>
+		<DontShowIfEmpty/>
 		<Name>Edutainment</Name>
 		<Directory>suse-edutainment.directory</Directory>
 		<Include>
@@ -139,6 +151,7 @@
 			</And>
 		</Include>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Languages</Name>
 			<Directory>suse-edutainment-languages.directory</Directory>
 			<Include>
@@ -147,6 +160,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Mathematics</Name>
 			<Directory>suse-edutainment-mathematics.directory</Directory>
 			<Include>
@@ -154,6 +168,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Chemistry</Name>
 			<Directory>suse-edutainment-chemical.directory</Directory>
 			<Include>
@@ -161,6 +176,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Science</Name>
 			<Directory>suse-edutainment-science.directory</Directory>
 			<Include>
@@ -168,6 +184,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Tools</Name>
 			<Directory>suse-edutainment-teaching.directory</Directory>
 			<Include>
@@ -176,6 +193,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Art</Name>
 			<Directory>suse-edutainment-art.directory</Directory>
 			<Include>
@@ -183,6 +201,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Astronomy</Name>
 			<Directory>suse-edutainment-astronomy.directory</Directory>
 			<Include>
@@ -190,6 +209,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Construction</Name>
 			<Directory>suse-edutainment-construction.directory</Directory>
 			<Include>
@@ -199,6 +219,7 @@
 		</Menu>
 	</Menu>
 	<Menu>
+		<DontShowIfEmpty/>
 		<Name>Games</Name>
 		<Directory>suse-games.directory</Directory>
 		<Include>
@@ -232,6 +253,7 @@
 			</And>
 		</Include>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Action</Name>
 			<Directory>suse-games-action.directory</Directory>
 			<Include>
@@ -241,6 +263,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Arcade</Name>
 			<Directory>suse-games-arcade.directory</Directory>
 			<Include>
@@ -249,6 +272,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Board</Name>
 			<Directory>suse-games-board.directory</Directory>
 			<Include>
@@ -256,6 +280,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Card</Name>
 			<Directory>suse-games-card.directory</Directory>
 			<Include>
@@ -263,6 +288,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Kidsgames</Name>
 			<Directory>suse-games-kidsgames.directory</Directory>
 			<Include>
@@ -271,6 +297,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>TacticStrategy</Name>
 			<Directory>suse-games-strategy.directory</Directory>
 			<Include>
@@ -278,6 +305,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Amusement</Name>
 			<Directory>suse-games-amusement.directory</Directory>
 			<Include>
@@ -285,6 +313,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Platform</Name>
 			<Directory>suse-games-platformgame.directory</Directory>
 			<Include>
@@ -292,6 +321,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Puzzle</Name>
 			<Directory>suse-games-puzzle.directory</Directory>
 			<Include>
@@ -300,6 +330,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Sport</Name>
 			<Directory>suse-games-sports.directory</Directory>
 			<Include>
@@ -307,6 +338,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Adventure</Name>
 			<Directory>suse-games-adventure.directory</Directory>
 			<Include>
@@ -315,6 +347,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Role-Playing</Name>
 			<Directory>suse-games-role-playing.directory</Directory>
 			<Include>
@@ -322,6 +355,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Simulation</Name>
 			<Directory>suse-games-simulation.directory</Directory>
 			<Include>
@@ -329,6 +363,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Strategy</Name>
 			<Directory>suse-games-strategygame.directory</Directory>
 			<Include>
@@ -337,6 +372,7 @@
 		</Menu>
 	</Menu>
 	<Menu>
+		<DontShowIfEmpty/>
 		<Name>Graphics</Name>
 		<Directory>suse-graphics.directory</Directory>
 		<Include>
@@ -356,6 +392,7 @@
 			</And>
 		</Include>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Scanning</Name>
 			<Directory>suse-graphics-scanning.directory</Directory>
 			<Include>
@@ -364,6 +401,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>3DGraphics</Name>
 			<Directory>suse-graphics-3dgraphics.directory</Directory>
 			<Include>
@@ -371,6 +409,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>RasterGraphics</Name>
 			<Directory>suse-graphics-rastergraphics.directory</Directory>
 			<Include>
@@ -378,6 +417,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>VectorGraphics</Name>
 			<Directory>suse-graphics-vectorgraphics.directory</Directory>
 			<Include>
@@ -385,6 +425,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Viewer</Name>
 			<Directory>suse-graphics-viewer.directory</Directory>
 			<Include>
@@ -392,6 +433,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Photograph</Name>
 			<Directory>suse-graphics-photograph.directory</Directory>
 			<Include>
@@ -400,6 +442,7 @@
 		</Menu>
 	</Menu>
 	<Menu>
+		<DontShowIfEmpty/>
 		<Name>Internet</Name>
 		<Directory>suse-internet.directory</Directory>
 		<Include>
@@ -423,6 +466,7 @@
 			</And>
 		</Include>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>E-Mail</Name>
 			<Directory>suse-internet-email.directory</Directory>
 			<Include>
@@ -430,6 +474,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Peer to Peer</Name>
 			<Directory>suse-internet-p2p.directory</Directory>
 			<Include>
@@ -437,6 +482,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>DialUp</Name>
 			<Directory>suse-internet-dialup.directory</Directory>
 			<Include>
@@ -444,6 +490,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Administration</Name>
 			<Directory>suse-administration.directory</Directory>
 			<Include>
@@ -454,6 +501,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>IP Telephone</Name>
 			<Directory>suse-internet-telephone.directory</Directory>
 			<Include>
@@ -464,6 +512,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Filetransfer</Name>
 			<Directory>suse-internet-filetransfer.directory</Directory>
 			<Include>
@@ -471,6 +520,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Ham-Radio</Name>
 			<Directory>suse-internet-hamradio.directory</Directory>
 			<Include>
@@ -478,6 +528,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Chat</Name>
 			<Directory>suse-internet-instantmessaging.directory</Directory>
 			<Include>
@@ -486,6 +537,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>NewsReader</Name>
 			<Directory>suse-internet-newsreader.directory</Directory>
 			<Include>
@@ -500,6 +552,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>WebDevelopment</Name>
 			<Directory>suse-internet-webdevelopment.directory</Directory>
 			<Include>
@@ -508,6 +561,7 @@
 		</Menu>
 	</Menu>
 	<Menu>
+		<DontShowIfEmpty/>
 		<Name>Multimedia</Name>
 		<Directory>suse-multimedia.directory</Directory>
 		<Include>
@@ -530,6 +584,7 @@
 			</And>
 		</Include>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>AudioMixer</Name>
 			<Directory>suse-multimedia-audiomixer.directory</Directory>
 			<Include>
@@ -537,6 +592,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>AudioVideoEditing</Name>
 			<Directory>suse-multimedia-audiovideoediting.directory</Directory>
 			<Include>
@@ -544,14 +600,22 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>AudioVideoPlayer</Name>
 			<Directory>suse-multimedia-audiovideoplayer.directory</Directory>
 			<Include>
+				<And>
 				<Category>Player</Category>
+				<Not> <Category>Player</Category> </Not>
+				</And>
+				<And>
 				<Category>X-SuSE-MidiPlayer</Category>
+				<Not> <Category>Player</Category> </Not>
+				</And>
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>AudioVideoRecorder</Name>
 			<Directory>suse-multimedia-audiovideorecorder.directory</Directory>
 			<Include>
@@ -559,6 +623,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Sequencer</Name>
 			<Directory>suse-multimedia-sequencer.directory</Directory>
 			<Include>
@@ -566,6 +631,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Burning</Name>
 			<Directory>suse-multimedia-burning.directory</Directory>
 			<Include>
@@ -573,13 +639,29 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>CD</Name>
 			<Directory>suse-multimedia-cd.directory</Directory>
 			<Include>
+				<And>
 				<Category>X-SuSE-CD</Category>
+				<Category>Player</Category>
+				</And>
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
+			<Name>CD</Name>
+			<Directory>suse-multimedia-cd-tools.directory</Directory>
+			<Include>
+				<And>
+				<Category>X-SuSE-CD</Category>
+				<Category>Utility</Category>
+				<And>
+			</Include>
+		</Menu>
+		<Menu>
+			<DontShowIfEmpty/>
 			<Name>TV</Name>
 			<Directory>suse-multimedia-tv.directory</Directory>
 			<Include>
@@ -587,6 +669,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Administration</Name>
 			<Directory>suse-administration.directory</Directory>
 			<Include>
@@ -602,6 +685,7 @@
 		</Menu>
 	</Menu>
 	<Menu>
+		<DontShowIfEmpty/>
 		<Name>Office</Name>
 		<Directory>suse-office.directory</Directory>
 		<Include>
@@ -625,6 +709,7 @@
 			</And>
 		</Include>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Calendar</Name>
 			<Directory>suse-office-calendar.directory</Directory>
 			<Include>
@@ -632,6 +717,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Database</Name>
 			<Directory>suse-office-database.directory</Directory>
 			<Include>
@@ -642,6 +728,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Addressbook</Name>
 			<Directory>suse-office-addressbook.directory</Directory>
 			<Include>
@@ -652,6 +739,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>DocumentViewer</Name>
 			<Directory>suse-office-documentviewer.directory</Directory>
 			<Include>
@@ -662,6 +750,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Warehouse</Name>
 			<Directory>suse-office-warehouse.directory</Directory>
 			<Include>
@@ -669,6 +758,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>FlowChart</Name>
 			<Directory>suse-office-flowchart.directory</Directory>
 			<Include>
@@ -676,6 +766,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Finance</Name>
 			<Directory>suse-office-finance.directory</Directory>
 			<Include>
@@ -683,6 +774,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Presentation</Name>
 			<Directory>suse-office-presentation.directory</Directory>
 			<Include>
@@ -690,6 +782,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>ProjectManagement</Name>
 			<Directory>suse-office-projectmanagement.directory</Directory>
 			<Include>
@@ -697,6 +790,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Spreadsheet</Name>
 			<Directory>suse-office-spreadsheet.directory</Directory>
 			<Include>
@@ -704,6 +798,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Wordprocessor</Name>
 			<Directory>suse-office-wordprocessor.directory</Directory>
 			<Include>
@@ -711,6 +806,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Dictionary</Name>
 			<Directory>suse-office-dictionary.directory</Directory>
 			<Include>
@@ -719,6 +815,7 @@
 		</Menu>
 	</Menu>
 	<Menu>
+		<DontShowIfEmpty/>
 		<Name>Settingsmenu</Name>
 		<Directory>suse-settingsmenu.directory</Directory>
 		<Include>
@@ -727,6 +824,7 @@
 		</Include>
 	</Menu>
 	<Menu>
+		<DontShowIfEmpty/>
 		<Name>Utilities</Name>
 		<Directory>suse-utility.directory</Directory>
 		<Include>
@@ -737,8 +835,9 @@
 				<Category>PDA</Category>
 				<Category>TextEditor</Category>
 				<Category>Accessibility</Category>
-				<Category>X-SuSE-DesktopUtility</Category>
+				<Category>X-SuSE-CD</Category>
 				<Category>X-SuSE-Calculator</Category>
+				<Category>X-SuSE-DesktopUtility</Category>
 				<Category>X-SuSE-SyncUtility</Category>
 				<Category>X-SuSE-WebUtility</Category>
 				<Category>X-SuSE-TimeUtility</Category>
@@ -748,6 +847,7 @@
 			</And>
 		</Include>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Desktop</Name>
 			<Directory>suse-utility-desktop.directory</Directory>
 			<Include>
@@ -756,6 +856,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Texteditor</Name>
 			<Directory>suse-utility-texteditor.directory</Directory>
 			<Include>
@@ -763,6 +864,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Calc</Name>
 			<Directory>suse-utility-calculator.directory</Directory>
 			<Include>
@@ -770,6 +872,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Syncing</Name>
 			<Directory>suse-utility-sync.directory</Directory>
 			<Include>
@@ -778,6 +881,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Time</Name>
 			<Directory>suse-utility-time.directory</Directory>
 			<Include>
@@ -785,6 +889,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>XML Utilities</Name>
 			<Directory>suse-utility-xml.directory</Directory>
 			<Include>
@@ -792,6 +897,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>WebUtility</Name>
 			<Directory>suse-utility-web.directory</Directory>
 			<Include>
@@ -799,6 +905,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Printing</Name>
 			<Directory>suse-utility-printing.directory</Directory>
 			<Include>
@@ -807,6 +914,7 @@
 		</Menu>
 	</Menu>
 	<Menu>
+		<DontShowIfEmpty/>
 		<Name>System</Name>
 		<Directory>suse-system.directory</Directory>
 		<Include>
@@ -847,6 +955,7 @@
 			</Exclude>
 		</Include>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Security</Name>
 			<Directory>suse-system-security.directory</Directory>
 			<Include>
@@ -854,6 +963,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Network</Name>
 			<Directory>suse-system-network.directory</Directory>
 			<Include>
@@ -864,6 +974,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Backup</Name>
 			<Directory>suse-system-backup.directory</Directory>
 			<Include>
@@ -871,6 +982,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Service Configuration</Name>
 			<Directory>suse-system-service-configuration.directory</Directory>
 			<Include>
@@ -879,6 +991,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Applet</Name>
 			<Directory>suse-system-applet.directory</Directory>
 			<Include>
@@ -887,6 +1000,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Telephone</Name>
 			<Directory>suse-system-telephone.directory</Directory>
 			<Include>
@@ -897,6 +1011,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Archiving</Name>
 			<Directory>suse-system-archiving.directory</Directory>
 			<Include>
@@ -907,6 +1022,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Emulator</Name>
 			<Directory>suse-system-emulator.directory</Directory>
 			<Include>
@@ -914,6 +1030,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Filesystem</Name>
 			<Directory>suse-system-filesystem.directory</Directory>
 			<Include>
@@ -921,6 +1038,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>FileManager</Name>
 			<Directory>suse-system-filemanager.directory</Directory>
 			<Include>
@@ -928,6 +1046,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Monitor</Name>
 			<Directory>suse-system-monitor.directory</Directory>
 			<Include>
@@ -938,6 +1057,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>ScreenSavers</Name>
 			<Directory>suse-system-screensavers.directory</Directory>
 	                <MergeFile>suse-screensavers.menu</MergeFile>
@@ -946,6 +1066,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>RemoteAccess</Name>
 			<Directory>suse-system-remoteaccess.directory</Directory>
 			<Include>
@@ -953,6 +1074,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>TerminalEmulator</Name>
 			<Directory>suse-system-shell.directory</Directory>
 			<Include>
@@ -960,6 +1082,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>SystemSetup</Name>
 			<Directory>suse-system-systemsetup.directory</Directory>
 			<Include>
@@ -968,6 +1091,7 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Utilities</Name>
 			<Directory>suse-system-utility.directory</Directory>
 			<Include>
@@ -981,12 +1105,14 @@
 	</Menu>
         <!-- The following menus are hidden by default -->
 	<Menu>
+		<DontShowIfEmpty/>
 		<Name>Settings</Name>
 		<Directory>suse-settings.directory</Directory>
 		<Category>X-SuSE-Core-Configuration</Category>
                 <MergeFile>kde-settings.menu</MergeFile>
 	</Menu>
 	<Menu>
+		<DontShowIfEmpty/>
 		<Name>Information</Name>
 		<Directory>suse-information.directory</Directory>
                 <MergeFile>kde-information.menu</MergeFile>
@@ -994,8 +1120,5 @@
         <Move>
            <Old>Settings/Information</Old><New>Information</New>
         </Move>
-	<Menu>
-		<Name>System</Name>
-	</Menu>
 	<DefaultMergeDirs/>
 </Menu>
