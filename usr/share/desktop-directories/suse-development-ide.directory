@@ -4,3 +4,4 @@ Name=Development Environment
 Name[de]=Entwicklungsumgebung
 Icon=panel_settings
 
+Type=Directory

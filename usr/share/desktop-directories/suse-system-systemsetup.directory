@@ -4,3 +4,4 @@ Name=Service Configuration
 Name[de]=Dienstkonfiguration
 Icon=SuSEconf
 
+Type=Directory

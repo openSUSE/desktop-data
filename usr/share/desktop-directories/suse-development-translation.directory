@@ -4,3 +4,4 @@ Name=Translation
 Name[de]=Übersetzen
 Icon=kbabel
 
+Type=Directory

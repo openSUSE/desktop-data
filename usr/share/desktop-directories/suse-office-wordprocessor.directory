@@ -4,3 +4,4 @@ Name=Wordprocessor
 Name[de]=Textverarbeitung
 Icon=package_wordprocessing
 
+Type=Directory

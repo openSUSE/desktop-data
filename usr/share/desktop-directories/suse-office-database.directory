@@ -4,3 +4,4 @@ Name=Database
 Name[de]=Datenbank
 Icon=kfm
 
+Type=Directory

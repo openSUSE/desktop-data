@@ -3,3 +3,4 @@ Encoding=UTF-8
 Name=Recording
 Name[de]=Aufnahme
 Icon=
+Type=Directory

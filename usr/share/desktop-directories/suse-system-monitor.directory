@@ -3,3 +3,4 @@ Encoding=UTF-8
 Name=Monitor
 Name[de]=Ãberwachung
 Icon=xosview
+Type=Directory

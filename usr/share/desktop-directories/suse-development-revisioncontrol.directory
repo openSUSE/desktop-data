@@ -4,3 +4,4 @@ Name=Revision Control
 Name[de]=Versions Verwaltung
 Icon=xosview
 
+Type=Directory

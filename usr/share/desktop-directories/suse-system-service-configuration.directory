@@ -4,3 +4,4 @@ Name=Configuration
 Name[de]=Konfiguration
 Icon=
 
+Type=Directory

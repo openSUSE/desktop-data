@@ -3,3 +3,4 @@ Encoding=UTF-8
 Name=Terminal
 Name[de]=Terminals
 Icon=terminal
+Type=Directory

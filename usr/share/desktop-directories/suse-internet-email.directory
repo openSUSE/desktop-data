@@ -3,3 +3,4 @@ Encoding=UTF-8
 Name=E-Mail
 Name[de]=E-Mail
 Icon=email
+Type=Directory

@@ -4,3 +4,4 @@ Name=Document Viewer
 Name[de]=Dokumentenansicht
 Icon=tv
 
+Type=Directory

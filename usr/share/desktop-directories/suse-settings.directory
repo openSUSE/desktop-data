@@ -50,3 +50,4 @@ Name[zu]=Izingxenye-zezilungiselelo
 NoDisplay=true
 Icon=package_settings
 X-KDE-BaseGroup=settings
+Type=Directory

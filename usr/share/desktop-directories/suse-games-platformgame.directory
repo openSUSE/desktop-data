@@ -3,3 +3,4 @@ Encoding=UTF-8
 Name=Console game
 Name[de]=Konsolenspiele
 Icon=
+Type=Directory

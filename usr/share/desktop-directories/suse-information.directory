@@ -60,3 +60,4 @@ Name[zu]=Ulwazi
 Icon=hwinfo
 X-KDE-BaseGroup=info
 NoDisplay=true
+Type=Directory

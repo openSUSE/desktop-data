@@ -4,3 +4,4 @@ Name=Addressbook
 Name[de]=Addressen
 Icon=
 
+Type=Directory
