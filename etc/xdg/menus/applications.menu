@@ -155,21 +155,22 @@
 				<Category>BlocksGame</Category>
 				<Category>BoardGame</Category>
 				<Category>CardGame</Category>
-				<Category>X-KDE-KidsGame</Category>
 				<Category>StrategyGame</Category>
 				<Category>3DGame</Category>
 				<Category>Amusement</Category>
-				<Category>X-SuSE-Game-Logic</Category>
 				<Category>PlatformGame</Category>
 				<Category>PuzzleGame</Category>
+				<Category>SportsGame</Category>
+				<Category>StrategyGame</Category>
+				<Category>PlatformGame</Category>
+				<Category>FirstPersonGame</Category>
+				<Category>X-KDE-KidsGame</Category>
+				<Category>X-SuSE-KidsGame</Category>
+				<Category>X-SuSE-LogicGame</Category>
 				<Category>X-SuSE-Adventure</Category>
 				<Category>X-SuSE-Game-Logic</Category>
 				<Category>X-SuSE-Simulation</Category>
 				<Category>X-SuSE-RolePlaying</Category>
-				<Category>SportsGame</Category>
-				<Category>Strategy</Category>
-				<Category>PlatformGame</Category>
-				<Category>FirstPersonGame</Category>
 				</Not>
 			</And>
 		</Include>
@@ -187,6 +188,7 @@
 			<Directory>suse-games-arcade.directory</Directory>
 			<Include>
 				<Category>ArcadeGame</Category>
+				<Category>BlocksGame</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -194,7 +196,6 @@
 			<Directory>suse-games-board.directory</Directory>
 			<Include>
 				<Category>BoardGame</Category>
-				<Category>BlocksGame</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -209,6 +210,7 @@
 			<Directory>suse-games-kids.directory</Directory>
 			<Include>
 				<Category>X-KDE-KidsGame</Category>
+				<Category>X-SuSE-KidsGame</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -237,7 +239,7 @@
 			<Directory>suse-games-puzzle.directory</Directory>
 			<Include>
 				<Category>PuzzleGame</Category>
-				<Category>X-SuSE-Game-Logic</Category>
+				<Category>X-SuSE-LogicGame</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -251,28 +253,28 @@
 			<Name>Adventure</Name>
 			<Directory>suse-games-adventure.directory</Directory>
 			<Include>
-				<Category>X-SuSE-Adventure</Category>
+				<Category>X-SuSE-AdventureGame</Category>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Role-Playing</Name>
 			<Directory>suse-games-role-playing.directory</Directory>
 			<Include>
-				<Category>X-SuSE-RolePlaying</Category>
+				<Category>X-SuSE-RolePlayingGame</Category>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Simulation</Name>
 			<Directory>suse-games-simulation.directory</Directory>
 			<Include>
-				<Category>X-SuSE-Simulation</Category>
+				<Category>X-SuSE-SimulationGame</Category>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Strategy</Name>
 			<Directory>suse-games-strategygame.directory</Directory>
 			<Include>
-				<Category>Strategy</Category>
+				<Category>StrategyGame</Category>
 			</Include>
 		</Menu>
 	</Menu>
