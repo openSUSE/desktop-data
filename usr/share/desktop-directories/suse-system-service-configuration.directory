@@ -1,13 +1,12 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Service Configuration
-Name[de]=Dienstkonfiguration
 Icon=energy
 
 Type=Directory
 Name[bg]=Настройка
 Name[cs]=Nastavení
-Name[de]=Konfiguration
+Name[de]=Dienstkonfiguration
 Name[fr]=Configuration
 Name[ko]=설정
 Name[lt]=Konfigūracija

@@ -2,21 +2,21 @@
 Type=Directory
 Icon=yast_network_advanced
 Name=Network Services
+
+Name[bg]=Мрежови услуги
 Name[cs]=Síťové služby
+Name[da]=Netværkstjenester
 Name[de]=Netzwerkdienste
+Name[el]=Υπηρεσίες Δικτύου
 Name[es]=Servicios de red
+Name[fr]=Services réseau
 Name[hu]=Hálózati szolgáltatások
 Name[it]=Servizi di rete
+Name[ja]=ネットワーク・サービス
 Name[ko]=네트워크 서비스들
 Name[nl]=Netwerk services
 Name[pt]=Serviços de rede
 Name[sk]=Sieťové služby
-Name[sv]=Nätverkstjänster
-Name[bg]=Мрежови услуги
-Name[da]=Netværkstjenester
-Name[el]=Υπηρεσίες Δικτύου
-Name[fr]=Services réseau
-Name[ja]=ネットワーク・サービス
 Name[sl]=Mrežne storitve
+Name[sv]=Nätverkstjänster
 Name[tr]=Ağ servisleri
-

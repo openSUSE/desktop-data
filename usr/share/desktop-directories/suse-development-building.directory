@@ -1,9 +1,3 @@
-[Desktop Entry]
-Encoding=UTF-8
-Name=Build Tools
-Icon=rpm
-
-Type=Directory
 Name[bg]=Инструменти за програмиране
 Name[cs]=Vývojové nástroje
 Name[fr]=Outils développement

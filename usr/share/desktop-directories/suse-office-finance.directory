@@ -1,14 +1,13 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Financial
-Name[en]=Financial
-Name[de]=Finanzen
 Icon=bookmark
 
 Type=Directory
 Name[bg]=Финанси
 Name[cs]=Finance
 Name[de]=Finanzen
+Name[en]=Financial
 Name[fr]=Finance
 Name[ko]=재무
 Name[lt]=Finansai

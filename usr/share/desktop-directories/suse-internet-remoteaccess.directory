@@ -1,7 +1,7 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Remote Access
-Name[de]=Verbindung zu Fremdrechner
 Icon=remote
 
 Type=Directory
+Name[de]=Verbindung zu Fremdrechner

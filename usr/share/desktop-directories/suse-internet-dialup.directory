@@ -1,13 +1,12 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Dial Up
-Name[de]=Internet Verbindung
 Icon=energy
 
 Type=Directory
 Name[bg]=Набиране
 Name[cs]=Vytáčené připojení
-Name[de]=Verbindung
+Name[de]=Internet Verbindung
 Name[fr]=Numérotation
 Name[ko]=다이얼 업
 Name[lt]=Skambinimas

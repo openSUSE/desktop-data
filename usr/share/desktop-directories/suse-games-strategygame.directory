@@ -1,6 +1,10 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Tactics & Strategy
+Icon=package_games_strategy
+
+Type=Directory
+X-SuSE-GeneralDescription=true
 Name[af]=Taktiek & Strategie
 Name[ar]=التخطيط و استراتيجية
 Name[az]=Taktika & Strategiya
@@ -54,8 +58,3 @@ Name[xh]=Amacebo okufumana iinjongo & Amacebo okuzoba
 Name[zh_CN]=策略游戏
 Name[zh_TW]=戰略及策略
 Name[zu]=Amaqhinga & Iplani
-Icon=package_games_strategy
-
-Type=Directory
-X-SuSE-GeneralDescription=true
-Name[ja]=æ¦ç¥ & æ¦è¡

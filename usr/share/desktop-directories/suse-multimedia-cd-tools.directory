@@ -1,13 +1,12 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=CD/DVD Tools
-Name[de]=CD/DVD Werkzeuge
 Icon=multimedia
 
 Type=Directory
 Name[bg]=Инструменти за диска
 Name[cs]=Nástroje disků
-Name[de]=Medienwerkzeuge
+Name[de]=CD/DVD Werkzeuge
 Name[fr]=Outils disque
 Name[ko]=디스크 도구들
 Name[lt]=Disko įrankiai

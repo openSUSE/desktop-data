@@ -1,11 +1,6 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Tools
-Name[de]=kleine Werkzeuge
-Name[es]=Herramientas
-Name[hu]=Segédeszközök
-Name[cs]=Nástroje
-Name[ja]=ツール
 Icon=SuSEconf
 
 Type=Directory
@@ -14,8 +9,8 @@ Name[cs]=Nástroje
 Name[de]=kleine Werkzeuge
 Name[es]=Herramientas
 Name[fr]=Outils
-Name[hu]=SegÃ©deszkÃ¶zÃ¶k
-Name[ja]=ãã¼ã«
+Name[hu]=Segédeszközök
+Name[ja]=ツール
 Name[ko]=도구
 Name[lt]=Įrankiai
 Name[nl]=Tools

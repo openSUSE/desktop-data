@@ -1,21 +1,17 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Chemical
-Name[en]=Chemical
-Name[de]=Chemie
-Name[es]=Química
-Name[hu]=Kémia
-Name[ja]=化学
 Icon=filter
 
 Type=Directory
 Name[bg]=Химия
 Name[cs]=Chemie
 Name[de]=Chemie
-Name[es]=QuÃ­mica
+Name[en]=Chemical
+Name[es]=Química
 Name[fr]=Chimie
-Name[hu]=KÃ©mia
-Name[ja]=åå­¦
+Name[hu]=Kémia
+Name[ja]=化学
 Name[ko]=화학
 Name[lt]=Chemija
 Name[nl]=Chemisch

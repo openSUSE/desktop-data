@@ -1,7 +1,6 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Network
-Name[de]=Netzwerk
 Icon=nfs_unmount
 
 Type=Directory

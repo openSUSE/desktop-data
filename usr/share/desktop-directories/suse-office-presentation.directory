@@ -1,17 +1,15 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Presentation
-Name[en]=Presentation
-Name[de]=Präsentation
-Name[ja]=提示
 Icon=window_list
 
 Type=Directory
 Name[bg]=Презентация
 Name[cs]=Prezentace
 Name[de]=Präsentation
+Name[en]=Presentation
 Name[fr]=Présentation
-Name[ja]=���������
+Name[ja]=提示
 Name[ko]=프리젠테이션
 Name[lt]=Pateiktis
 Name[nl]=Presentatie

@@ -1,8 +1,8 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Utilities
-Name[de]=Werkzeuge
 Icon=configure
 
 Type=Directory
+Name[de]=Werkzeuge
 Name[ko]=유틸리티

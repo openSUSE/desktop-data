@@ -1,21 +1,11 @@
-[Desktop Entry]
-Encoding=UTF-8
-Name=Debugger
-Name[de]=Debugger
-Name[en]=Debugger
-Name[es]=Depuradores
-Name[hu]=Nyomkövető
-Name[cs]=Debugger
-Name[ja]=デバッガー
-Icon=clanbomber
-Type=Directory
 Name[bg]=Дебъгер
 Name[cs]=Debugger
 Name[de]=Debugger
+Name[en]=Debugger
 Name[es]=Depuradores
 Name[fr]=Débogueur
-Name[hu]=NyomkÃ¶vetÅ
-Name[ja]=ãããã¬
+Name[hu]=Nyomkövető
+Name[ja]=デバッガー
 Name[ko]=디버거
 Name[lt]=Debugeris
 Name[nl]=Debugger

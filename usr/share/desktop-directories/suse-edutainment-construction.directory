@@ -1,17 +1,15 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Construction
-Name[en]=Construction
-Name[de]=Konstruktion
-Name[ja]=コンピューター援用設計
 Icon=package_settings
 
 Type=Directory
 Name[bg]=Конструиране
 Name[cs]=Konstrukce
 Name[de]=Konstruktion
+Name[en]=Construction
 Name[fr]=Construction
-Name[ja]=ã³ã³ãã¥ã¼ã¿ã¼æ´ç¨è¨­è¨
+Name[ja]=コンピューター援用設計
 Name[ko]=건축
 Name[lt]=Konstrukcija
 Name[nl]=Constructie

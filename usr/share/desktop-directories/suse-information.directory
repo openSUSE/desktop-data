@@ -1,6 +1,10 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Information
+Icon=hwinfo
+X-KDE-BaseGroup=info
+NoDisplay=true
+Type=Directory
 Name[af]=Informasie
 Name[ar]=معلومات
 Name[az]=Mə'lumat
@@ -57,7 +61,3 @@ Name[xh]=Ulwazi
 Name[zh_CN]=信息
 Name[zh_TW]=資訊
 Name[zu]=Ulwazi
-Icon=hwinfo
-X-KDE-BaseGroup=info
-NoDisplay=true
-Type=Directory

@@ -1,21 +1,17 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Viewer
-Name[en]=Viewer
-Name[de]=Anzeigeprogramm
-Name[es]=Visores
-Name[hu]=Nézegetők
-Name[ja]=ビューアー
 Icon=tv
 
 Type=Directory
 Name[bg]=Преглеждане
 Name[cs]=Prohlížeč
 Name[de]=Anzeigeprogramm
+Name[en]=Viewer
 Name[es]=Visores
 Name[fr]=Visualiseur
-Name[hu]=NÃ©zegetÅ
-Name[ja]=ãã¥ã¼ã¢ã¼
+Name[hu]=Nézegetők
+Name[ja]=ビューアー
 Name[ko]=뷰어
 Name[lt]=Žiūryklė
 Name[nl]=Viewer

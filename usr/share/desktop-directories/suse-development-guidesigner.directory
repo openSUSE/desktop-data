@@ -1,14 +1,8 @@
-[Desktop Entry]
-Encoding=UTF-8
-Name=User Interface
-Name[de]=Benutzeroberfläche
-Name[ja]=ユーザーインターフェース
-Icon=style
-Type=Directory
 Name[bg]=Потребителски интерфейс
 Name[cs]=Uživatelské rozhraní
-Name[de]=BenutzeroberflÃ¤che
+Name[de]=Benutzeroberfläche
 Name[fr]=Interface utilisateur
+Name[ja]=ユーザーインターフェース
 Name[ko]=사용자 인터페이스
 Name[lt]=Vartotojo sąsaja
 Name[nl]=Gebruikersinterface

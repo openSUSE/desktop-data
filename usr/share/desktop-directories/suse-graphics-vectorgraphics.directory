@@ -1,21 +1,17 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Vector drawing
-Name[en]=Vector drawing
-Name[de]=Vektorgrafik
-Name[es]=Gráficos Vectoriales
-Name[hu]=Vektorgrafika készítő
-Name[ja]=ベクタグラフィックス
 Icon=penguin
 
 Type=Directory
 Name[bg]=Векторна графика
 Name[cs]=Vektorové kreslení
 Name[de]=Vektorgrafik
-Name[es]=GrÃ¡ficos Vectoriales
+Name[en]=Vector drawing
+Name[es]=Gráficos Vectoriales
 Name[fr]=Dessin vectoriel
-Name[hu]=Vektorgrafika kÃ©szÃ­tÅ
-Name[ja]=ãã¯ã¿ã°ã©ãã£ãã¯ã¹
+Name[hu]=Vektorgrafika készítő
+Name[ja]=ベクタグラフィックス
 Name[ko]=벡터 드로잉
 Name[lt]=Vektorinė grafika
 Name[nl]=Vector tekenen

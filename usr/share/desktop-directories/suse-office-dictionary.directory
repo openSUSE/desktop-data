@@ -1,8 +1,6 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Dictionary
-Name[de]=Wörterbuch
-Name[ja]=辞典
 Icon=contents
 
 Type=Directory
@@ -10,6 +8,7 @@ Name[bg]=Речник
 Name[cs]=Slovník
 Name[de]=Wörterbuch
 Name[fr]=Dictionnaire
+Name[ja]=辞典
 Name[ko]=디렉토리
 Name[lt]=Žodynas
 Name[nl]=Woordenboek
