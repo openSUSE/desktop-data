@@ -1244,6 +1244,11 @@
         <Move>
            <Old>YaST</Old><New>Settings/YaST</New>
         </Move>
+	<Menu>
+		<Name>GNOME Settings</Name>
+		<MergeFile>preferences.menu</MergeFile>
+		<Directory>Hidden.directory</Directory>
+	</Menu>
 	<DefaultMergeDirs/>
 	<MergeFile>applications-kmenuedit.menu</MergeFile>
 </Menu>
