@@ -832,7 +832,7 @@ gi
 			<Include>
 				<And>
 				<Category>Office</Category>
-				<Category>Database</Category>
+				<Category>X-SuSE-Database</Category>
 				</And>
 			</Include>
 		</Menu>
@@ -952,6 +952,7 @@ gi
 				<Category>TextEditor</Category>
 				<Category>Accessibility</Category>
 				<Category>Settings</Category>
+				<Category>System</Category>
 				<Category>X-SuSE-CD</Category>
 				<Category>X-SuSE-Calculator</Category>
 				<Category>X-SuSE-DesktopUtility</Category>
@@ -1055,6 +1056,7 @@ gi
 				<Category>Monitor</Category>
 				<Category>Screensaver</Category>
 				<Category>TerminalEmulator</Category>
+				<Category>Network</Category>
 				<Category>SystemSetup</Category>
 				<Category>PackageManager</Category>
 				<Category>Utility</Category>
@@ -1070,10 +1072,6 @@ gi
 				<Category>X-SuSE-Archiving</Category>
 				<Category>X-SuSE-Backup</Category>
 				<Category>X-SuSE-Security</Category>
-				<And>
-				<Category>System</Category>
-				<Category>Network</Category>
-				</And>
 				</Not>
 				</And>
 				</Include>
@@ -1240,7 +1238,6 @@ gi
 				<And>
 				<Category>System</Category>
 				<Category>Utility</Category>
-				<Not>X-SuSE-unimportant</Not>
 				</And>
 			</Include>
 		</Menu>
