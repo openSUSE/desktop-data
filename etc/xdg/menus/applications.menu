@@ -42,12 +42,12 @@
 				<Category>IDE</Category>
 				<Category>GUIDesigner</Category>
 				<Category>Documentation</Category>
-				<Category>X-SuSE-Building</Category>
-				<Category>X-SuSE-Debugger</Category>
+				<Category>Building</Category>
+				<Category>Debugger</Category>
+				<Category>Profiling</Category>
+				<Category>RevisionControl</Category>
+				<Category>Translation</Category>
 				<Category>X-SuSE-Design</Category>
-				<Category>X-SuSE-Profiling</Category>
-				<Category>X-SuSE-RevisionControl</Category>
-				<Category>X-SuSE-Translation</Category>
 				</Not>
 				</And>
 			</Include>
@@ -70,7 +70,7 @@
 			<Include>
 				<And>
 				<Category>Development</Category>
-				<Category>X-SuSE-Building</Category>
+				<Category>Building</Category>
 				</And>
 			</Include>
 		</Menu>
@@ -81,7 +81,7 @@
 			<Include>
 				<And>
 				<Category>Development</Category>
-				<Category>X-SuSE-RevisionControl</Category>
+				<Category>RevisionControl</Category>
 				</And>
 			</Include>
 		</Menu>
@@ -92,7 +92,7 @@
 			<Include>
 				<And>
 				<Category>Development</Category>
-				<Category>X-SuSE-Translation</Category>
+				<Category>Translation</Category>
 				</And>
 			</Include>
 		</Menu>
@@ -147,7 +147,7 @@
 			<Include>
 				<And>
 				<Category>Development</Category>
-				<Category>X-SuSE-Debugger</Category>
+				<Category>Debugger</Category>
 				</And>
 			</Include>
 		</Menu>
@@ -158,7 +158,7 @@
 			<Include>
 				<And>
 				<Category>Development</Category>
-				<Category>X-SuSE-Profiling</Category>
+				<Category>Profiling</Category>
 				</And>
 			</Include>
 		</Menu>
@@ -182,15 +182,15 @@
 				<Category>Astronomy</Category>
 				<Category>Chemistry</Category>
 				<Category>Engineering</Category>
+				<Category>Art</Category>
 				<Category>Math</Category>
 				<Category>Music</Category>
 				<Category>Science</Category>
+				<Category>Languages</Category>
+				<Category>Teaching</Category>
 				<Category>X-KDE-Edu-Teaching</Category>
 				<Category>X-KDE-Edu-Language</Category>
-				<Category>X-SuSE-Art</Category>
 				<Category>X-SuSE-Construction</Category>
-				<Category>X-SuSE-Language</Category>
-				<Category>X-SuSE-School</Category>
 				</Not>
 				</And>
 			</Include>
@@ -200,7 +200,7 @@
 			<Name>Languages</Name>
 			<Directory>suse-edutainment-languages.directory</Directory>
 			<Include>
-				<Category>X-SuSE-Language</Category>
+				<Category>Languages</Category>
 				<Category>X-KDE-Edu-Language</Category>
 			</Include>
 		</Menu>
@@ -246,7 +246,7 @@
 			<Directory>suse-edutainment-teaching.directory</Directory>
 			<Include>
 				<Category>X-KDE-Edu-Teaching</Category>
-				<Category>X-SuSE-School</Category>
+				<Category>Teaching</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -254,7 +254,7 @@
 			<Name>Art</Name>
 			<Directory>suse-edutainment-art.directory</Directory>
 			<Include>
-				<Category>X-SuSE-Art</Category>
+				<Category>Art</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -271,7 +271,7 @@
 			<Directory>suse-edutainment-construction.directory</Directory>
 			<Include>
 				<Category>Engineering</Category>
-				<Category>X-SuSE-Construction</Category>
+				<Category>Construction</Category>
 			</Include>
 		</Menu>
 	</Menu>
@@ -306,12 +306,11 @@
 				<Category>FirstPersonGame</Category>
 				<Category>AdventureGame</Category>
 				<Category>X-KDE-KidsGame</Category>
-				<Category>X-SuSE-ActionGame</Category>
-				<Category>X-SuSE-KidsGame</Category>
-				<Category>X-SuSE-LogicGame</Category>
-				<Category>X-SuSE-Adventure</Category>
-				<Category>X-SuSE-SimulationGame</Category>
-				<Category>X-SuSE-RolePlayingGame</Category>
+				<Category>ActionGame</Category>
+				<Category>KidsGame</Category>
+				<Category>LogicGame</Category>
+				<Category>Simulation</Category>
+				<Category>RolePlaying</Category>
 				</Not>
 				</And>
 gi
@@ -322,7 +321,7 @@ gi
 			<Name>Action</Name>
 			<Directory>suse-games-action.directory</Directory>
 			<Include>
-				<Category>X-SuSE-ActionGame</Category>
+				<Category>ActionGame</Category>
 				<Category>FirstPersonGame</Category>
 				<Category>PlatformGame</Category>
 			</Include>
@@ -358,7 +357,7 @@ gi
 			<Directory>suse-games-kidsgames.directory</Directory>
 			<Include>
 				<Category>X-KDE-KidsGame</Category>
-				<Category>X-SuSE-KidsGame</Category>
+				<Category>KidsGame</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -391,7 +390,7 @@ gi
 			<Directory>suse-games-puzzle.directory</Directory>
 			<Include>
 				<Category>PuzzleGame</Category>
-				<Category>X-SuSE-LogicGame</Category>
+				<Category>LogicGame</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -408,7 +407,6 @@ gi
 			<Directory>suse-games-adventure.directory</Directory>
 			<Include>
 				<Category>AdventureGame</Category>
-				<Category>X-SuSE-AdventureGame</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -416,7 +414,7 @@ gi
 			<Name>Role-Playing</Name>
 			<Directory>suse-games-role-playing.directory</Directory>
 			<Include>
-				<Category>X-SuSE-RolePlayingGame</Category>
+				<Category>RolePlaying</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -424,7 +422,7 @@ gi
 			<Name>Simulation</Name>
 			<Directory>suse-games-simulation.directory</Directory>
 			<Include>
-				<Category>X-SuSE-SimulationGame</Category>
+				<Category>Simulation</Category>
 			</Include>
 		</Menu>
 	</Menu>
@@ -444,13 +442,14 @@ gi
 				<Category>Graphics</Category>
 				<Not>
 				<Category>X-SuSE-Core-Graphics</Category>
+				<Category>2DGraphics</Category>
 				<Category>RasterGraphics</Category>
 				<Category>VectorGraphics</Category>
-				<Category>X-SuSE-Viewer</Category>
-				<Category>X-SuSE-Camera</Category>
-				<Category>X-SuSE-3DGraphics</Category>
-				<Category>X-SuSE-Scanning</Category>
-				<Category>X-SuSE-OCR</Category>
+				<Category>Scanning</Category>
+				<Category>OCR</Category>
+				<Category>Photograph</Category>
+				<Category>Viewer</Category>
+				<Category>3DGraphics</Category>
 				</Not>
 				</And>
 			</Include>
@@ -460,8 +459,8 @@ gi
 			<Name>Scanning</Name>
 			<Directory>suse-graphics-scanning.directory</Directory>
 			<Include>
-				<Category>X-SuSE-Scanning</Category>
-				<Category>X-SuSE-OCR</Category>
+				<Category>Scanning</Category>
+				<Category>OCR</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -469,7 +468,7 @@ gi
 			<Name>3DGraphics</Name>
 			<Directory>suse-graphics-3dgraphics.directory</Directory>
 			<Include>
-				<Category>X-SuSE-3DGraphics</Category>
+				<Category>3DGraphics</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -477,6 +476,7 @@ gi
 			<Name>RasterGraphics</Name>
 			<Directory>suse-graphics-rastergraphics.directory</Directory>
 			<Include>
+				<Category>2DGraphics</Category>
 				<Category>RasterGraphics</Category>
 			</Include>
 		</Menu>
@@ -495,8 +495,9 @@ gi
 			<Include>
 				<And>
 				<Category>Graphics</Category>
-				<Category>X-SuSE-Viewer</Category>
+				<Category>Viewer</Category>
 				<Not>
+				<Category>2DGraphics</Category>
 				<Category>Office</Category>
 				</Not>
 				</And>
@@ -507,7 +508,7 @@ gi
 			<Name>Photograph</Name>
 			<Directory>suse-graphics-photograph.directory</Directory>
 			<Include>
-				<Category>X-SuSE-Camera</Category>
+				<Category>Photograph</Category>
 			</Include>
 		</Menu>
 	</Menu>
@@ -531,18 +532,18 @@ gi
 				<Category>HamRadio</Category>
 				<Category>Monitor</Category>
 				<Category>Office</Category>
+				<Category>InstantMessaging</Category>
+				<Category>IRCClient</Category>
+				<Category>News</Category>
 				<Category>SystemSetup</Category>
-				<Category>X-SuSE-Telephone</Category>
-				<Category>X-SuSE-DialUp</Category>
-				<Category>X-SuSE-FileTransfer</Category>
-				<Category>X-SuSE-P2P</Category>
-				<Category>X-SuSE-IRCClient</Category>
-				<Category>X-SuSE-RemoteAccess</Category>
-				<Category>X-SuSE-NewsReader</Category>
-				<Category>X-SuSE-WebBrowser</Category>
-				<Category>X-SuSE-WebDevelopment</Category>
-				<Category>X-SuSE-InstantMessaging</Category>
-				<Category>X-SuSE-Filesystem</Category>
+				<Category>FileTransfer</Category>
+				<Category>P2P</Category>
+				<Category>RemoteAccess</Category>
+				<Category>Telephony</Category>
+				<Category>WebBrowser</Category>
+				<Category>WebDevelopment</Category>
+				<Category>Dialup</Category>
+				<Category>Filesystem</Category>
 				</Not>
 				</And>
 			</Include>
@@ -560,15 +561,15 @@ gi
 			<Name>Peer to Peer</Name>
 			<Directory>suse-internet-p2p.directory</Directory>
 			<Include>
-				<Category>X-SuSE-P2P</Category>
+				<Category>P2P</Category>
 			</Include>
 		</Menu>
 		<Menu>
 			<DontShowIfEmpty/>
-			<Name>DialUp</Name>
+			<Name>Dialup</Name>
 			<Directory>suse-internet-dialup.directory</Directory>
 			<Include>
-				<Category>X-SuSE-DialUp</Category>
+				<Category>Dialup</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -589,7 +590,7 @@ gi
 			<Include>
 				<And>
 				<Category>Network</Category>
-				<Category>X-SuSE-Telephone</Category>
+				<Category>Telephony</Category>
 				</And>
 			</Include>
 		</Menu>
@@ -598,7 +599,7 @@ gi
 			<Name>Filetransfer</Name>
 			<Directory>suse-internet-filetransfer.directory</Directory>
 			<Include>
-				<Category>X-SuSE-FileTransfer</Category>
+				<Category>FileTransfer</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -614,8 +615,8 @@ gi
 			<Name>Chat</Name>
 			<Directory>suse-internet-chat.directory</Directory>
 			<Include>
-				<Category>X-SuSE-IRCClient</Category>
-				<Category>X-SuSE-InstantMessaging</Category>
+				<Category>IRCClient</Category>
+				<Category>InstantMessaging</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -623,14 +624,14 @@ gi
 			<Name>NewsReader</Name>
 			<Directory>suse-internet-newsreader.directory</Directory>
 			<Include>
-				<Category>X-SuSE-NewsReader</Category>
+				<Category>News</Category>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>WebBrowser</Name>
 			<Directory>suse-internet-webbrowser.directory</Directory>
 			<Include>
-				<Category>X-SuSE-WebBrowser</Category>
+				<Category>WebBrowser</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -638,7 +639,7 @@ gi
 			<Name>WebDevelopment</Name>
 			<Directory>suse-internet-webdevelopment.directory</Directory>
 			<Include>
-				<Category>X-SuSE-WebDevelopment</Category>
+				<Category>WebDevelopment</Category>
 			</Include>
 		</Menu>
 	</Menu>
@@ -664,13 +665,13 @@ gi
 				<Category>Database</Category>
 				<Category>Utility</Category>
 				<Category>Music</Category>
-				<Category>X-SuSE-AudioVideoEditing</Category>
-				<Category>X-SuSE-Recorder</Category>
-				<Category>X-SuSE-MidiPlayer</Category>
-				<Category>X-SuSE-Tuner</Category>
-				<Category>X-SuSE-TV</Category>
+				<Category>Midi</Category>
+				<Category>Sequencer</Category>
+				<Category>Tuner</Category>
+				<Category>TV</Category>
+				<Category>AudioVideoEditing</Category>
+				<Category>Recorder</Category>
 				<Category>X-SuSE-CD</Category>
-				<Category>X-SuSE-Sequencer</Category>
 				</Not>
 				</And>
 			</Include>
@@ -680,6 +681,7 @@ gi
 			<Name>AudioMixer</Name>
 			<Directory>suse-multimedia-audiomixer.directory</Directory>
 			<Include>
+				<Category>Mixer</Category>
 				<Category>AudioMixer</Category>
 			</Include>
 		</Menu>
@@ -688,7 +690,7 @@ gi
 			<Name>AudioVideoEditing</Name>
 			<Directory>suse-multimedia-audiovideoediting.directory</Directory>
 			<Include>
-				<Category>X-SuSE-AudioVideoEditing</Category>
+				<Category>AudioVideoEditing</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -699,7 +701,7 @@ gi
 				<And>
 				<Category>AudioVideo</Category>
 				<Category>Player</Category>
-				<Category>X-SuSE-Video</Category>
+				<Category>Video</Category>
 				</And>
 			</Include>
 		</Menu>
@@ -711,12 +713,12 @@ gi
 				<And>
 				<Category>AudioVideo</Category>
 				<Category>Player</Category>
-				<Not><Category>X-SuSE-Video</Category></Not>
+				<Not><Category>Video</Category></Not>
 				<Not><Category>X-SuSE-CD</Category></Not>
 				</And>
 				<And>
 				<Category>AudioVideo</Category>
-				<Category>X-SuSE-MidiPlayer</Category>
+				<Category>Midi</Category>
 				</And>
 			</Include>
 		</Menu>
@@ -726,7 +728,7 @@ gi
 			<Directory>suse-multimedia-audiovideorecorder.directory</Directory>
 			<Include>
 				<And>
-				<Category>X-SuSE-Recorder</Category>
+				<Category>Recorder</Category>
 				<Not><Category>X-SuSE-CD</Category></Not>
 				</And>
 			</Include>
@@ -736,7 +738,7 @@ gi
 			<Name>Sequencer</Name>
 			<Directory>suse-multimedia-sequencer.directory</Directory>
 			<Include>
-				<Category>X-SuSE-Sequencer</Category>
+				<Category>Sequencer</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -786,8 +788,8 @@ gi
 			<Name>TV</Name>
 			<Directory>suse-multimedia-tv.directory</Directory>
 			<Include>
-				<Category>X-SuSE-Tuner</Category>
-				<Category>X-SuSE-TV</Category>
+				<Category>Tuner</Category>
+				<Category>TV</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -826,16 +828,17 @@ gi
 				<Category>Presentation</Category>
 				<Category>Spreadsheet</Category>
 				<Category>WordProcessor</Category>
-				<Category>X-SuSE-Viewer</Category>
+				<Category>ContactManagement</Category>
+				<Category>Dictionary</Category>
+				<Category>Finance</Category>
+				<Category>FlowChart</Category>
+				<Category>Viewer</Category>
 				<Category>X-SuSE-Editor</Category>
 				<Category>X-SuSE-ProjectManagement</Category>
-				<Category>X-SuSE-FlowChart</Category>
-				<Category>X-SuSE-Finance</Category>
 				<Category>X-SuSE-Database</Category>
 				<Category>X-SuSE-AddressBook</Category>
-				<Category>X-SuSE-Dictionary</Category>
 				<Category>X-SuSE-Warehouse</Category>
-				<Category>X-SuSE-WebDevelopment</Category>
+				<Category>WebDevelopment</Category>
 				</Not>
 				</And>
 			</Include>
@@ -866,6 +869,10 @@ gi
 			<Include>
 				<And>
 				<Category>Office</Category>
+				<Category>ContactManagement</Category>
+				</And>
+				<And>
+				<Category>Office</Category>
 				<Category>X-SuSE-AddressBook</Category>
 				</And>
 			</Include>
@@ -877,7 +884,7 @@ gi
 			<Include>
 				<And>
 				<Category>Office</Category>
-				<Category>X-SuSE-Viewer</Category>
+				<Category>Viewer</Category>
 				</And>
 			</Include>
 		</Menu>
@@ -894,7 +901,7 @@ gi
 			<Name>FlowChart</Name>
 			<Directory>suse-office-flowchart.directory</Directory>
 			<Include>
-				<Category>X-SuSE-FlowChart</Category>
+				<Category>FlowChart</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -902,7 +909,7 @@ gi
 			<Name>Finance</Name>
 			<Directory>suse-office-finance.directory</Directory>
 			<Include>
-				<Category>X-SuSE-Finance</Category>
+				<Category>Finance</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -942,7 +949,7 @@ gi
 			<Name>Dictionary</Name>
 			<Directory>suse-office-dictionary.directory</Directory>
 			<Include>
-				<Category>X-SuSE-Dictionary</Category>
+				<Category>Dictionary</Category>
 			</Include>
 		</Menu>
 	</Menu>
@@ -977,13 +984,13 @@ gi
 				<Category>Accessibility</Category>
 				<Category>Settings</Category>
 				<Category>TerminalEmulator</Category>
-				<Category>X-SuSE-Archiving</Category>
+				<Category>Archiving</Category>
+				<Category>Filesystem</Category>
+				<Category>Calculator</Category>
 				<Category>X-SuSE-Backup</Category>
 				<Category>X-SuSE-CD</Category>
-				<Category>X-SuSE-Calculator</Category>
 				<Category>X-SuSE-DesktopUtility</Category>
 				<Category>X-SuSE-Editor</Category>
-				<Category>X-SuSE-Filesystem</Category>
 				<Category>X-SuSE-SyncUtility</Category>
 				<Category>X-SuSE-WebUtility</Category>
 				<Category>X-SuSE-TimeUtility</Category>
@@ -1018,7 +1025,7 @@ gi
 			<Directory>suse-utility-archiving.directory</Directory>
 			<Include>
 				<Category>X-SuSE-Backup</Category>
-				<Category>X-SuSE-Archiving</Category>
+				<Category>Archiving</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -1026,7 +1033,7 @@ gi
 			<Name>Calc</Name>
 			<Directory>suse-utility-calculator.directory</Directory>
 			<Include>
-				<Category>X-SuSE-Calculator</Category>
+				<Category>Calculator</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -1098,14 +1105,14 @@ gi
 				<Category>Applet</Category>
 				<Category>TrayIcon</Category>
 				<Category>Documentation</Category>
-				<Category>X-SuSE-Telephone</Category>
-				<Category>X-SuSE-Database</Category>
-				<Category>X-SuSE-RemoteAccess</Category>
+				<Category>Database</Category>
+				<Category>Telephony</Category>
+				<Category>RemoteAccess</Category>
+				<Category>FileManager</Category>
+				<Category>Filesystem</Category>
+				<Category>Archiving</Category>
 				<Category>X-SuSE-ServiceConfiguration</Category>
-				<Category>X-SuSE-FileManager</Category>
-				<Category>X-SuSE-Filesystem</Category>
-				<Category>X-SuSE-Archiving</Category>
-				<Category>X-SuSE-Security</Category>
+				<Category>Security</Category>
 				</Not>
 				</And>
 				</Include>
@@ -1133,7 +1140,7 @@ gi
 			<Name>Security</Name>
 			<Directory>suse-system-security.directory</Directory>
 			<Include>
-				<Category>X-SuSE-Security</Category>
+				<Category>Security</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -1162,7 +1169,7 @@ gi
 			<Directory>suse-system-service-configuration.directory</Directory>
 			<Include>
 				<Category>X-SuSE-ServiceConfiguration</Category>
-				<Category>X-SuSE-Database</Category>
+				<Category>Database</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -1181,7 +1188,7 @@ gi
 			<Include>
 				<And>
 				<Category>System</Category>
-				<Category>X-SuSE-Telephone</Category>
+				<Category>Telephony</Category>
 				</And>
 			</Include>
 		</Menu>
@@ -1198,7 +1205,7 @@ gi
 			<Name>Filesystem</Name>
 			<Directory>suse-system-filesystem.directory</Directory>
 			<Include>
-				<Category>X-SuSE-Filesystem</Category>
+				<Category>Filesystem</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -1206,7 +1213,7 @@ gi
 			<Name>FileManager</Name>
 			<Directory>suse-system-filemanager.directory</Directory>
 			<Include>
-				<Category>X-SuSE-FileManager</Category>
+				<Category>FileManager</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -1234,7 +1241,7 @@ gi
 			<Name>RemoteAccess</Name>
 			<Directory>suse-system-remoteaccess.directory</Directory>
 			<Include>
-				<Category>X-SuSE-RemoteAccess</Category>
+				<Category>RemoteAccess</Category>
 			</Include>
 		</Menu>
 		<Menu>
