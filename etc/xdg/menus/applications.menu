@@ -659,9 +659,8 @@ gi
 				<Category>AudioVideo</Category>
 				<Not>
 				<Category>X-SuSE-Core-Multimedia</Category>
-				<Category>AudioMixer</Category>
-				<Category>Jukebox</Category>
 				<Category>Mixer</Category>
+				<Category>Jukebox</Category>
 				<Category>DiscBurning</Category>
 				<Category>Player</Category>
 				<Category>Database</Category>
@@ -680,11 +679,10 @@ gi
 		</Menu>
 		<Menu>
 			<DontShowIfEmpty/>
-			<Name>AudioMixer</Name>
+			<Name>Mixer</Name>
 			<Directory>suse-multimedia-audiomixer.directory</Directory>
 			<Include>
 				<Category>Mixer</Category>
-				<Category>AudioMixer</Category>
 			</Include>
 		</Menu>
 		<Menu>
