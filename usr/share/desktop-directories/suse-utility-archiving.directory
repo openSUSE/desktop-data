@@ -1,8 +1,9 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Archiving
-
+Icon=folder_tar
 Type=Directory
+
 Name[bg]=Архивиране
 Name[cs]=Archivace
 Name[de]=Archivierung

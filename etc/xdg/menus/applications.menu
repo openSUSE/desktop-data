@@ -1003,7 +1003,6 @@ gi
 				<Category>Archiving</Category>
 				<Category>Filesystem</Category>
 				<Category>Calculator</Category>
-				<Category>X-SuSE-Backup</Category>
 				<Category>X-SuSE-CD</Category>
 				<Category>X-SuSE-DesktopUtility</Category>
 				<Category>X-SuSE-Editor</Category>
@@ -1040,7 +1039,6 @@ gi
 			<Name>Archiving</Name>
 			<Directory>suse-utility-archiving.directory</Directory>
 			<Include>
-				<Category>X-SuSE-Backup</Category>
 				<Category>Archiving</Category>
 			</Include>
 		</Menu>
@@ -1127,6 +1125,7 @@ gi
 				<Category>FileManager</Category>
 				<Category>Filesystem</Category>
 				<Category>Archiving</Category>
+				<Category>X-SuSE-Backup</Category>
 				<Category>X-SuSE-ServiceConfiguration</Category>
 				<Category>Security</Category>
 				</Not>
@@ -1139,6 +1138,14 @@ gi
 				<Filename>gnome-gdmsetup.desktop</Filename>
 				<Filename>gnome-gfloppy.desktop</Filename>
 			</Exclude>
+		</Menu>
+		<Menu>
+			<DontShowIfEmpty/>
+			<Name>Backup</Name>
+			<Directory>suse-system-backup.directory</Directory>
+			<Include>
+				<Category>X-SuSE-Backup</Category>
+			</Include>
 		</Menu>
 		<Menu>
 			<DontShowIfEmpty/>

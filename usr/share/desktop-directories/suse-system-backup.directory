@@ -1,9 +1,10 @@
 [Desktop Entry]
 Encoding=UTF-8
+Type=Directory
 Name=Backup
 Icon=hdd_umount
 
-Type=Directory
-X-SuSE-GeneralDescription=true
+Name[de]=Datensicherung
 Name[cs]=Zálohování
 Name[hu]=Biztonsági mentés
+
