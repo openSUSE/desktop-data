@@ -749,6 +749,7 @@ gi
 			<Include>
 				<And>
 				<Category>Player</Category>
+				<Not><Category>Player</Category></Not>
 				<Category>X-SuSE-CD</Category>
 				</And>
 			</Include>
