@@ -5049,7 +5049,7 @@ StartChar: Lcaron
 Encoding: 317 317 223
 Width: 1141
 Flags: H
-Ref: 711 711 N 1 0 0 1 153.5 380
+Ref: 711 711 S 1 0 0 1 -70.4999 366
 Ref: 76 76 N 1 0 0 1 0 0
 EndChar
 StartChar: lcaron
