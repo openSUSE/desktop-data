@@ -726,6 +726,9 @@ gi
 				<Not><Category>X-SuSE-Jukebox</Category></Not>
 				</And>
 			</Include>
+			<Exclude>
+				<Filename>realplay.desktop</Filename>
+			</Exclude>
 		</Menu>
 		<Menu>
 			<DontShowIfEmpty/>
