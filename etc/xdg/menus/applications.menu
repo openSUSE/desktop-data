@@ -439,7 +439,6 @@ gi
 				<Category>X-SuSE-3DGraphics</Category>
 				<Category>X-SuSE-Scanning</Category>
 				<Category>X-SuSE-OCR</Category>
-				<Category>X-SuSE-Photograph</Category>
 				</Not>
 				</And>
 			</Include>
@@ -483,6 +482,7 @@ gi
 			<Directory>suse-graphics-viewer.directory</Directory>
 			<Include>
 				<And>
+				<Category>Graphics</Category>
 				<Category>X-SuSE-Viewer</Category>
 				<Not>
 				<Category>Office</Category>
@@ -495,7 +495,7 @@ gi
 			<Name>Photograph</Name>
 			<Directory>suse-graphics-photograph.directory</Directory>
 			<Include>
-				<Category>X-SuSE-Photograph</Category>
+				<Category>X-SuSE-Camera</Category>
 			</Include>
 		</Menu>
 	</Menu>
