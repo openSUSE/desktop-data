@@ -99,7 +99,7 @@
 		<Menu>
 			<DontShowIfEmpty/>
 			<Name>Documentation</Name>
-			<Directory>suse-development-documentation.directory</Directory>
+			<Directory>suse-documentation.directory</Directory>
 			<Include>
 				<And>
 				<Category>Development</Category>
@@ -1060,6 +1060,7 @@ gi
 				<Category>Utility</Category>
 				<Category>Applet</Category>
 				<Category>TrayIcon</Category>
+				<Category>Documentation</Category>
 				<Category>X-SuSE-Telephone</Category>
 				<Category>X-SuSE-Database</Category>
 				<Category>X-SuSE-RemoteAccess</Category>
@@ -1083,6 +1084,17 @@ gi
 				<Filename>gnome-gdmsetup.desktop</Filename>
 				<Filename>gnome-gfloppy.desktop</Filename>
 			</Exclude>
+		</Menu>
+		<Menu>
+			<DontShowIfEmpty/>
+			<Name>Documentation</Name>
+			<Directory>suse-documentation.directory</Directory>
+			<Include>
+				<And>
+				<Category>Documentation</Category>
+				<Not><Category>Development</Category></Not>
+				</And>
+			</Include>
 		</Menu>
 		<Menu>
 			<DontShowIfEmpty/>
