@@ -1015,6 +1015,7 @@ gi
 				<Category>TextEditor</Category>
 				<Category>Office</Category>
 				<Category>Accessibility</Category>
+				<Category>Applet</Category>
 				<Category>Settings</Category>
 				<Category>Shell</Category>
 				<Category>Clock</Category>
@@ -1022,6 +1023,7 @@ gi
 				<Category>Archiving</Category>
 				<Category>Filesystem</Category>
 				<Category>Calculator</Category>
+				<Category>Security</Category>
 				<Category>DesktopSettings</Category>
 				<Category>X-SuSE-CD</Category>
 				<Category>X-SuSE-DesktopUtility</Category>
@@ -1075,6 +1077,17 @@ gi
 			<Directory>suse-utility-calculator.directory</Directory>
 			<Include>
 				<Category>Calculator</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<DontShowIfEmpty/>
+			<Name>Security</Name>
+			<Directory>suse-system-security.directory</Directory>
+			<Include>
+				<And>
+				<Category>Utility</Category>
+				<Category>Security</Category>
+				</And>
 			</Include>
 		</Menu>
 		<Menu>
@@ -1193,7 +1206,10 @@ gi
 			<Name>Security</Name>
 			<Directory>suse-system-security.directory</Directory>
 			<Include>
+				<And>
 				<Category>Security</Category>
+				<Not><Category>Utility</Category></Not>
+				</And>
 			</Include>
 		</Menu>
 		<Menu>
