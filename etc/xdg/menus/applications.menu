@@ -682,12 +682,12 @@ gi
 			<Directory>suse-multimedia-audiovideoplayer.directory</Directory>
 			<Include>
 				<And>
+				<Category>AudioVideo</Category>
 				<Category>Player</Category>
-				<Not> <Category>Player</Category> </Not>
 				</And>
 				<And>
+				<Category>AudioVideo</Category>
 				<Category>X-SuSE-MidiPlayer</Category>
-				<Not> <Category>Player</Category> </Not>
 				</And>
 			</Include>
 		</Menu>
