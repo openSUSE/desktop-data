@@ -417,6 +417,7 @@
 				<Category>X-SuSE-IRCClient</Category>
 				<Category>X-SuSE-Newsreader</Category>
 				<Category>X-SuSE-WebBrowser</Category>
+				<Category>X-SuSE-WebDevelopment</Category>
 				<Category>X-SuSE-InstantMessaging</Category>
 				</Not>
 			</And>
@@ -496,6 +497,13 @@
 			<Directory>suse-internet-webbrowser.directory</Directory>
 			<Include>
 				<Category>X-SuSE-WebBrowser</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>WebDevelopment</Name>
+			<Directory>suse-internet-webdevelopment.directory</Directory>
+			<Include>
+				<Category>X-SuSE-WebDevelopment</Category>
 			</Include>
 		</Menu>
 	</Menu>
