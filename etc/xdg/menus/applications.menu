@@ -498,7 +498,11 @@ gi
 				<Category>Viewer</Category>
 				<Not>
 				<Category>2DGraphics</Category>
+				<Category>RasterGraphics</Category>
 				<Category>Office</Category>
+				<Category>3DGraphics</Category>
+				<Category>VectorGraphics</Category>
+				<Category>Photograph</Category>
 				</Not>
 				</And>
 			</Include>
