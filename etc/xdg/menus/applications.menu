@@ -120,6 +120,17 @@
 		</Menu>
 		<Menu>
 			<DontShowIfEmpty/>
+			<Name>Design</Name>
+			<Directory>suse-development-design.directory</Directory>
+			<Include>
+				<And>
+				<Category>Development</Category>
+				<Category>X-SuSE-Design</Category>
+				</And>
+			</Include>
+		</Menu>
+		<Menu>
+			<DontShowIfEmpty/>
 			<Name>IDE</Name>
 			<Directory>suse-development-ide.directory</Directory>
 			<Include>
@@ -961,6 +972,7 @@ gi
 				<Category>Accessibility</Category>
 				<Category>Settings</Category>
 				<Category>X-SuSE-Archiving</Category>
+				<Category>X-SuSE-Backup</Category>
 				<Category>X-SuSE-CD</Category>
 				<Category>X-SuSE-Calculator</Category>
 				<Category>X-SuSE-DesktopUtility</Category>
@@ -999,6 +1011,7 @@ gi
 			<Name>Archiving</Name>
 			<Directory>suse-utility-archiving.directory</Directory>
 			<Include>
+				<Category>X-SuSE-Backup</Category>
 				<Category>X-SuSE-Archiving</Category>
 			</Include>
 		</Menu>
@@ -1086,7 +1099,6 @@ gi
 				<Category>X-SuSE-FileManager</Category>
 				<Category>X-SuSE-Filesystem</Category>
 				<Category>X-SuSE-Archiving</Category>
-				<Category>X-SuSE-Backup</Category>
 				<Category>X-SuSE-Security</Category>
 				</Not>
 				</And>
@@ -1127,14 +1139,6 @@ gi
 				<Category>System</Category>
 				<Category>Network</Category>
 				</And>
-			</Include>
-		</Menu>
-		<Menu>
-			<DontShowIfEmpty/>
-			<Name>Backup</Name>
-			<Directory>suse-system-backup.directory</Directory>
-			<Include>
-				<Category>X-SuSE-Backup</Category>
 			</Include>
 		</Menu>
 		<Menu>
