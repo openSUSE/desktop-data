@@ -57,6 +57,13 @@
 				<Category>Debugger</Category>
 			</Include>
 		</Menu>
+		<Menu>
+			<Name>Profiling</Name>
+			<Directory>suse-development-profiling.directory</Directory>
+			<Include>
+				<Category>X-SuSE-Profiling</Category>
+			</Include>
+		</Menu>
 	</Menu>
 	<Menu>
 		<Name>Edutainment</Name>
@@ -79,60 +86,42 @@
 			<Name>Languages</Name>
 			<Directory>suse-edu-languages.directory</Directory>
 			<Include>
-				<And>
-				<Category>Education</Category>
 				<Category>X-KDE-Edu-Language</Category>
-				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Mathematics</Name>
 			<Directory>suse-edu-mathematics.directory</Directory>
 			<Include>
-				<And>
-				<Category>Education</Category>
 				<Category>Math</Category>
-				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Science</Name>
 			<Directory>suse-edu-science.directory</Directory>
 			<Include>
-				<And>
-				<Category>Education</Category>
 				<Category>Science</Category>
-				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Tools</Name>
 			<Directory>suse-edu-tools.directory</Directory>
 			<Include>
-				<And>
-				<Category>Education</Category>
 				<Category>X-KDE-Edu-Teaching</Category>
-				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Art</Name>
 			<Directory>suse-edutainment-art.directory</Directory>
 			<Include>
-				<And>
-				<Category>Education</Category>
 				<Category>X-SuSE-Edu-Art</Category>
-				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Astronomy</Name>
 			<Directory>suse-edutainment-astronomy.directory</Directory>
 			<Include>
-				<And>
-				<Category>Education</Category>
 				<Category>Astronomy</Category>
-				</And>
 			</Include>
 		</Menu>
 	</Menu>
@@ -333,7 +322,7 @@
 				<Not>
 				<Category>Email</Category>
 				<Category>X-SuSE-P2P</Category>
-				<Category>X-SuSE-Network-FileTransfer</Category>
+				<Category>FileTransfer</Category>
 				<Category>HamRadio</Category>
 				<Category>InstantMessaging</Category>
 				<Category>IRCClient</Category>
@@ -362,7 +351,7 @@
 			<Name>Filetransfer</Name>
 			<Directory>suse-internet-filetransfer.directory</Directory>
 			<Include>
-				<Category>X-SuSE-Network-FileTransfer</Category>
+				<Category>FileTransfer</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -581,6 +570,11 @@
 				<Category>Utility</Category>
 				<Not>
 				<Category>TextEditor</Category>
+				<Category>PDA</Category>
+				<Category>Accessibility</Category>
+				<Category>X-SuSE-Utility-Desktop</Category>
+				<Category>X-SuSE-Calculator</Category>
+				<Category>X-SuSE-Utility-Sync</Category>
 				</Not>
 			</And>
 		</Include>
@@ -588,6 +582,7 @@
 			<Name>Desktop</Name>
 			<Directory>suse-utility-desktop.directory</Directory>
 			<Include>
+				<Category>Accessibility</Category>
 				<Category>X-SuSE-Utility-Desktop</Category>
 			</Include>
 		</Menu>
@@ -603,6 +598,14 @@
 			<Directory>suse-utility-calculator.directory</Directory>
 			<Include>
 				<Category>X-SuSE-Calculator</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Syncing</Name>
+			<Directory>suse-utility-sync.directory</Directory>
+			<Include>
+				<Category>PDA</Category>
+				<Category>X-SuSE-Utility-Sync</Category>
 			</Include>
 		</Menu>
 	</Menu>
@@ -682,10 +685,10 @@
 			</Include>
 		</Menu>
 		<Menu>
-			<Name>FileSystem</Name>
+			<Name>Filesystem</Name>
 			<Directory>suse-system-filesystem.directory</Directory>
 			<Include>
-				<Category>X-SuSE-FileSystem</Category>
+				<Category>X-SuSE-Filesystem</Category>
 			</Include>
 		</Menu>
 		<Menu>
