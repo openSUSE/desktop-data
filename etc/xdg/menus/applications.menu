@@ -186,11 +186,6 @@
 				<Not>
 				<Category>X-SuSE-Core-Edutainment</Category>
 				<Category>Astronomy</Category>
-				<Category>Biology</Category>
-				<Category>Geology</Category>
-				<Category>MedicalSoftware</Category>
-				<Category>Physics</Category>
-				<Category>Electronics</Category>
 				<Category>Chemistry</Category>
 				<Category>Construction</Category>
 				<Category>Engineering</Category>
@@ -303,8 +298,6 @@
 				<Category>PlatformGame</Category>
 				<Category>PuzzleGame</Category>
 				<Category>SportsGame</Category>
-				<Category>StrategyGame</Category>
-				<Category>PlatformGame</Category>
 				<Category>FirstPersonGame</Category>
 				<Category>AdventureGame</Category>
 				<Category>X-KDE-KidsGame</Category>
