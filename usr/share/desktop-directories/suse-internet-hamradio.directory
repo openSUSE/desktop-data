@@ -3,9 +3,9 @@ Encoding=UTF-8
 Name=Ham-Radio
 Name[en]=Ham-Radio
 Name[de]=Ham-Radio
-Name[hu]=Ham-rÃ¡diÃ³
+Name[hu]=Ham-rádió
 Name[cs]=Ham-Radio
-Name[ja]=ã¢ããã¥ã¢ç¡ç·
+Name[ja]=アマチュア無線
 Icon=remote
 
 Type=Directory
