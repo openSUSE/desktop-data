@@ -724,6 +724,7 @@
 				<Category>Utility</Category>
 				<Category>Applet</Category>
 				<Category>TrayIcon</Category>
+				<Category>X-SuSE-Telephone</Category>
 				<Category>X-SuSE-RemoteAccess</Category>
 				<Category>X-SuSE-ServiceConfiguration</Category>
 				<Category>X-SuSE-FileManager</Category>
@@ -782,6 +783,16 @@
 			<Include>
 				<Category>Applet</Category>
 				<Category>TrayIcon</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Telephone</Name>
+			<Directory>suse-system-telephone.directory</Directory>
+			<Include>
+				<And>
+				<Category>System</Category>
+				<Category>X-SuSE-Telephone</Category>
+				</And>
 			</Include>
 		</Menu>
 		<Menu>
@@ -862,6 +873,7 @@
 				<And>
 				<Category>System</Category>
 				<Category>Utility</Category>
+				<Not>X-SuSE-unimportant</Not>
 				</And>
 			</Include>
 		</Menu>
