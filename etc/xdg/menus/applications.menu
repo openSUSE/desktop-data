@@ -960,7 +960,6 @@ gi
 				<Category>TextEditor</Category>
 				<Category>Accessibility</Category>
 				<Category>Settings</Category>
-				<Category>System</Category>
 				<Category>X-SuSE-Archiving</Category>
 				<Category>X-SuSE-CD</Category>
 				<Category>X-SuSE-Calculator</Category>
@@ -1234,17 +1233,6 @@ gi
 			<Directory>suse-system-shell.directory</Directory>
 			<Include>
 				<Category>TerminalEmulator</Category>
-			</Include>
-		</Menu>
-		<Menu>
-			<DontShowIfEmpty/>
-			<Name>Utilities</Name>
-			<Directory>suse-system-utility.directory</Directory>
-			<Include>
-				<And>
-				<Category>System</Category>
-				<Category>Utility</Category>
-				</And>
 			</Include>
 		</Menu>
 	</Menu>
