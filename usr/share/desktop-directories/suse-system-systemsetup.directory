@@ -1,7 +1,7 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Service Configuration
-Name[de]=Dienstkonfiguration
+Name=Configuration
+Name[de]=Konfiguration
 Icon=SuSEconf
 
 Type=Directory
