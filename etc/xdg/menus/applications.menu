@@ -1075,7 +1075,7 @@ gi
 			<Directory>suse-telephone.directory</Directory>
 			<Include>
 				<And>
-				<Category>System</Category>
+				<Category>Utility</Category>
 				<Category>Telephony</Category>
 				</And>
 			</Include>
@@ -1170,6 +1170,7 @@ gi
 				<Category>Utility</Category>
 				<Category>Applet</Category>
 				<Category>TrayIcon</Category>
+				<Category>Telephony</Category>
 				<Category>Documentation</Category>
 				<Category>Database</Category>
 				<Category>RemoteAccess</Category>
@@ -1228,6 +1229,17 @@ gi
 				<And>
 				<Category>System</Category>
 				<Category>Network</Category>
+				</And>
+			</Include>
+		</Menu>
+		<Menu>
+			<DontShowIfEmpty/>
+			<Name>Telephone</Name>
+			<Directory>suse-telephone.directory</Directory>
+			<Include>
+				<And>
+				<Category>System</Category>
+				<Category>Telephony</Category>
 				</And>
 			</Include>
 		</Menu>
