@@ -35,7 +35,7 @@
 			<Category>IDE</Category>
 			<Category>GUIDesigner</Category>
 			<Category>Documentation</Category>
-			<Category>X-SuSE-DevelopmentTools</Category>
+			<Category>X-SuSE-Building</Category>
 			<Category>X-SuSE-Debugger</Category>
 			<Category>X-SuSE-Profiling</Category>
 			<Category>X-SuSE-RevisionControl</Category>
@@ -43,6 +43,17 @@
 			</Not>
 			</And>
 		</Include>
+		<Menu>
+			<DontShowIfEmpty/>
+			<Name>Building</Name>
+			<Directory>suse-development-building.directory</Directory>
+			<Include>
+				<And>
+				<Category>Development</Category>
+				<Category>Building</Category>
+				</And>
+			</Include>
+		</Menu>
 		<Menu>
 			<DontShowIfEmpty/>
 			<Name>RevisionControl</Name>
@@ -567,7 +578,7 @@
 		<Include>
 			<Category>X-SuSE-Core-Multimedia</Category>
 			<And>
-				AudioVideo
+				<Category>AudioVideo</Category>
 				<Not>
 				<Category>AudioMixer</Category>
 				<Category>DiscBurning</Category>
@@ -946,14 +957,14 @@
 				</And>
 				</Not>
 			</And>
-			<Exclude>
-				<Filename>gnome-gnome-system-log.desktop</Filename>
-				<Filename>gnome-gdmflexiserver-xnest.desktop</Filename>
-				<Filename>gnome-gdmflexiserver.desktop</Filename>
-				<Filename>gnome-gdmsetup.desktop</Filename>
-				<Filename>gnome-gfloppy.desktop</Filename>
-			</Exclude>
 		</Include>
+		<Exclude>
+			<Filename>gnome-gnome-system-log.desktop</Filename>
+			<Filename>gnome-gdmflexiserver-xnest.desktop</Filename>
+			<Filename>gnome-gdmflexiserver.desktop</Filename>
+			<Filename>gnome-gdmsetup.desktop</Filename>
+			<Filename>gnome-gfloppy.desktop</Filename>
+		</Exclude>
 		<Menu>
 			<DontShowIfEmpty/>
 			<Name>Security</Name>
