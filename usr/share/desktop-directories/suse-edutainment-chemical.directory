@@ -3,9 +3,9 @@ Encoding=UTF-8
 Name=Chemical
 Name[en]=Chemical
 Name[de]=Chemie
-Name[es]=QuÃ­mica
-Name[hu]=KÃ©mia
-Name[ja]=åå­¦
+Name[es]=Química
+Name[hu]=Kémia
+Name[ja]=化学
 Icon=filter
 
 Type=Directory
