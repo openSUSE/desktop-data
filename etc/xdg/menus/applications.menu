@@ -217,6 +217,7 @@
 				<And>
 				<Category>Education</Category>
 				<Category>Music</Category>
+				<Not><Category>AudioVideo</Category></Not>
 				</And>
 			</Include>
 		</Menu>
@@ -650,6 +651,7 @@ gi
 				<Category>Player</Category>
 				<Category>Database</Category>
 				<Category>Utility</Category>
+				<Category>Music</Category>
 				<Category>X-SuSE-AudioVideoEditing</Category>
 				<Category>X-SuSE-Recorder</Category>
 				<Category>X-SuSE-MidiPlayer</Category>
@@ -720,6 +722,10 @@ gi
 			<Name>Sequencer</Name>
 			<Directory>suse-multimedia-sequencer.directory</Directory>
 			<Include>
+				<And>
+				<Category>AudioVideo</Category>
+				<Category>Music</Category>
+				</And>
 				<Category>X-SuSE-Sequencer</Category>
 			</Include>
 		</Menu>
@@ -748,7 +754,7 @@ gi
 			<Directory>suse-multimedia-cd-tools.directory</Directory>
 			<Include>
 				<And>
-				<Category>Player</Category>
+				<Category>AudioVideo</Category>
 				<Not><Category>Player</Category></Not>
 				<Category>X-SuSE-CD</Category>
 				</And>
