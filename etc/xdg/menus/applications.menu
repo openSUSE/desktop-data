@@ -1011,6 +1011,7 @@ gi
 				<Category>Utility</Category>
 				<Not>
 				<Category>X-SuSE-Core-Utility</Category>
+				<Category>AudioVideo</Category>
 				<Category>PDA</Category>
 				<Category>TextEditor</Category>
 				<Category>Office</Category>
