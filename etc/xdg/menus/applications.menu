@@ -723,11 +723,18 @@ gi
 			<Name>Sequencer</Name>
 			<Directory>suse-multimedia-sequencer.directory</Directory>
 			<Include>
+				<Category>X-SuSE-Sequencer</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<DontShowIfEmpty/>
+			<Name>Music</Name>
+			<Directory>suse-multimedia-music.directory</Directory>
+			<Include>
 				<And>
 				<Category>AudioVideo</Category>
 				<Category>Music</Category>
 				</And>
-				<Category>X-SuSE-Sequencer</Category>
 			</Include>
 		</Menu>
 		<Menu>
