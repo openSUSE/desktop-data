@@ -1,0 +1,10 @@
+The SuSE standard fonts for widgets.
+
+DO NOT USE OLD PFAEDIT VERSIONS TO EDIT IT !
+
+Use the PfaEdit from SuSE 9.1 or newer.
+
+Edit always the .sfd files and save it and export it to truetype afterwards.
+
+The .sfd files get removed by the spec file.
+
