@@ -1119,7 +1119,9 @@
 		<DontShowIfEmpty/>
 		<Name>Settings</Name>
 		<Directory>suse-settings.directory</Directory>
-		<Category>X-SuSE-Core-Configuration</Category>
+		<Include>
+			<Category>X-SuSE-Core-Configuration</Category>
+		</Include>
                 <MergeFile>kde-settings.menu</MergeFile>
 	</Menu>
 	<Menu>
