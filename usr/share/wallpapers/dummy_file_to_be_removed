@@ -1,0 +1,11 @@
+/dev/hda2	/	reiserfs	defaults,notail 1 2
+/dev/hda4	/abuild	auto	defaults,notail 0 2
+devpts	/dev/pts	devpts	defaults 0 0
+/dev/dvd	/media/dvd	subfs	fs=cdfss,ro,user,exec 0 0
+/dev/fd0	/media/floppy	subfs	fs=floppyfss,user,sync 0 0
+#/dev/dvd	/media/dvd	supermount	ro,user,exec 0 0
+#/dev/fd0	/media/floppy	supermount	user,sync 0 0
+proc	/proc	proc	defaults 0 0
+# usbdevfs	/proc/bus/usb	usbdevfs	defaults,noauto 0 0
+/dev/hda1	swap	swap	pri=42 0 0
+usbdevfs	/proc/bus/usb	usbdevfs	noauto 0 0
