@@ -43,6 +43,6 @@ Name[xh]=Imidlalo Yabantwana
 Name[zh_CN]=儿童游戏
 Name[zh_TW]=小孩的遊戲
 Name[zu]=Imidlalo yabantwana
-Icon=package_games_kids
+Icon=package_toys
 X-KDE-SuppressGenericNames=Game,Game for Children
 Type=Directory

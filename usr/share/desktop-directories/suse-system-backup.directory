@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Type=Directory
 Name=Backup
-Icon=hdd_umount
+Icon=hdd_unmount
 
 Name[de]=Datensicherung
 Name[cs]=Zálohování
