@@ -96,6 +96,8 @@
 				<Category>Math</Category>
 				<Category>Science</Category>
 				<Category>Chemistry</Category>
+				<Category>Languages</Category>
+				<Category>Engineering</Category>
 				<Category>X-KDE-Edu-Teaching</Category>
 				<Category>X-KDE-Edu-Language</Category>
 				<Category>X-SuSE-Art</Category>
@@ -137,6 +139,7 @@
 			<Name>Tools</Name>
 			<Directory>suse-edu-teaching.directory</Directory>
 			<Include>
+				<Category>Languages</Category>
 				<Category>X-KDE-Edu-Teaching</Category>
 				<Category>X-SuSE-School</Category>
 			</Include>
@@ -159,6 +162,7 @@
 			<Name>Construction</Name>
 			<Directory>suse-edu-construction.directory</Directory>
 			<Include>
+				<Category>Engineering</Category>
 				<Category>X-SuSE-Construction</Category>
 			</Include>
 		</Menu>
@@ -184,6 +188,7 @@
 				<Category>StrategyGame</Category>
 				<Category>PlatformGame</Category>
 				<Category>FirstPersonGame</Category>
+				<Category>AdventureGame</Category>
 				<Category>X-KDE-KidsGame</Category>
 				<Category>X-SuSE-KidsGame</Category>
 				<Category>X-SuSE-LogicGame</Category>
@@ -273,6 +278,7 @@
 			<Name>Adventure</Name>
 			<Directory>suse-games-adventure.directory</Directory>
 			<Include>
+				<Category>AdventureGame</Category>
 				<Category>X-SuSE-AdventureGame</Category>
 			</Include>
 		</Menu>
@@ -309,6 +315,7 @@
 				<Category>RasterGraphics</Category>
 				<Category>VectorGraphics</Category>
 				<Category>X-SuSE-Viewer</Category>
+				<Category>X-SuSE-Camera</Category>
 				<Category>X-SuSE-3DGraphics</Category>
 				<Category>X-SuSE-Scanning</Category>
 				<Category>X-SuSE-OCR</Category>
@@ -463,6 +470,9 @@
 			<And>
 				AudioVideo
 				<Not>
+				<Category>Mixer</Category>
+				<Category>DiscBurning</Category>
+				<Category>Player</Category>
 				<Category>X-SuSE-AudioMixer</Category>
 				<Category>X-SuSE-AudioVideoEditing</Category>
 				<Category>X-SuSE-AudioVideoPlayer</Category>
@@ -479,6 +489,7 @@
 			<Name>AudioMixer</Name>
 			<Directory>suse-multimedia-audiomixer.directory</Directory>
 			<Include>
+				<Category>Mixer</Category>
 				<Category>X-SuSE-AudioMixer</Category>
 			</Include>
 		</Menu>
@@ -493,6 +504,7 @@
 			<Name>AudioVideoPlayer</Name>
 			<Directory>suse-multimedia-audiovideoplayer.directory</Directory>
 			<Include>
+				<Category>Player</Category>
 				<Category>X-SuSE-AudioVideoPlayer</Category>
 				<Category>X-SuSE-MidiPlayer</Category>
 			</Include>
@@ -516,6 +528,7 @@
 			<Directory>suse-multimedia-burning.directory</Directory>
 			<Include>
 				<Category>X-SuSE-Burning</Category>
+				<Category>DiscBurning</Category>
 			</Include>
 		</Menu>
 		<Menu>
