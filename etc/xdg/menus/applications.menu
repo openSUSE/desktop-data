@@ -544,6 +544,7 @@ gi
 				<Category>WebDevelopment</Category>
 				<Category>Dialup</Category>
 				<Category>Filesystem</Category>
+				<Category>System</Category>
 				</Not>
 				</And>
 			</Include>
@@ -660,7 +661,7 @@ gi
 				<Not>
 				<Category>X-SuSE-Core-Multimedia</Category>
 				<Category>Mixer</Category>
-				<Category>Jukebox</Category>
+				<Category>X-SuSE-Jukebox</Category>
 				<Category>DiscBurning</Category>
 				<Category>Player</Category>
 				<Category>Database</Category>
@@ -702,7 +703,7 @@ gi
 				<Category>AudioVideo</Category>
 				<Category>Player</Category>
 				<Category>Video</Category>
-				<Not><Category>Jukebox</Category></Not>
+				<Not><Category>X-SuSE-Jukebox</Category></Not>
 				</And>
 			</Include>
 		</Menu>
@@ -714,7 +715,7 @@ gi
 				<And>
 				<Category>AudioVideo</Category>
 				<Category>Player</Category>
-				<Category>Jukebox</Category>
+				<Category>X-SuSE-Jukebox</Category>
 				</And>
 			</Include>
 		</Menu>
@@ -728,6 +729,7 @@ gi
 				<Category>Player</Category>
 				<Not><Category>Video</Category></Not>
 				<Not><Category>Jukebox</Category></Not>
+				<Not><Category>X-SuSE-Jukebox</Category></Not>
 				<Not><Category>X-SuSE-CD</Category></Not>
 				</And>
 				<And>
@@ -844,12 +846,12 @@ gi
 				<Category>WordProcessor</Category>
 				<Category>ContactManagement</Category>
 				<Category>Dictionary</Category>
+				<Category>Database</Category>
 				<Category>Finance</Category>
 				<Category>FlowChart</Category>
 				<Category>Viewer</Category>
 				<Category>X-SuSE-Editor</Category>
 				<Category>X-SuSE-ProjectManagement</Category>
-				<Category>X-SuSE-Database</Category>
 				<Category>X-SuSE-AddressBook</Category>
 				<Category>X-SuSE-Warehouse</Category>
 				<Category>WebDevelopment</Category>
@@ -872,7 +874,7 @@ gi
 			<Include>
 				<And>
 				<Category>Office</Category>
-				<Category>X-SuSE-Database</Category>
+				<Category>Database</Category>
 				</And>
 			</Include>
 		</Menu>
@@ -1183,7 +1185,10 @@ gi
 			<Directory>suse-system-service-configuration.directory</Directory>
 			<Include>
 				<Category>X-SuSE-ServiceConfiguration</Category>
+				<And>
 				<Category>Database</Category>
+				<Not><Category>Office</Category></Not>
+				</And>
 			</Include>
 		</Menu>
 		<Menu>
