@@ -370,6 +370,8 @@
 				<Not>
 				<Category>Email</Category>
 				<Category>HamRadio</Category>
+				<Category>X-SuSE-Telephone</Category>
+				<Category>X-SuSE-DialUp</Category>
 				<Category>X-SuSE-FileTransfer</Category>
 				<Category>X-SuSE-P2P</Category>
 				<Category>X-SuSE-IRCClient</Category>
@@ -391,6 +393,23 @@
 			<Directory>suse-internet-p2p.directory</Directory>
 			<Include>
 				<Category>X-SuSE-Network-P2P</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>DialUp</Name>
+			<Directory>suse-internet-dialup.directory</Directory>
+			<Include>
+				<Category>X-SuSE-DialUp</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>IP Telephone</Name>
+			<Directory>suse-internet-voip.directory</Directory>
+			<Include>
+				<And>
+				<Category>Network</Category>
+				<Category>X-SuSE-Telephone</Category>
+				</And>
 			</Include>
 		</Menu>
 		<Menu>
@@ -655,6 +674,7 @@
 				<Category>X-SuSE-SyncUtility</Category>
 				<Category>X-SuSE-WebUtility</Category>
 				<Category>X-SuSE-TimeUtility</Category>
+				<Category>X-SuSE-XMLUtility</Category>
 				<Category>X-SuSE-PrintingUtility</Category>
 				</Not>
 			</And>
@@ -697,6 +717,13 @@
 			</Include>
 		</Menu>
 		<Menu>
+			<Name>XML Utilities</Name>
+			<Directory>suse-utility-xml.directory</Directory>
+			<Include>
+				<Category>X-SuSE-XMLUtility</Category>
+			</Include>
+		</Menu>
+		<Menu>
 			<Name>WebUtility</Name>
 			<Directory>suse-utility-web.directory</Directory>
 			<Include>
@@ -729,6 +756,7 @@
 				<Category>Applet</Category>
 				<Category>TrayIcon</Category>
 				<Category>X-SuSE-Telephone</Category>
+				<Category>X-SuSE-Database</Category>
 				<Category>X-SuSE-RemoteAccess</Category>
 				<Category>X-SuSE-ServiceConfiguration</Category>
 				<Category>X-SuSE-FileManager</Category>
@@ -779,6 +807,7 @@
 			<Directory>suse-system-service-configuration.directory</Directory>
 			<Include>
 				<Category>X-SuSE-Service-Configuration</Category>
+				<Category>X-SuSE-Database</Category>
 			</Include>
 		</Menu>
 		<Menu>
