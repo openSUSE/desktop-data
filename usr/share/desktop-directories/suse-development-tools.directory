@@ -3,9 +3,9 @@ Encoding=UTF-8
 Name=Tools
 Name[de]=kleine Werkzeuge
 Name[es]=Herramientas
-Name[hu]=Segédeszközök
-Name[cs]=Nástroje
-Name[ja]=���
+Name[hu]=SegÃ©deszkÃ¶zÃ¶k
+Name[cs]=NÃ¡stroje
+Name[ja]=ãã¼ã«
 Icon=SuSEconf
 
 Type=Directory
