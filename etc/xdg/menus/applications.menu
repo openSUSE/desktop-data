@@ -129,7 +129,7 @@
 				<Category>Math</Category>
 				<Category>Science</Category>
 				<Category>Chemistry</Category>
-				<Category>X-SuSE-Language<Category>
+				<Category>X-SuSE-Language</Category>
 				<Category>Engineering</Category>
 				<Category>X-KDE-Edu-Teaching</Category>
 				<Category>X-KDE-Edu-Language</Category>
@@ -142,7 +142,7 @@
 			<Name>Languages</Name>
 			<Directory>suse-edutainment-languages.directory</Directory>
 			<Include>
-				<Category>X-SuSE-Language<Category>
+				<Category>X-SuSE-Language</Category>
 				<Category>X-KDE-Edu-Language</Category>
 			</Include>
 		</Menu>
