@@ -660,6 +660,7 @@ gi
 				<Not>
 				<Category>X-SuSE-Core-Multimedia</Category>
 				<Category>AudioMixer</Category>
+				<Category>Mixer</Category>
 				<Category>DiscBurning</Category>
 				<Category>Player</Category>
 				<Category>Database</Category>
