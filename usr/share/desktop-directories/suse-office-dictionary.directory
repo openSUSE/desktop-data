@@ -1,7 +1,8 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Dictionary
-Name[de]=WÃ¶rterbuch
+Name[de]=Wörterbuch
+Name[ja]=辞典
 Icon=
 
 Type=Directory
