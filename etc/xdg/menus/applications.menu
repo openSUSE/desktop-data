@@ -1014,6 +1014,7 @@ gi
 				<Category>PDA</Category>
 				<Category>TextEditor</Category>
 				<Category>Office</Category>
+				<Category>FileManager</Category>
 				<Category>Accessibility</Category>
 				<Category>Applet</Category>
 				<Category>Settings</Category>
