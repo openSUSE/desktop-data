@@ -678,12 +678,25 @@ gi
 		</Menu>
 		<Menu>
 			<DontShowIfEmpty/>
-			<Name>AudioVideoPlayer</Name>
-			<Directory>suse-multimedia-audiovideoplayer.directory</Directory>
+			<Name>VideoPlayer</Name>
+			<Directory>suse-multimedia-videoplayer.directory</Directory>
 			<Include>
 				<And>
 				<Category>AudioVideo</Category>
 				<Category>Player</Category>
+				<Category>X-SuSE-Video</Category>
+				</And>
+			</Include>
+		</Menu>
+		<Menu>
+			<DontShowIfEmpty/>
+			<Name>AudioPlayer</Name>
+			<Directory>suse-multimedia-audioplayer.directory</Directory>
+			<Include>
+				<And>
+				<Category>AudioVideo</Category>
+				<Category>Player</Category>
+				<Not><Category>X-SuSE-Video</Category></Not>
 				</And>
 				<And>
 				<Category>AudioVideo</Category>
@@ -696,7 +709,10 @@ gi
 			<Name>AudioVideoRecorder</Name>
 			<Directory>suse-multimedia-audiovideorecorder.directory</Directory>
 			<Include>
+				<And>
 				<Category>X-SuSE-Recorder</Category>
+				<Not><Category>X-SuSE-CD</Category></Not>
+				</And>
 			</Include>
 		</Menu>
 		<Menu>
@@ -721,8 +737,8 @@ gi
 			<Directory>suse-multimedia-cd.directory</Directory>
 			<Include>
 				<And>
-				<Category>X-SuSE-CD</Category>
 				<Category>Player</Category>
+				<Category>X-SuSE-CD</Category>
 				</And>
 			</Include>
 		</Menu>
@@ -732,8 +748,8 @@ gi
 			<Directory>suse-multimedia-cd-tools.directory</Directory>
 			<Include>
 				<And>
+				<Category>Player</Category>
 				<Category>X-SuSE-CD</Category>
-				<Category>Utility</Category>
 				</And>
 			</Include>
 		</Menu>
