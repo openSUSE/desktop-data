@@ -1126,6 +1126,15 @@
 	</Menu>
 	<Menu>
 		<DontShowIfEmpty/>
+		<Name>YaST</Name>
+		<Directory>suse-yast.directory</Directory>
+                <MergeFile>yast-settings.menu</MergeFile>
+	</Menu>
+        <Move>
+           <Old>YaST</Old><New>Settings/Yast</New>
+        </Move>
+	<Menu>
+		<DontShowIfEmpty/>
 		<Name>Information</Name>
 		<Directory>suse-information.directory</Directory>
                 <MergeFile>kde-information.menu</MergeFile>
