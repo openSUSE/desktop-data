@@ -1,7 +1,7 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Sync
-Icon=folder_gz
+Icon=folder_outbox
 
 Type=Directory
 Name[bg]=Синхронизация
