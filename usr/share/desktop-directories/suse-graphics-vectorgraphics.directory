@@ -3,9 +3,9 @@ Encoding=UTF-8
 Name=Vector drawing
 Name[en]=Vector drawing
 Name[de]=Vektorgrafik
-Name[es]=GrÃ¡ficos Vectoriales
-Name[hu]=Vektorgrafika kÃ©szÃ­tÅ
-Name[ja]=ãã¯ã¿ã°ã©ãã£ãã¯ã¹
+Name[es]=Gráficos Vectoriales
+Name[hu]=Vektorgrafika készítő
+Name[ja]=ベクタグラフィックス
 Icon=penguin
 
 Type=Directory

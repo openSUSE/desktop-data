@@ -4,8 +4,8 @@ Name=Viewer
 Name[en]=Viewer
 Name[de]=Anzeigeprogramm
 Name[es]=Visores
-Name[hu]=NÃ©zegetÅ
-Name[ja]=ãã¥ã¼ã¢ã¼
+Name[hu]=Nézegetők
+Name[ja]=ビューアー
 Icon=tv
 
 Type=Directory
