@@ -45,12 +45,23 @@
 		</Include>
 		<Menu>
 			<DontShowIfEmpty/>
+			<Name>Design</Name>
+			<Directory>suse-development-design.directory</Directory>
+			<Include>
+				<And>
+				<Category>Development</Category>
+				<Category>X-SuSE-Design</Category>
+				</And>
+			</Include>
+		</Menu>
+		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Building</Name>
 			<Directory>suse-development-building.directory</Directory>
 			<Include>
 				<And>
 				<Category>Development</Category>
-				<Category>Building</Category>
+				<Category>X-SuSE-Building</Category>
 				</And>
 			</Include>
 		</Menu>
@@ -61,7 +72,7 @@
 			<Include>
 				<And>
 				<Category>Development</Category>
-				<Category>RevisionControl</Category>
+				<Category>X-SuSE-RevisionControl</Category>
 				</And>
 			</Include>
 		</Menu>
@@ -72,7 +83,7 @@
 			<Include>
 				<And>
 				<Category>Development</Category>
-				<Category>Translation</Category>
+				<Category>X-SuSE-Translation</Category>
 				</And>
 			</Include>
 		</Menu>
@@ -84,17 +95,6 @@
 				<And>
 				<Category>Development</Category>
 				<Category>Documentation</Category>
-				</And>
-			</Include>
-		</Menu>
-		<Menu>
-			<DontShowIfEmpty/>
-			<Name>More</Name>
-			<Directory>suse-more.directory</Directory>
-			<Include>
-				<And>
-				<Category>Development</Category>
-				<Category>X-SuSE-More</Category>
 				</And>
 			</Include>
 		</Menu>
@@ -128,14 +128,6 @@
 			<Directory>suse-development-profiling.directory</Directory>
 			<Include>
 				<Category>X-SuSE-Profiling</Category>
-			</Include>
-		</Menu>
-		<Menu>
-			<DontShowIfEmpty/>
-			<Name>Translation</Name>
-			<Directory>suse-development-translation.directory</Directory>
-			<Include>
-				<Category>X-SuSE-Translation</Category>
 			</Include>
 		</Menu>
 	</Menu>
