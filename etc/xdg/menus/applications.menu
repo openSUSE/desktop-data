@@ -1018,6 +1018,7 @@ gi
 				<Category>Applet</Category>
 				<Category>Settings</Category>
 				<Category>Shell</Category>
+				<Category>FileManager</Category>
 				<Category>Clock</Category>
 				<Category>Telephony</Category>
 				<Category>TerminalEmulator</Category>
