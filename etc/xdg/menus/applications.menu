@@ -1161,6 +1161,7 @@ gi
 				<Category>Monitor</Category>
 				<Category>Screensaver</Category>
 				<Category>Shell</Category>
+				<Category>X-SuSE-Feedback</Category>
 				<Category>TerminalEmulator</Category>
 				<Category>Network</Category>
 				<Category>SystemSetup</Category>
@@ -1214,7 +1215,7 @@ gi
 			<Name>Feedback</Name>
 			<Directory>suse-system-feedback.directory</Directory>
 			<Include>
-				<Category>Feedback</Category>
+				<Category>X-SuSE-Feedback</Category>
 			</Include>
 		</Menu>
 		<Menu>
