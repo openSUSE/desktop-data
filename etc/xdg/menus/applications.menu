@@ -600,7 +600,7 @@ gi
 		<Menu>
 			<DontShowIfEmpty/>
 			<Name>Chat</Name>
-			<Directory>suse-internet-instantmessaging.directory</Directory>
+			<Directory>suse-internet-chat.directory</Directory>
 			<Include>
 				<Category>X-SuSE-IRCClient</Category>
 				<Category>X-SuSE-InstantMessaging</Category>
