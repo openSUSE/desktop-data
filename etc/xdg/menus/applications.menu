@@ -586,6 +586,14 @@ gi
 					<Category>Network</Category>
 					<Category>Monitor</Category>
 				</And>
+				<And>
+					<Category>Network</Category>
+					<Category>Settings</Category>
+				</And>
+				<And>
+					<Category>Network</Category>
+					<Category>Security</Category>
+				</And>
 			</Include>
 		</Menu>
 		<Menu>
