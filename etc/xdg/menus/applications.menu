@@ -13,6 +13,9 @@
 		<Name>Applications</Name>
 		<Directory>suse-applications.directory</Directory>
 		<OnlyUnallocated/>
+		<Include>
+			<All/>
+		</Include>
 	</Menu>
 
 	<Menu>
