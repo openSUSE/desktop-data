@@ -2,6 +2,6 @@
 Encoding=UTF-8
 Name=Security
 Name[de]=Sicherheit
-Icon=
+Icon=encrypted
 
 Type=Directory
