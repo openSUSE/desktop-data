@@ -277,6 +277,8 @@
 			<And>
 				<Category>Graphics</Category>
 				<Not>
+				<Category>X-SuSE-Scanning</Category>
+				<Category>X-SuSE-OCR</Category>
 				<Category>3DGraphics</Category>
 				<Category>RasterGraphics</Category>
 				<Category>VectorGraphics</Category>
@@ -284,6 +286,14 @@
 				</Not>
 			</And>
 		</Include>
+		<Menu>
+			<Name>Scanning</Name>
+			<Directory>suse-graphics-scanning.directory</Directory>
+			<Include>
+				<Category>X-SuSE-Scanning</Category>
+				<Category>X-SuSE-OCR</Category>
+			</Include>
+		</Menu>
 		<Menu>
 			<Name>3DGraphics</Name>
 			<Directory>suse-graphics-3dgraphics.directory</Directory>
@@ -322,7 +332,7 @@
 				<Category>Network</Category>
 				<Not>
 				<Category>Email</Category>
-				<Category>X-SuSE-Network-P2P</Category>
+				<Category>X-SuSE-P2P</Category>
 				<Category>X-SuSE-Network-FileTransfer</Category>
 				<Category>HamRadio</Category>
 				<Category>InstantMessaging</Category>
@@ -330,6 +340,7 @@
 				<Category>Newsreader</Category>
 				<Category>RemoteAccess</Category>
 				<Category>WebBrowser</Category>
+				<Category>SystemSetup</Category>
 				</Not>
 			</And>
 		</Include>
@@ -562,6 +573,40 @@
 		</Include>
 	</Menu>
 	<Menu>
+		<Name>Utilities</Name>
+		<Directory>suse-utility.directory</Directory>
+		<Include>
+			<Category>X-SuSE-Core-Utility</Category>
+			<And>
+				<Category>Utility</Category>
+				<Not>
+				<Category>TextEditor</Category>
+				</Not>
+			</And>
+		</Include>
+		<Menu>
+			<Name>Desktop</Name>
+			<Directory>suse-utility-desktop.directory</Directory>
+			<Include>
+				<Category>X-SuSE-Utility-Desktop</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Texteditor</Name>
+			<Directory>suse-utility-texteditor.directory</Directory>
+			<Include>
+				<Category>TextEditor</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Calc</Name>
+			<Directory>suse-utility-calculator.directory</Directory>
+			<Include>
+				<Category>X-SuSE-Calculator</Category>
+			</Include>
+		</Menu>
+	</Menu>
+	<Menu>
 		<Name>System</Name>
 		<Directory>suse-system.directory</Directory>
 		<Include>
@@ -634,6 +679,13 @@
 			<Directory>suse-system-emulator.directory</Directory>
 			<Include>
 				<Category>Emulator</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>FileSystem</Name>
+			<Directory>suse-system-filesystem.directory</Directory>
+			<Include>
+				<Category>X-SuSE-FileSystem</Category>
 			</Include>
 		</Menu>
 		<Menu>
