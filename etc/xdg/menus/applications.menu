@@ -800,6 +800,7 @@
 				<Category>Finance</Category>
 				<Category>Chart</Category>
 				<Category>FlowChart</Category>
+				<Category>PDFViewer</Category>
 				<Category>Viewer</Category>
 				<Category>X-SuSE-Editor</Category>
 				<Category>X-SuSE-AddressBook</Category>
@@ -844,6 +845,7 @@
 			<Name>DocumentViewer</Name>
 			<Directory>suse-office-documentviewer.directory</Directory>
 			<Include>
+				<Category>PDFViewer</Category>
 				<And>
 				<Category>Office</Category>
 				<Category>Viewer</Category>
