@@ -1247,4 +1247,5 @@ gi
            <Old>YaST</Old><New>Settings/YaST</New>
         </Move>
 	<DefaultMergeDirs/>
+	<MergeFile>applications-kmenuedit.menu</MergeFile>
 </Menu>
