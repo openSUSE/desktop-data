@@ -530,6 +530,7 @@ gi
 				<Category>Email</Category>
 				<Category>HamRadio</Category>
 				<Category>Monitor</Category>
+				<Category>Office</Category>
 				<Category>SystemSetup</Category>
 				<Category>X-SuSE-Telephone</Category>
 				<Category>X-SuSE-DialUp</Category>
@@ -666,6 +667,7 @@ gi
 				<Category>X-SuSE-AudioVideoEditing</Category>
 				<Category>X-SuSE-Recorder</Category>
 				<Category>X-SuSE-MidiPlayer</Category>
+				<Category>X-SuSE-Tuner</Category>
 				<Category>X-SuSE-TV</Category>
 				<Category>X-SuSE-CD</Category>
 				<Category>X-SuSE-Sequencer</Category>
@@ -784,6 +786,7 @@ gi
 			<Name>TV</Name>
 			<Directory>suse-multimedia-tv.directory</Directory>
 			<Include>
+				<Category>X-SuSE-Tuner</Category>
 				<Category>X-SuSE-TV</Category>
 			</Include>
 		</Menu>
@@ -824,6 +827,7 @@ gi
 				<Category>Spreadsheet</Category>
 				<Category>WordProcessor</Category>
 				<Category>X-SuSE-Viewer</Category>
+				<Category>X-SuSE-Editor</Category>
 				<Category>X-SuSE-ProjectManagement</Category>
 				<Category>X-SuSE-FlowChart</Category>
 				<Category>X-SuSE-Finance</Category>
@@ -969,8 +973,10 @@ gi
 				<Category>X-SuSE-Core-Utility</Category>
 				<Category>PDA</Category>
 				<Category>TextEditor</Category>
+				<Category>Office</Category>
 				<Category>Accessibility</Category>
 				<Category>Settings</Category>
+				<Category>TerminalEmulator</Category>
 				<Category>X-SuSE-Archiving</Category>
 				<Category>X-SuSE-Backup</Category>
 				<Category>X-SuSE-CD</Category>
