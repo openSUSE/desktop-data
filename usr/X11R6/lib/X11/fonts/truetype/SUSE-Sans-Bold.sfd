@@ -81,13 +81,13 @@ EndTtf
 TtfTable: maxp 32
 !!*'"!=Jm&!!`Km!!E9'!"],q!!`K("mlPm!!3-$
 EndTtf
-LangName: 1033 "" "" "" "Bitstream Vera Sans Bold" "" "Release 1.10" "" "Bitstream Vera is a trademark of Bitstream, Inc." "Bitstream Inc." "" "" "http://www.bitstream.com" "" "Copyright (c) 2003 by Bitstream, Inc.+AA0ACgAA-All Rights Reserved.+AA0ACgAA-Bitstream Vera is a trademark of Bitstream, Inc.+AA0ACgANAAoA-Permission is hereby granted, free of charge, to any person obtaining a copy of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the Font Software, including without limitation the rights to use, copy, merge, publish, distribute, and/or sell copies of the Font Software, and to permit persons to whom the Font Software is furnished to do so, subject to the following conditions:+AA0ACgANAAoA-The above copyright and trademark notices and this permission notice shall be included in all copies of one or more of the Font Software typefaces.+AA0ACgANAAoA-The Font Software may be modified, altered, or added to, and in particular the designs of glyphs or characters in the Fonts may be modified and additional glyphs or characters may be added to the Fonts, only if the fonts are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word +ACIA-Vera+ACIA.+AA0ACgANAAoA-This License becomes null and void to the extent applicable to Fonts or Font Software that has been modified and is distributed under the +ACIA-Bitstream Vera+ACIA names.+AA0ACgANAAoA-The Font Software may be sold as part of a larger software package but no copy of one or more of the Font Software typefaces may be sold by itself.+AA0ACgANAAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.+AA0ACgANAAoA-Except as contained in this notice, the names of Gnome, the Gnome Foundation, and Bitstream Inc., shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Font Software without prior written authorization from the Gnome Foundation or Bitstream Inc., respectively. For further information, contact: fonts at gnome dot org." 
+LangName: 1033 "" "" "" "Bitstream Vera Sans Bold" "" "Release 1.10" "" "Bitstream Vera is a trademark of Bitstream, Inc." "Bitstream Inc." "" "" "http://www.bitstream.com" "" "Copyright (c) 2003 by Bitstream, Inc.+AA0ACgAA-All Rights Reserved.+AA0ACgAA-Bitstream Vera is a trademark of Bitstream, Inc.+AA0ACgANAAoA-Permission is hereby granted, free of charge, to any person obtaining a copy of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the Font Software, including without limitation the rights to use, copy, merge, publish, distribute, and/or sell copies of the Font Software, and to permit persons to whom the Font Software is furnished to do so, subject to the following conditions:+AA0ACgANAAoA-The above copyright and trademark notices and this permission notice shall be included in all copies of one or more of the Font Software typefaces.+AA0ACgANAAoA-The Font Software may be modified, altered, or added to, and in particular the designs of glyphs or characters in the Fonts may be modified and additional glyphs or characters may be added to the Fonts, only if the fonts are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the w" 
 Encoding: unicode
 UnicodeInterp: none
-DisplaySize: -24
+DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 29 24
+WinInfo: 58 29 16
 BeginChars: 65546 361
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -4735,45 +4735,45 @@ Ref: 168 168 N 1 0 0 1 156 0
 KernsSLIF: 46 -188 0 0 44 -159 0 0
 EndChar
 StartChar: Amacron
-Encoding: 256 256 65535
+Encoding: 256 256 187
 Width: 1585
 Flags: H
 Ref: 175 175 N 1 0 0 1 280.5 274
 Ref: 65 65 N 1 0 0 1 0 0
 EndChar
 StartChar: amacron
-Encoding: 257 257 65535
+Encoding: 257 257 188
 Width: 1382
 Flags: H
 Ref: 175 175 N 1 0 0 1 137 -99
 Ref: 97 97 N 1 0 0 1 0 0
 EndChar
 StartChar: Abreve
-Encoding: 258 258 65535
+Encoding: 258 258 189
 Width: 1585
 Flags: H
 Ref: 728 728 N 1 0 0 1 280.5 333
 Ref: 65 65 N 1 0 0 1 0 0
 EndChar
 StartChar: abreve
-Encoding: 259 259 65535
+Encoding: 259 259 190
 Width: 1382
 Flags: H
 Ref: 728 728 N 1 0 0 1 137 -40
 Ref: 97 97 N 1 0 0 1 0 0
 EndChar
 StartChar: Aogonek
-Encoding: 260 260 65535
+Encoding: 260 260 191
 Width: 1585
 Flags: H
 Ref: 731 731 N 1 0 0 1 339.5 13.3667
 Ref: 65 65 N 1 0 0 1 0 0
 EndChar
 StartChar: aogonek
-Encoding: 261 261 65535
+Encoding: 261 261 192
 Width: 1382
 Flags: H
-Ref: 731 731 N 1 0 0 1 26 -15.6333
+Ref: 731 731 S 1 0 0 1 621 -0.633301
 Ref: 97 97 N 1 0 0 1 0 0
 EndChar
 StartChar: Cacute
@@ -4792,28 +4792,28 @@ Ref: 99 99 N 1 0 0 1 0 0
 Ref: 180 180 N 1 0 0 1 211 0
 EndChar
 StartChar: Ccircumflex
-Encoding: 264 264 65535
+Encoding: 264 264 253
 Width: 1503
 Flags: H
 Ref: 710 710 N 1 0 0 1 399 380
 Ref: 67 67 N 1 0 0 1 0 0
 EndChar
 StartChar: ccircumflex
-Encoding: 265 265 65535
+Encoding: 265 265 254
 Width: 1214
 Flags: H
 Ref: 710 710 N 1 0 0 1 221 7
 Ref: 99 99 N 1 0 0 1 0 0
 EndChar
 StartChar: Cdotaccent
-Encoding: 266 266 65535
+Encoding: 266 266 255
 Width: 1503
 Flags: H
 Ref: 729 729 N 1 0 0 1 399 303
 Ref: 67 67 N 1 0 0 1 0 0
 EndChar
 StartChar: cdotaccent
-Encoding: 267 267 65535
+Encoding: 267 267 256
 Width: 1214
 Flags: H
 Ref: 729 729 N 1 0 0 1 221 -70
@@ -4835,14 +4835,14 @@ Ref: 99 99 N 1 0 0 1 0 0
 Ref: 711 711 N 1 0 0 1 211 0
 EndChar
 StartChar: Dcaron
-Encoding: 270 270 65535
+Encoding: 270 270 255
 Width: 1700
 Flags: H
 Ref: 711 711 N 1 0 0 1 378.5 380
 Ref: 68 68 N 1 0 0 1 0 0
 EndChar
 StartChar: dcaron
-Encoding: 271 271 65535
+Encoding: 271 271 256
 Width: 1466
 Flags: H
 Ref: 711 711 N 1 0 0 1 181 416
@@ -4891,84 +4891,84 @@ Fore
 EndSplineSet
 EndChar
 StartChar: Emacron
-Encoding: 274 274 65535
+Encoding: 274 274 256
 Width: 1399
 Flags: H
 Ref: 175 175 N 1 0 0 1 195.5 274
 Ref: 69 69 N 1 0 0 1 0 0
 EndChar
 StartChar: emacron
-Encoding: 275 275 65535
+Encoding: 275 275 257
 Width: 1389
 Flags: H
 Ref: 175 175 N 1 0 0 1 197 -99
 Ref: 101 101 N 1 0 0 1 0 0
 EndChar
 StartChar: Ebreve
-Encoding: 276 276 65535
+Encoding: 276 276 258
 Width: 1399
 Flags: H
 Ref: 728 728 N 1 0 0 1 195.5 333
 Ref: 69 69 N 1 0 0 1 0 0
 EndChar
 StartChar: ebreve
-Encoding: 277 277 65535
+Encoding: 277 277 259
 Width: 1389
 Flags: H
 Ref: 728 728 N 1 0 0 1 197 -40
 Ref: 101 101 N 1 0 0 1 0 0
 EndChar
 StartChar: Edotaccent
-Encoding: 278 278 65535
+Encoding: 278 278 260
 Width: 1399
 Flags: H
 Ref: 729 729 N 1 0 0 1 195.5 303
 Ref: 69 69 N 1 0 0 1 0 0
 EndChar
 StartChar: edotaccent
-Encoding: 279 279 65535
+Encoding: 279 279 261
 Width: 1389
 Flags: H
 Ref: 729 729 N 1 0 0 1 197 -70
 Ref: 101 101 N 1 0 0 1 0 0
 EndChar
 StartChar: Eogonek
-Encoding: 280 280 65535
+Encoding: 280 280 262
 Width: 1399
 Flags: H
 Ref: 731 731 N 1 0 0 1 265.5 13.3667
 Ref: 69 69 N 1 0 0 1 0 0
 EndChar
 StartChar: eogonek
-Encoding: 281 281 65535
+Encoding: 281 281 263
 Width: 1389
 Flags: H
 Ref: 731 731 N 1 0 0 1 205.5 -15.6333
 Ref: 101 101 N 1 0 0 1 0 0
 EndChar
 StartChar: Ecaron
-Encoding: 282 282 65535
+Encoding: 282 282 264
 Width: 1399
 Flags: H
 Ref: 711 711 N 1 0 0 1 195.5 380
 Ref: 69 69 N 1 0 0 1 0 0
 EndChar
 StartChar: ecaron
-Encoding: 283 283 65535
+Encoding: 283 283 265
 Width: 1389
 Flags: H
 Ref: 711 711 N 1 0 0 1 197 7
 Ref: 101 101 N 1 0 0 1 0 0
 EndChar
 StartChar: Gcircumflex
-Encoding: 284 284 65535
+Encoding: 284 284 266
 Width: 1681
 Flags: H
 Ref: 710 710 N 1 0 0 1 420 380
 Ref: 71 71 N 1 0 0 1 0 0
 EndChar
 StartChar: gcircumflex
-Encoding: 285 285 65535
+Encoding: 285 285 267
 Width: 1466
 Flags: H
 Ref: 710 710 N 1 0 0 1 53 7
@@ -4990,98 +4990,98 @@ Ref: 103 103 N 1 0 0 1 0 0
 Ref: 728 728 N 1 0 0 1 221 0
 EndChar
 StartChar: Gdotaccent
-Encoding: 288 288 65535
+Encoding: 288 288 248
 Width: 1681
 Flags: H
 Ref: 729 729 N 1 0 0 1 420 303
 Ref: 71 71 N 1 0 0 1 0 0
 EndChar
 StartChar: gdotaccent
-Encoding: 289 289 65535
+Encoding: 289 289 249
 Width: 1466
 Flags: H
 Ref: 729 729 N 1 0 0 1 53 -70
 Ref: 103 103 N 1 0 0 1 0 0
 EndChar
 StartChar: Gcommaaccent
-Encoding: 290 290 65535
+Encoding: 290 290 250
 Width: 1681
 Flags: H
 Ref: 184 184 N 1 0 0 1 378.5 -15.6333
 Ref: 71 71 N 1 0 0 1 0 0
 EndChar
 StartChar: gcommaaccent
-Encoding: 291 291 65535
+Encoding: 291 291 251
 Width: 1466
 Flags: H
 Ref: 184 184 N 1 0 0 1 96.5 -428.633
 Ref: 103 103 N 1 0 0 1 0 0
 EndChar
 StartChar: Hcircumflex
-Encoding: 292 292 65535
+Encoding: 292 292 252
 Width: 1714
 Flags: H
 Ref: 710 710 N 1 0 0 1 345 380
 Ref: 72 72 N 1 0 0 1 0 0
 EndChar
 StartChar: hcircumflex
-Encoding: 293 293 65535
+Encoding: 293 293 253
 Width: 1458
 Flags: H
 Ref: 710 710 N 1 0 0 1 223 416
 Ref: 104 104 N 1 0 0 1 0 0
 EndChar
 StartChar: Itilde
-Encoding: 296 296 65535
+Encoding: 296 296 254
 Width: 762
 Flags: H
 Ref: 732 732 N 1 0 0 1 -131.5 335
 Ref: 73 73 N 1 0 0 1 0 0
 EndChar
 StartChar: itilde
-Encoding: 297 297 65535
+Encoding: 297 297 255
 Width: 702
 Flags: H
 Ref: 732 732 N 1 0 0 1 -161 -38
 Ref: 305 305 N 1 0 0 1 0 0
 EndChar
 StartChar: Imacron
-Encoding: 298 298 65535
+Encoding: 298 298 256
 Width: 762
 Flags: H
 Ref: 175 175 N 1 0 0 1 -131.5 274
 Ref: 73 73 N 1 0 0 1 0 0
 EndChar
 StartChar: imacron
-Encoding: 299 299 65535
+Encoding: 299 299 257
 Width: 702
 Flags: H
 Ref: 175 175 N 1 0 0 1 -161 -99
 Ref: 305 305 N 1 0 0 1 0 0
 EndChar
 StartChar: Ibreve
-Encoding: 300 300 65535
+Encoding: 300 300 258
 Width: 762
 Flags: H
 Ref: 728 728 N 1 0 0 1 -131.5 333
 Ref: 73 73 N 1 0 0 1 0 0
 EndChar
 StartChar: ibreve
-Encoding: 301 301 65535
+Encoding: 301 301 259
 Width: 702
 Flags: H
 Ref: 728 728 N 1 0 0 1 -161 -40
 Ref: 305 305 N 1 0 0 1 0 0
 EndChar
 StartChar: Iogonek
-Encoding: 302 302 65535
+Encoding: 302 302 260
 Width: 762
 Flags: H
 Ref: 731 731 N 1 0 0 1 -143 13.3667
 Ref: 73 73 N 1 0 0 1 0 0
 EndChar
 StartChar: iogonek
-Encoding: 303 303 65535
+Encoding: 303 303 261
 Width: 702
 Flags: H
 Ref: 731 731 N 1 0 0 1 -172.5 13.3667
@@ -5110,77 +5110,77 @@ Fore
 EndSplineSet
 EndChar
 StartChar: Jcircumflex
-Encoding: 308 308 65535
+Encoding: 308 308 215
 Width: 762
 Flags: H
 Ref: 710 710 N 1 0 0 1 -131.5 380
 Ref: 74 74 N 1 0 0 1 0 0
 EndChar
 StartChar: jcircumflex
-Encoding: 309 309 65535
+Encoding: 309 309 216
 Width: 702
 Flags: H
 Ref: 710 710 N 1 0 0 1 -161 416
 Ref: 106 106 N 1 0 0 1 0 0
 EndChar
 StartChar: Kcommaaccent
-Encoding: 310 310 65535
+Encoding: 310 310 217
 Width: 1587
 Flags: H
 Ref: 184 184 N 1 0 0 1 316.5 13.3667
 Ref: 75 75 N 1 0 0 1 0 0
 EndChar
 StartChar: kcommaaccent
-Encoding: 311 311 65535
+Encoding: 311 311 218
 Width: 1362
 Flags: H
 Ref: 184 184 N 1 0 0 1 184.5 13.3667
 Ref: 107 107 N 1 0 0 1 0 0
 EndChar
 StartChar: Lacute
-Encoding: 313 313 65535
+Encoding: 313 313 219
 Width: 1305
 Flags: H
 Ref: 180 180 N 1 0 0 1 255.5 380
 Ref: 76 76 N 1 0 0 1 0 0
 EndChar
 StartChar: lacute
-Encoding: 314 314 65535
+Encoding: 314 314 220
 Width: 702
 Flags: H
 Ref: 180 180 N 1 0 0 1 -112 416
 Ref: 108 108 N 1 0 0 1 0 0
 EndChar
 StartChar: Lcommaaccent
-Encoding: 315 315 65535
+Encoding: 315 315 221
 Width: 1305
 Flags: H
 Ref: 184 184 N 1 0 0 1 186 13.3667
 Ref: 76 76 N 1 0 0 1 0 0
 EndChar
 StartChar: lcommaaccent
-Encoding: 316 316 65535
+Encoding: 316 316 222
 Width: 702
 Flags: H
 Ref: 184 184 N 1 0 0 1 -181.5 13.3667
 Ref: 108 108 N 1 0 0 1 0 0
 EndChar
 StartChar: Lcaron
-Encoding: 317 317 65535
+Encoding: 317 317 223
 Width: 1305
 Flags: H
-Ref: 711 711 N 1 0 0 1 206.5 380
+Ref: 711 711 S 1 0 0 1 -45.5 394
 Ref: 76 76 N 1 0 0 1 0 0
 EndChar
 StartChar: lcaron
-Encoding: 318 318 65535
+Encoding: 318 318 224
 Width: 702
 Flags: H
 Ref: 711 711 N 1 0 0 1 -161 416
 Ref: 108 108 N 1 0 0 1 0 0
 EndChar
 StartChar: Ldot
-Encoding: 319 319 65535
+Encoding: 319 319 225
 Width: 1305
 Flags: H
 Ref: 183 183 N 1 0 0 1 329.5 48.5
@@ -5188,7 +5188,7 @@ Ref: 76 76 N 1 0 0 1 0 0
 Ligature: 0 0 'liga' L periodcentered
 EndChar
 StartChar: ldot
-Encoding: 320 320 65535
+Encoding: 320 320 226
 Width: 1480
 Flags: H
 Ref: 183 183 N 1 0 0 1 702 0
@@ -5248,84 +5248,84 @@ Fore
 EndSplineSet
 EndChar
 StartChar: Nacute
-Encoding: 323 323 65535
+Encoding: 323 323 227
 Width: 1714
 Flags: H
 Ref: 180 180 N 1 0 0 1 394 380
 Ref: 78 78 N 1 0 0 1 0 0
 EndChar
 StartChar: nacute
-Encoding: 324 324 65535
+Encoding: 324 324 228
 Width: 1458
 Flags: H
 Ref: 180 180 N 1 0 0 1 272 7
 Ref: 110 110 N 1 0 0 1 0 0
 EndChar
 StartChar: Ncommaaccent
-Encoding: 325 325 65535
+Encoding: 325 325 229
 Width: 1714
 Flags: H
 Ref: 184 184 N 1 0 0 1 255 13.3667
 Ref: 78 78 N 1 0 0 1 0 0
 EndChar
 StartChar: ncommaaccent
-Encoding: 326 326 65535
+Encoding: 326 326 230
 Width: 1458
 Flags: H
-Ref: 184 184 N 1 0 0 1 133 13.3667
+Ref: 184 184 S 1 0 0 1 689 5.3667
 Ref: 110 110 N 1 0 0 1 0 0
 EndChar
 StartChar: Ncaron
-Encoding: 327 327 65535
+Encoding: 327 327 231
 Width: 1714
 Flags: H
 Ref: 711 711 N 1 0 0 1 345 380
 Ref: 78 78 N 1 0 0 1 0 0
 EndChar
 StartChar: ncaron
-Encoding: 328 328 65535
+Encoding: 328 328 232
 Width: 1458
 Flags: H
 Ref: 711 711 N 1 0 0 1 223 7
 Ref: 110 110 N 1 0 0 1 0 0
 EndChar
 StartChar: Omacron
-Encoding: 332 332 65535
+Encoding: 332 332 233
 Width: 1741
 Flags: H
 Ref: 175 175 N 1 0 0 1 358 274
 Ref: 79 79 N 1 0 0 1 0 0
 EndChar
 StartChar: omacron
-Encoding: 333 333 65535
+Encoding: 333 333 234
 Width: 1407
 Flags: H
 Ref: 175 175 N 1 0 0 1 193 -99
 Ref: 111 111 N 1 0 0 1 0 0
 EndChar
 StartChar: Obreve
-Encoding: 334 334 65535
+Encoding: 334 334 235
 Width: 1741
 Flags: H
 Ref: 728 728 N 1 0 0 1 358 333
 Ref: 79 79 N 1 0 0 1 0 0
 EndChar
 StartChar: obreve
-Encoding: 335 335 65535
+Encoding: 335 335 236
 Width: 1407
 Flags: H
 Ref: 728 728 N 1 0 0 1 193 -40
 Ref: 111 111 N 1 0 0 1 0 0
 EndChar
 StartChar: Ohungarumlaut
-Encoding: 336 336 65535
+Encoding: 336 336 237
 Width: 1741
 Flags: H
 Ref: 733 733 N 1 0 0 1 419 380
 Ref: 79 79 N 1 0 0 1 0 0
 EndChar
 StartChar: ohungarumlaut
-Encoding: 337 337 65535
+Encoding: 337 337 238
 Width: 1407
 Flags: H
 Ref: 733 733 N 1 0 0 1 254 7
@@ -5421,70 +5421,70 @@ Fore
 EndSplineSet
 EndChar
 StartChar: Racute
-Encoding: 340 340 65535
+Encoding: 340 340 178
 Width: 1577
 Flags: H
 Ref: 180 180 N 1 0 0 1 19 380
 Ref: 82 82 N 1 0 0 1 0 0
 EndChar
 StartChar: racute
-Encoding: 341 341 65535
+Encoding: 341 341 179
 Width: 1010
 Flags: H
 Ref: 180 180 N 1 0 0 1 125 7
 Ref: 114 114 N 1 0 0 1 0 0
 EndChar
 StartChar: Rcommaaccent
-Encoding: 342 342 65535
+Encoding: 342 342 180
 Width: 1577
 Flags: H
 Ref: 184 184 N 1 0 0 1 260 13.3667
 Ref: 82 82 N 1 0 0 1 0 0
 EndChar
 StartChar: rcommaaccent
-Encoding: 343 343 65535
+Encoding: 343 343 181
 Width: 1010
 Flags: H
 Ref: 184 184 N 1 0 0 1 -251 13.3667
 Ref: 114 114 N 1 0 0 1 0 0
 EndChar
 StartChar: Rcaron
-Encoding: 344 344 65535
+Encoding: 344 344 182
 Width: 1577
 Flags: H
-Ref: 711 711 N 1 0 0 1 -30 380
+Ref: 711 711 S 1 0 0 1 215 352
 Ref: 82 82 N 1 0 0 1 0 0
 EndChar
 StartChar: rcaron
-Encoding: 345 345 65535
+Encoding: 345 345 183
 Width: 1010
 Flags: H
 Ref: 711 711 N 1 0 0 1 76 7
 Ref: 114 114 N 1 0 0 1 0 0
 EndChar
 StartChar: Sacute
-Encoding: 346 346 65535
+Encoding: 346 346 184
 Width: 1475
 Flags: H
 Ref: 180 180 N 1 0 0 1 242 380
 Ref: 83 83 N 1 0 0 1 0 0
 EndChar
 StartChar: sacute
-Encoding: 347 347 65535
+Encoding: 347 347 185
 Width: 1219
 Flags: H
 Ref: 180 180 N 1 0 0 1 139 7
 Ref: 115 115 N 1 0 0 1 0 0
 EndChar
 StartChar: Scircumflex
-Encoding: 348 348 65535
+Encoding: 348 348 186
 Width: 1475
 Flags: H
 Ref: 710 710 N 1 0 0 1 193 380
 Ref: 83 83 N 1 0 0 1 0 0
 EndChar
 StartChar: scircumflex
-Encoding: 349 349 65535
+Encoding: 349 349 187
 Width: 1219
 Flags: H
 Ref: 710 710 N 1 0 0 1 90 7
@@ -5521,140 +5521,140 @@ Ref: 115 115 N 1 0 0 1 0 0
 Ref: 711 711 N 1 0 0 1 98 0
 EndChar
 StartChar: Tcommaaccent
-Encoding: 354 354 65535
+Encoding: 354 354 229
 Width: 1397
 Flags: H
 Ref: 184 184 N 1 0 0 1 166 13.3667
 Ref: 84 84 N 1 0 0 1 0 0
 EndChar
 StartChar: tcommaaccent
-Encoding: 355 355 65535
+Encoding: 355 355 230
 Width: 979
 Flags: H
 Ref: 184 184 N 1 0 0 1 215 13.3667
 Ref: 116 116 N 1 0 0 1 0 0
 EndChar
 StartChar: Tcaron
-Encoding: 356 356 65535
+Encoding: 356 356 231
 Width: 1397
 Flags: H
 Ref: 711 711 N 1 0 0 1 186 380
 Ref: 84 84 N 1 0 0 1 0 0
 EndChar
 StartChar: tcaron
-Encoding: 357 357 65535
+Encoding: 357 357 232
 Width: 979
 Flags: H
 Ref: 711 711 N 1 0 0 1 -128 298
 Ref: 116 116 N 1 0 0 1 0 0
 EndChar
 StartChar: Utilde
-Encoding: 360 360 65535
+Encoding: 360 360 233
 Width: 1663
 Flags: H
 Ref: 732 732 N 1 0 0 1 319.5 335
 Ref: 85 85 N 1 0 0 1 0 0
 EndChar
 StartChar: utilde
-Encoding: 361 361 65535
+Encoding: 361 361 234
 Width: 1458
 Flags: H
 Ref: 732 732 N 1 0 0 1 211 -38
 Ref: 117 117 N 1 0 0 1 0 0
 EndChar
 StartChar: Umacron
-Encoding: 362 362 65535
+Encoding: 362 362 235
 Width: 1663
 Flags: H
 Ref: 175 175 N 1 0 0 1 319.5 274
 Ref: 85 85 N 1 0 0 1 0 0
 EndChar
 StartChar: umacron
-Encoding: 363 363 65535
+Encoding: 363 363 236
 Width: 1458
 Flags: H
 Ref: 175 175 N 1 0 0 1 211 -99
 Ref: 117 117 N 1 0 0 1 0 0
 EndChar
 StartChar: Ubreve
-Encoding: 364 364 65535
+Encoding: 364 364 237
 Width: 1663
 Flags: H
 Ref: 728 728 N 1 0 0 1 319.5 333
 Ref: 85 85 N 1 0 0 1 0 0
 EndChar
 StartChar: ubreve
-Encoding: 365 365 65535
+Encoding: 365 365 238
 Width: 1458
 Flags: H
 Ref: 728 728 N 1 0 0 1 211 -40
 Ref: 117 117 N 1 0 0 1 0 0
 EndChar
 StartChar: Uring
-Encoding: 366 366 65535
+Encoding: 366 366 239
 Width: 1663
 Flags: H
 Ref: 730 730 N 1 0 0 1 319.5 393
 Ref: 85 85 N 1 0 0 1 0 0
 EndChar
 StartChar: uring
-Encoding: 367 367 65535
+Encoding: 367 367 240
 Width: 1458
 Flags: H
 Ref: 730 730 N 1 0 0 1 211 20
 Ref: 117 117 N 1 0 0 1 0 0
 EndChar
 StartChar: Uhungarumlaut
-Encoding: 368 368 65535
+Encoding: 368 368 241
 Width: 1663
 Flags: H
 Ref: 733 733 N 1 0 0 1 380.5 380
 Ref: 85 85 N 1 0 0 1 0 0
 EndChar
 StartChar: uhungarumlaut
-Encoding: 369 369 65535
+Encoding: 369 369 242
 Width: 1458
 Flags: H
 Ref: 733 733 N 1 0 0 1 272 7
 Ref: 117 117 N 1 0 0 1 0 0
 EndChar
 StartChar: Uogonek
-Encoding: 370 370 65535
+Encoding: 370 370 243
 Width: 1663
 Flags: H
 Ref: 731 731 N 1 0 0 1 307.5 -15.6333
 Ref: 85 85 N 1 0 0 1 0 0
 EndChar
 StartChar: uogonek
-Encoding: 371 371 65535
+Encoding: 371 371 244
 Width: 1458
 Flags: H
-Ref: 731 731 N 1 0 0 1 104 -15.6333
+Ref: 731 731 S 1 0 0 1 696 0.366699
 Ref: 117 117 N 1 0 0 1 0 0
 EndChar
 StartChar: Wcircumflex
-Encoding: 372 372 65535
+Encoding: 372 372 245
 Width: 2259
 Flags: H
 Ref: 710 710 N 1 0 0 1 616 380
 Ref: 87 87 N 1 0 0 1 0 0
 EndChar
 StartChar: wcircumflex
-Encoding: 373 373 65535
+Encoding: 373 373 246
 Width: 1892
 Flags: H
 Ref: 710 710 N 1 0 0 1 434.5 7
 Ref: 119 119 N 1 0 0 1 0 0
 EndChar
 StartChar: Ycircumflex
-Encoding: 374 374 65535
+Encoding: 374 374 247
 Width: 1483
 Flags: H
 Ref: 710 710 N 1 0 0 1 229.5 380
 Ref: 89 89 N 1 0 0 1 0 0
 EndChar
 StartChar: ycircumflex
-Encoding: 375 375 65535
+Encoding: 375 375 248
 Width: 1335
 Flags: H
 Ref: 710 710 N 1 0 0 1 149.5 7
@@ -5669,28 +5669,28 @@ Ref: 65538 -1 N 1 0 0 1 205 373
 KernsSLIF: 268 -73 0 0 262 -73 0 0 210 -73 0 0 212 -73 0 0 211 -73 0 0 193 -196 0 0 194 -196 0 0 8222 -301 0 0 8218 -376 0 0 339 -188 0 0 338 -92 0 0 213 -73 0 0 195 -196 0 0 192 -196 0 0 248 -188 0 0 230 -188 0 0 216 -36 0 0 252 -149 0 0 251 -149 0 0 249 -149 0 0 250 -149 0 0 245 -188 0 0 246 -188 0 0 244 -188 0 0 242 -188 0 0 243 -188 0 0 235 -188 0 0 234 -188 0 0 232 -188 0 0 233 -188 0 0 229 -188 0 0 227 -188 0 0 228 -188 0 0 226 -188 0 0 224 -188 0 0 225 -188 0 0 214 -73 0 0 199 -73 0 0 196 -196 0 0 117 -149 0 0 111 -188 0 0 101 -188 0 0 97 -188 0 0 79 -73 0 0 67 -73 0 0 65 -196 0 0 59 -178 0 0 58 -178 0 0 46 -339 0 0 45 -301 0 0 44 -339 0 0
 EndChar
 StartChar: Zacute
-Encoding: 377 377 65535
+Encoding: 377 377 188
 Width: 1485
 Flags: H
 Ref: 180 180 N 1 0 0 1 279.5 380
 Ref: 90 90 N 1 0 0 1 0 0
 EndChar
 StartChar: zacute
-Encoding: 378 378 65535
+Encoding: 378 378 189
 Width: 1192
 Flags: H
 Ref: 180 180 N 1 0 0 1 142.5 7
 Ref: 122 122 N 1 0 0 1 0 0
 EndChar
 StartChar: Zdotaccent
-Encoding: 379 379 65535
+Encoding: 379 379 190
 Width: 1485
 Flags: H
 Ref: 729 729 N 1 0 0 1 230.5 303
 Ref: 90 90 N 1 0 0 1 0 0
 EndChar
 StartChar: zdotaccent
-Encoding: 380 380 65535
+Encoding: 380 380 191
 Width: 1192
 Flags: H
 Ref: 729 729 N 1 0 0 1 93.5 -70
