@@ -64,3 +64,5 @@ Name[zu]=Abayaleli
 Icon=package_applications
 
 Type=Directory
+X-SuSE-AutoShortMenu=false
+

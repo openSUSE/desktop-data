@@ -58,3 +58,4 @@ Name[zu]=Imidlalo yebhodi
 Icon=package_games_board
 X-KDE-SuppressGenericNames=Game,Board Game
 Type=Directory
+X-SuSE-GeneralDescription=true

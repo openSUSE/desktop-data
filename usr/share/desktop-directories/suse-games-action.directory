@@ -2,6 +2,8 @@
 Encoding=UTF-8
 Name=Action
 Name[de]=Action
-Icon=
+Icon=fork
 
 Type=Directory
+X-SuSE-GeneralDescription=true
+

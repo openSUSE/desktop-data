@@ -2,6 +2,7 @@
 Encoding=UTF-8
 Name=Adventure
 Name[de]=Adventure
-Icon=
+Icon=wizard
 
 Type=Directory
+X-SuSE-GeneralDescription=true

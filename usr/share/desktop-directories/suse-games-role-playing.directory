@@ -2,6 +2,7 @@
 Encoding=UTF-8
 Name=Role Playing
 Name[de]=Rollenspiele
-Icon=
+Icon=home_white
 
 Type=Directory
+X-SuSE-GeneralDescription=true
