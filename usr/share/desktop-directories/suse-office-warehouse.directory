@@ -4,3 +4,12 @@ Name=Warehouse
 Icon=
 
 Type=Directory
+Name[bg]=Warehouse
+Name[cs]=Datové sklady
+Name[de]=Warehouse
+Name[fr]=Entrepôt
+Name[ko]=웨어하우스
+Name[lt]=Sandėlis
+Name[nl]=Warenhuis
+Name[sk]=Datové sklady
+Name[sv]=Varuhus

@@ -5,3 +5,12 @@ Name[de]=Verbindung zu Fremdrechner
 Icon=network_local
 
 Type=Directory
+Name[bg]=Отдалечен достъп
+Name[cs]=Vzdálený přístup
+Name[de]=Verbindung zu Fremdrechner
+Name[fr]=Accès à distance
+Name[ko]=원격 접속
+Name[lt]=Nuotolinė prieiga
+Name[nl]=Remote toegang
+Name[sk]=Vzdialený prístup
+Name[sv]=Fjärråtkomst

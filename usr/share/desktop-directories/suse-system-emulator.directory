@@ -4,3 +4,12 @@ Name=Emulator
 Icon=kit
 
 Type=Directory
+Name[bg]=Емулатор
+Name[cs]=Emulátor
+Name[de]=Emulator
+Name[fr]=Émulateur
+Name[ko]=에뮬레이터
+Name[lt]=Emuliatorius
+Name[nl]=Emulator
+Name[sk]=Emulátor
+Name[sv]=Emulator

@@ -5,3 +5,12 @@ Name[de]=Bitmap Grafik
 Icon=package_graphics
 
 Type=Directory
+Name[bg]=Растерна графика
+Name[cs]=Rastrová grafika
+Name[de]=Bitmap Grafik
+Name[fr]=Infographie par quadrillage
+Name[ko]=래스터 그래픽
+Name[lt]=Taškinė grafika
+Name[nl]=Grafisch raster
+Name[sk]=Bitmapová grafika
+Name[sv]=Rastergrafik

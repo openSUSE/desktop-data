@@ -5,3 +5,12 @@ Name[de]=Textverarbeitung
 Icon=package_wordprocessing
 
 Type=Directory
+Name[bg]=Текстообработка
+Name[cs]=Textový procesor
+Name[de]=Textverarbeitung
+Name[fr]=Traitement de texte
+Name[ko]=워드프로세서
+Name[lt]=Teksto redaktorius
+Name[nl]=Tekstverwerker
+Name[sk]=Textový procesor
+Name[sv]=Ordbehandlare

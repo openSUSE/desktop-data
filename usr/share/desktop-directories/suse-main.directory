@@ -2,3 +2,11 @@
 Icon=package
 Name=SuSE Menu
 Type=Directory
+Name[cs]=Nabídka SuSE
+Name[de]=SuSE-Menü
+Name[fr]=Menu SuSE
+Name[ko]=수세 메뉴
+Name[lt]=SuSE meniu
+Name[nl]=SuSE menu
+Name[sk]=SuSE Menu
+Name[sv]=SuSE-meny

@@ -5,3 +5,12 @@ Name[de]=Drucken
 Icon=printer2
 
 Type=Directory
+Name[bg]=Печат
+Name[cs]=Tisk
+Name[de]=Drucken
+Name[fr]=Impression
+Name[ko]=프린팅
+Name[lt]=Spausdinimas
+Name[nl]=Printen
+Name[sk]=Tlač
+Name[sv]=Utskrift

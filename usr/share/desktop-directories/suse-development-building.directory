@@ -4,3 +4,11 @@ Name=Build Tools
 Icon=
 
 Type=Directory
+Name[bg]=Инструменти за програмиране
+Name[cs]=Vývojové nástroje
+Name[fr]=Outils développement
+Name[ko]=빌드 도구
+Name[lt]=Kūrimo įrankiai
+Name[nl]=Ontwikkelingstools
+Name[sk]=Nástroje pre kompiláciu
+Name[sv]=Byggverktyg

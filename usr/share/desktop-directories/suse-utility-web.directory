@@ -1,7 +1,16 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=WWW Utilities
-Name[de]=WWW Dienstprogramme
+Name=Web Utilities
+Name[de]=Web Dienstprogramme
 Icon=
 
 Type=Directory
+Name[bg]=Web програми
+Name[cs]=Web nástroje
+Name[de]=Web Dienstprogramme
+Name[fr]=Utilitaires Web
+Name[ko]=Web 유틸리티
+Name[lt]=Web pagalbininkai
+Name[nl]=Web hulpprogramma's
+Name[sk]=Nástroje Web
+Name[sv]=Web-verktyg

@@ -5,3 +5,12 @@ Name[de]=Dateisystem
 Icon=kcmpartitions
 
 Type=Directory
+Name[bg]=Файлова система
+Name[cs]=Souborový systém
+Name[de]=Dateisystem
+Name[fr]=Système de fichiers
+Name[ko]=파일 시스템
+Name[lt]=Bylų sistema
+Name[nl]=Bestandssysteem
+Name[sk]=Súborový systém
+Name[sv]=Filsystem
