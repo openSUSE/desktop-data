@@ -1250,11 +1250,11 @@ gi
 	<Menu>
 		<DontShowIfEmpty/>
 		<Name>Settings</Name>
-		<Directory>suse-settings.directory</Directory>
+		<Directory>kde-settings.directory</Directory>
 		<Include>
 			<Category>X-SuSE-Core-Configuration</Category>
 		</Include>
-                <MergeFile>suse-settings.menu</MergeFile>
+                <MergeFile>kde-settings.menu</MergeFile>
 	</Menu>
 	<Menu>
 		<DontShowIfEmpty/>
