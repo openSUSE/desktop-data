@@ -486,8 +486,14 @@ gi
 			<Name>RasterGraphics</Name>
 			<Directory>suse-graphics-rastergraphics.directory</Directory>
 			<Include>
+				<And>
 				<Category>2DGraphics</Category>
+				<Not><Category>Viewer</Category></Not>
+				</And>
+				<And>
 				<Category>RasterGraphics</Category>
+				<Not><Category>Viewer</Category></Not>
+				</And>
 			</Include>
 		</Menu>
 		<Menu>
@@ -507,8 +513,6 @@ gi
 				<Category>Graphics</Category>
 				<Category>Viewer</Category>
 				<Not>
-				<Category>2DGraphics</Category>
-				<Category>RasterGraphics</Category>
 				<Category>Office</Category>
 				<Category>3DGraphics</Category>
 				<Category>VectorGraphics</Category>
