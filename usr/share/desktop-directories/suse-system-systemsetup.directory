@@ -2,6 +2,6 @@
 Encoding=UTF-8
 Name=Configuration
 Name[de]=Konfiguration
-Icon=SuSEconf
+Icon=tux
 
 Type=Directory
