@@ -298,11 +298,11 @@
 				<Category>X-SuSE-KidsGame</Category>
 				<Category>X-SuSE-LogicGame</Category>
 				<Category>X-SuSE-Adventure</Category>
-				<Category>X-SuSE-Game-Logic</Category>
-				<Category>X-SuSE-Simulation</Category>
+				<Category>X-SuSE-SimulationGame</Category>
 				<Category>X-SuSE-RolePlaying</Category>
 				</Not>
 				</And>
+gi
 			</Include>
 		</Menu>
 		<Menu>
@@ -413,14 +413,6 @@
 			<Directory>suse-games-simulation.directory</Directory>
 			<Include>
 				<Category>X-SuSE-SimulationGame</Category>
-			</Include>
-		</Menu>
-		<Menu>
-			<DontShowIfEmpty/>
-			<Name>Strategy</Name>
-			<Directory>suse-games-strategygame.directory</Directory>
-			<Include>
-				<Category>StrategyGame</Category>
 			</Include>
 		</Menu>
 	</Menu>
@@ -933,6 +925,7 @@
 				<Category>X-SuSE-CD</Category>
 				<Category>X-SuSE-Calculator</Category>
 				<Category>X-SuSE-DesktopUtility</Category>
+				<Category>X-SuSE-Filesystem</Category>
 				<Category>X-SuSE-SyncUtility</Category>
 				<Category>X-SuSE-WebUtility</Category>
 				<Category>X-SuSE-TimeUtility</Category>
