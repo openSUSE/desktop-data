@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Name=Media Editing
 Name[de]=Bearbeitung
-Icon=
+Icon=package_multimedia
 
 Type=Directory
 Name[bg]=Редактиране на мултимедийни файлове

@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Name=Administration
 Name[de]=Verwaltung
-Icon=
+Icon=configure
 
 Type=Directory
 Name[bg]=Администриране

@@ -2,6 +2,6 @@
 Encoding=UTF-8
 Name=Remote Access
 Name[de]=Verbindung zu Fremdrechner
-Icon=
+Icon=remote
 
 Type=Directory

@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Name=Sync
 Name[de]=Synchronisieren
-Icon=
+Icon=folder_gz
 
 Type=Directory
 Name[bg]=Синхронизация

@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Name=Profiler
 Name[de]=Profiler
-Icon=
+Icon=fork
 
 Type=Directory
 Name[bg]=Профайлър

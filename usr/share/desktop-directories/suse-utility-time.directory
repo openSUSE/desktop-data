@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Name=Time
 Name[de]=Zeit
-Icon=
+Icon=clock
 
 Type=Directory
 Name[bg]=Време

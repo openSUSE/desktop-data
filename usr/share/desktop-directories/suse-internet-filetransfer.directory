@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Name=Data Exchange
 Name[de]=Datenübertragung
-Icon=
+Icon=package_network
 Type=Directory
 Name[bg]=Обмен на данни
 Name[cs]=Výměna dat

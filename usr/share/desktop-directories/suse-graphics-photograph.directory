@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Name=Photograph
 Name[de]=Fotografie
-Icon=
+Icon=camera_unmount
 
 Type=Directory
 Name[bg]=Фотография

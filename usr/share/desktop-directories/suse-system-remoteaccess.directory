@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Name=Remote Access
 Name[de]=Verbindung zu Fremdrechner
-Icon=network_local
+Icon=remote
 
 Type=Directory
 Name[bg]=Отдалечен достъп

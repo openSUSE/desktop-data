@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Name=Network
 Name[de]=Netzwerk
-Icon=
+Icon=nfs_unmount
 
 Type=Directory
 Name[bg]=Мрежа

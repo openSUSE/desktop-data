@@ -3,7 +3,7 @@ Encoding=UTF-8
 Name=Dictionary
 Name[de]=Wörterbuch
 Name[ja]=辞典
-Icon=
+Icon=contents
 
 Type=Directory
 Name[bg]=Речник

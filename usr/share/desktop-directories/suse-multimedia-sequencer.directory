@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Name=Sequencer
 Name[de]=Sequenzer
-Icon=
+Icon=knotify
 
 Type=Directory
 Name[bg]=Секуенсер

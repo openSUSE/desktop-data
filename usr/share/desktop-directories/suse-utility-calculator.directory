@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Name=Calculator
 Name[de]=Rechner
-Icon=
+Icon=kcalc
 
 Type=Directory
 Name[bg]=Калкулатор

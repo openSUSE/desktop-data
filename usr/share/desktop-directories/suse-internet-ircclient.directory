@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Name=IRC Client
 Name[de]=IRC Programm
-Icon=
+Icon=gv
 
 Type=Directory
 Name[bg]=IRC клиент

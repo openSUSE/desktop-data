@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Name=Telephone
 Name[de]=Telefon
-Icon=
+Icon=kaddressbook
 
 Type=Directory
 Name[bg]=Телефон

@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Name=Scanning
 Name[de]=Scanprogram
-Icon=
+Icon=scanner
 
 Type=Directory
 Name[bg]=Сканиране

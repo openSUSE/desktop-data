@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Name=Volume Control
 Name[de]=Lautstärkeregeler
-Icon=
+Icon=kmix
 
 Type=Directory
 Name[bg]=Управление силата на звука
