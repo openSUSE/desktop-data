@@ -1,3 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Integrated Enviroment
+Icon=package_system
+Type=Directory
 Name[bg]=Среда за разработка
 Name[cs]=Vývojové prostředí
 Name[de]=Entwicklungsumgebung

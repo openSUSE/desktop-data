@@ -1,5 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Building
+Icon=rpm
+Type=Directory
 Name[bg]=Инструменти за програмиране
 Name[cs]=Vývojové nástroje
+Name[de]=Compilieren
 Name[fr]=Outils développement
 Name[ko]=빌드 도구
 Name[lt]=Kūrimo įrankiai
