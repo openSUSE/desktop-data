@@ -2,6 +2,6 @@
 Encoding=UTF-8
 Name=File System
 Name[de]=Dateisystem
-Icon=
+Icon=kcmpartitions
 
 Type=Directory
