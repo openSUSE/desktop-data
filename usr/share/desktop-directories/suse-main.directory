@@ -2,6 +2,7 @@
 Icon=package
 Name=SuSE Menu
 Type=Directory
+SortOrder=Applications
 Name[cs]=Nabídka SuSE
 Name[de]=SuSE-Menü
 Name[fr]=Menu SuSE
