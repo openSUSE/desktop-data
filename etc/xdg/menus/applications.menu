@@ -9,6 +9,10 @@
 	<DefaultAppDirs/>
 	<DefaultDirectoryDirs/>
 
+	<Include>
+		<X-SuSE-core>
+	</Include>
+
 	<Menu>
 		<Name>Applications</Name>
 		<Directory>suse-applications.directory</Directory>
@@ -693,7 +697,7 @@
 			</Include>
 		</Menu>
 		<Menu>
-			<Name>Printing</Name>
+			<Name>WebUtility</Name>
 			<Directory>suse-utility-web.directory</Directory>
 			<Include>
 				<Category>X-SuSE-WebUtility</Category>
@@ -739,11 +743,11 @@
 				</Not>
 			</And>
 			<Exclude>
-				<Filename>Gnome-gnome-system-log.desktop</Filename>
-				<Filename>Gnome-gdmflexiserver-xnest.desktop</Filename>
-				<Filename>Gnome-gdmflexiserver.desktop</Filename>
-				<Filename>Gnome-gdmsetup.desktop</Filename>
-				<Filename>Gnome-gfloppy.desktop</Filename>
+				<Filename>gnome-gnome-system-log.desktop</Filename>
+				<Filename>gnome-gdmflexiserver-xnest.desktop</Filename>
+				<Filename>gnome-gdmflexiserver.desktop</Filename>
+				<Filename>gnome-gdmsetup.desktop</Filename>
+				<Filename>gnome-gfloppy.desktop</Filename>
 			</Exclude>
 		</Include>
 		<Menu>
