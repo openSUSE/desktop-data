@@ -806,6 +806,7 @@ gi
 				<Category>X-SuSE-AddressBook</Category>
 				<Category>X-SuSE-Dictionary</Category>
 				<Category>X-SuSE-Warehouse</Category>
+				<Category>X-SuSE-WebDevelopment</Category>
 				</Not>
 				</And>
 			</Include>
@@ -970,7 +971,7 @@ gi
 		<Menu>
 			<DontShowIfEmpty/>
 			<Name>Texteditor</Name>
-			<Directory>suse-utility-texteditor.directory</Directory>
+			<Directory>suse-utility-editor.directory</Directory>
 			<Include>
 				<Category>TextEditor</Category>
 				<Category>X-SuSE-Editor</Category>
