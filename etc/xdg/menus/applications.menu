@@ -1104,6 +1104,15 @@ gi
 		</Menu>
 		<Menu>
 			<DontShowIfEmpty/>
+			<Name>SystemSetup</Name>
+			<Directory>suse-system-systemsetup.directory</Directory>
+			<Include>
+				<Category>SystemSetup</Category>
+				<Category>PackageManager</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Service Configuration</Name>
 			<Directory>suse-system-service-configuration.directory</Directory>
 			<Include>
@@ -1200,15 +1209,6 @@ gi
 			<Directory>suse-system-shell.directory</Directory>
 			<Include>
 				<Category>TerminalEmulator</Category>
-			</Include>
-		</Menu>
-		<Menu>
-			<DontShowIfEmpty/>
-			<Name>SystemSetup</Name>
-			<Directory>suse-system-systemsetup.directory</Directory>
-			<Include>
-				<Category>SystemSetup</Category>
-				<Category>PackageManager</Category>
 			</Include>
 		</Menu>
 		<Menu>
