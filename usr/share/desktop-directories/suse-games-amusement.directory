@@ -4,7 +4,7 @@ Name=Amusement
 Icon=ksmiletris
 
 Type=Directory
-X-SuSE-GeneralDescription=false
+X-SuSE-GeneralDescription=true
 Name[bg]=Развлечение
 Name[cs]=Zábava
 Name[de]=Spaß

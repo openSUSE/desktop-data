@@ -53,4 +53,4 @@ Name[zu]=Umhhume
 Icon=package_games_arcade
 X-KDE-SuppressGenericNames=Game,Arcade Game
 Type=Directory
-X-SuSE-GeneralDescription=false
+X-SuSE-GeneralDescription=true
