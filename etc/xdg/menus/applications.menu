@@ -975,15 +975,6 @@ gi
 	</Menu>
 	<Menu>
 		<DontShowIfEmpty/>
-		<Name>Settingsmenu</Name>
-		<Directory>suse-settingsmenu.directory</Directory>
-		<Include>
-			<Category>Settings</Category>
-			<Category>X-SuSE-Core-Settings</Category>
-		</Include>
-	</Menu>
-	<Menu>
-		<DontShowIfEmpty/>
 		<Name>Utilities</Name>
 		<Directory>suse-utility.directory</Directory>
 		<Include>
@@ -1024,8 +1015,14 @@ gi
 			<Name>Desktop</Name>
 			<Directory>suse-utility-desktop.directory</Directory>
 			<Include>
+				<And>
+				<Category>Utility</Category>
 				<Category>Settings</Category>
+				</And>
+				<And>
+				<Category>Utility</Category>
 				<Category>Accessibility</Category>
+				</And>
 				<Category>X-SuSE-DesktopUtility</Category>
 			</Include>
 		</Menu>
