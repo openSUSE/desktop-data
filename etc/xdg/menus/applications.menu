@@ -32,7 +32,7 @@
 		</Include>
 		<Menu>
 			<DontShowIfEmpty/>
-			<Name>More</Name>
+			<Name>More Programs</Name>
 			<Directory>suse-more.directory</Directory>
 			<Include>
 				<And>
@@ -172,7 +172,7 @@
 		</Include>
 		<Menu>
 			<DontShowIfEmpty/>
-			<Name>More</Name>
+			<Name>More Programs</Name>
 			<Directory>suse-more.directory</Directory>
 			<Include>
 				<And>
@@ -284,7 +284,7 @@
 		</Include>
 		<Menu>
 			<DontShowIfEmpty/>
-			<Name>More</Name>
+			<Name>More Programs</Name>
 			<Directory>suse-more.directory</Directory>
 			<Include>
 				<And>
@@ -435,7 +435,7 @@ gi
 		</Include>
 		<Menu>
 			<DontShowIfEmpty/>
-			<Name>More</Name>
+			<Name>More Programs</Name>
 			<Directory>suse-more.directory</Directory>
 				<Include>
 				<And>
@@ -521,7 +521,7 @@ gi
 		</Include>
 		<Menu>
 			<DontShowIfEmpty/>
-			<Name>More</Name>
+			<Name>More Programs</Name>
 			<Directory>suse-more.directory</Directory>
 			<Include>
 				<And>
@@ -652,7 +652,7 @@ gi
 		</Include>
 		<Menu>
 			<DontShowIfEmpty/>
-			<Name>More</Name>
+			<Name>More Programs</Name>
 			<Directory>suse-more.directory</Directory>
 			<Include>
 				<And>
@@ -817,7 +817,7 @@ gi
 		</Include>
 		<Menu>
 			<DontShowIfEmpty/>
-			<Name>More</Name>
+			<Name>More Programs</Name>
 			<Directory>suse-more.directory</Directory>
 			<Include>
 				<And>
@@ -971,7 +971,7 @@ gi
 		</Include>
 		<Menu>
 			<DontShowIfEmpty/>
-			<Name>More</Name>
+			<Name>More Programs</Name>
 			<Directory>suse-more.directory</Directory>
 				<Include>
 				<And>
@@ -1087,7 +1087,7 @@ gi
 		</Include>
 		<Menu>
 			<DontShowIfEmpty/>
-			<Name>More</Name>
+			<Name>More Programs</Name>
 			<Directory>suse-more.directory</Directory>
 				<Include>
 				<And>
