@@ -1211,6 +1211,14 @@ gi
 		</Menu>
 		<Menu>
 			<DontShowIfEmpty/>
+			<Name>Feedback</Name>
+			<Directory>suse-system-feedback.directory</Directory>
+			<Include>
+				<Category>Feedback</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Security</Name>
 			<Directory>suse-system-security.directory</Directory>
 			<Include>
