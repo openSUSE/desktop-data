@@ -1,5 +1,5 @@
 SplineFontDB: 1.0
-FontName: SUSE-SansMono-Bold
+FontName: SUSESansMono-Bold
 FullName: SUSE Sans Mono Bold
 FamilyName: SUSE Sans Mono
 Weight: Bold
@@ -73,7 +73,7 @@ UnicodeInterp: none
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 224 14 16
+WinInfo: 210 15 15
 BeginChars: 65548 363
 StartChar: .notdef
 Encoding: 0 -1 0

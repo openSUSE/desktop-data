@@ -1,5 +1,5 @@
 SplineFontDB: 1.0
-FontName: SUSE-SansMono-Roman
+FontName: SUSESansMono-Roman
 FullName: SUSE Sans Mono
 FamilyName: SUSE Sans Mono
 Weight: Book
@@ -13,7 +13,7 @@ Descent: 492
 Order2: 1
 NeedsXUIDChange: 1
 FSType: 4
-PfmFamily: 17
+PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
 Panose: 2 11 6 9 3 8 4 2 2 4

@@ -1,5 +1,5 @@
 SplineFontDB: 1.0
-FontName: SUSE-Sans-Oblique
+FontName: SUSESans-Oblique
 FullName: SUSE Sans Oblique
 FamilyName: SUSE Sans
 Weight: Book
@@ -69,7 +69,7 @@ UnicodeInterp: none
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 180 15 16
+WinInfo: 180 20 15
 BeginChars: 65547 362
 StartChar: .notdef
 Encoding: 0 -1 0

@@ -1,5 +1,5 @@
 SplineFontDB: 1.0
-FontName: SUSE-Sans-Roman
+FontName: SUSESans-Roman
 FullName: SUSE Sans
 FamilyName: SUSE Sans
 Weight: Book
@@ -77,7 +77,7 @@ UnicodeInterp: none
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 140 20 15
+WinInfo: 154 14 16
 BeginChars: 65547 362
 StartChar: .notdef
 Encoding: 0 -1 0
