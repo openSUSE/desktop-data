@@ -1,6 +1,7 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Instant Messaging
-Icon=
+Name=Chat
+GenericName=Instant Messaging
+Icon=gv
 
 Type=Directory
