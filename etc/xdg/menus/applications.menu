@@ -10,7 +10,7 @@
 	<DefaultDirectoryDirs/>
 
 	<Include>
-		<Category>X-SuSE-Core</Category>
+		<Category>X-SuSE-core</Category>
 	</Include>
 
 	<Menu>
