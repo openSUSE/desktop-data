@@ -1179,6 +1179,7 @@ gi
 				<Category>Archiving</Category>
 				<Category>X-SuSE-Backup</Category>
 				<Category>X-SuSE-ServiceConfiguration</Category>
+				<Category>X-KDE-Settings-Hardware</Category>
 				<Category>Security</Category>
 				</Not>
 				</And>
@@ -1248,6 +1249,7 @@ gi
 			<Name>SystemSetup</Name>
 			<Directory>suse-system-systemsetup.directory</Directory>
 			<Include>
+				<Category>X-KDE-Settings-Hardware</Category>
 				<Category>HardwareSettings</Category>
 				<Category>SystemSetup</Category>
 				<Category>PackageManager</Category>
