@@ -5,3 +5,4 @@ Icon=desktop
 
 Type=Directory
 Name[de]=Desktop Applet
+X-SuSE-GeneralDescription=true

@@ -3,6 +3,7 @@ Encoding=UTF-8
 Name=File Manager
 Icon=kfm
 Type=Directory
+X-SuSE-GeneralDescription=true
 Name[bg]=Файлов мениджър
 Name[cs]=Správce souborů
 Name[de]=Dateiverwaltung

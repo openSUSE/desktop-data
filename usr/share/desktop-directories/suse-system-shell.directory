@@ -3,6 +3,7 @@ Encoding=UTF-8
 Name=Terminal
 Icon=terminal
 Type=Directory
+X-SuSE-GeneralDescription=true
 Name[bg]=Терминал
 Name[cs]=Terminál
 Name[de]=Terminals

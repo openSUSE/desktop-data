@@ -4,6 +4,7 @@ Name=Telephone
 Icon=kaddressbook
 
 Type=Directory
+X-SuSE-GeneralDescription=true
 Name[bg]=Телефон
 Name[cs]=Telefon
 Name[de]=Telefon

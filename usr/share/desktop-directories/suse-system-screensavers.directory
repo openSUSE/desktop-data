@@ -3,6 +3,7 @@ Encoding=UTF-8
 Name=Screen Savers
 Icon=kscreensaver
 X-KDE-BaseGroup=screensavers
+X-SuSE-GeneralDescription=true
 
 Comment=Screen saver demos
 Comment[af]=Skerm bewaarder demonstrasies

@@ -4,6 +4,7 @@ Name=Security
 Icon=encrypted
 
 Type=Directory
+X-SuSE-GeneralDescription=true
 Name[bg]=Сигурност
 Name[cs]=Bezpečnost
 Name[de]=Sicherheit

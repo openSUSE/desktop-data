@@ -4,6 +4,7 @@ Name=Remote Access
 Icon=remote
 
 Type=Directory
+X-SuSE-GeneralDescription=true
 Name[bg]=Отдалечен достъп
 Name[cs]=Vzdálený přístup
 Name[de]=Verbindung zu Fremdrechner

@@ -4,6 +4,7 @@ Name=File System
 Icon=kcmpartitions
 
 Type=Directory
+X-SuSE-GeneralDescription=true
 Name[bg]=Файлова система
 Name[cs]=Souborový systém
 Name[de]=Dateisystem

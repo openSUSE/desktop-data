@@ -4,6 +4,7 @@ Name=Emulator
 Icon=kit
 
 Type=Directory
+X-SuSE-GeneralDescription=true
 Name[bg]=Емулатор
 Name[cs]=Emulátor
 Name[de]=Emulator

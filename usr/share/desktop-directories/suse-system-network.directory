@@ -4,6 +4,7 @@ Name=Network
 Icon=nfs_unmount
 
 Type=Directory
+X-SuSE-GeneralDescription=true
 Name[bg]=Мрежа
 Name[cs]=Síť
 Name[de]=Netzwerk

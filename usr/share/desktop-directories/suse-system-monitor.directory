@@ -3,6 +3,7 @@ Encoding=UTF-8
 Name=Monitor
 Icon=xosview
 Type=Directory
+X-SuSE-GeneralDescription=true
 Name[bg]=Монитор
 Name[cs]=Monitor
 Name[de]=Überwachung

@@ -4,6 +4,7 @@ Name=Terminal Applications
 Icon=konsole
 Version=1.0
 Type=Directory
+X-SuSE-GeneralDescription=true
 Name[af]=Terminaal Programme
 Name[ar]=تطبيقات طرفية
 Name[az]=Terminal Proqramları

@@ -4,6 +4,7 @@ Name=Service Configuration
 Icon=energy
 
 Type=Directory
+X-SuSE-GeneralDescription=true
 Name[bg]=Настройка
 Name[cs]=Nastavení
 Name[de]=Dienstkonfiguration

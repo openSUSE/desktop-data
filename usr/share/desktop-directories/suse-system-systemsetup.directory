@@ -4,6 +4,7 @@ Name=Configuration
 Icon=tux
 
 Type=Directory
+X-SuSE-GeneralDescription=true
 Name[bg]=Настройка на услуги
 Name[cs]=Nastavení služeb
 Name[de]=Konfiguration
