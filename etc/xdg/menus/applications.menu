@@ -154,15 +154,17 @@
 				<Category>Education</Category>
 				<Not>
 				<Category>Astronomy</Category>
-				<Category>Math</Category>
-				<Category>Science</Category>
 				<Category>Chemistry</Category>
-				<Category>X-SuSE-Language</Category>
 				<Category>Engineering</Category>
+				<Category>Math</Category>
+				<Category>Music</Category>
+				<Category>Science</Category>
 				<Category>X-KDE-Edu-Teaching</Category>
 				<Category>X-KDE-Edu-Language</Category>
 				<Category>X-SuSE-Art</Category>
 				<Category>X-SuSE-Construction</Category>
+				<Category>X-SuSE-Language</Category>
+				<Category>X-SuSE-School</Category>
 				</Not>
 			</And>
 		</Include>
@@ -193,6 +195,17 @@
 		</Menu>
 		<Menu>
 			<DontShowIfEmpty/>
+			<Name>Music</Name>
+			<Directory>suse-edutainment-music.directory</Directory>
+			<Include>
+				<And>
+				<Category>Education</Category>
+				<Category>Music</Category>
+				</And>
+			</Include>
+		</Menu>
+		<Menu>
+			<DontShowIfEmpty/>
 			<Name>Science</Name>
 			<Directory>suse-edutainment-science.directory</Directory>
 			<Include>
@@ -201,7 +214,7 @@
 		</Menu>
 		<Menu>
 			<DontShowIfEmpty/>
-			<Name>Tools</Name>
+			<Name>Teaching</Name>
 			<Directory>suse-edutainment-teaching.directory</Directory>
 			<Include>
 				<Category>X-KDE-Edu-Teaching</Category>
