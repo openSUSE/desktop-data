@@ -3,6 +3,7 @@ Encoding=UTF-8
 Name=Applications
 Icon=package_applications
 Type=Directory
+X-SuSE-AutoShortMenu=false
 Name[af]=Programme
 Name[ar]=تطبيقات
 Name[az]=Proqram Tə'minatları
