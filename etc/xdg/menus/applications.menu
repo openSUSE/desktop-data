@@ -482,7 +482,12 @@ gi
 			<Name>Viewer</Name>
 			<Directory>suse-graphics-viewer.directory</Directory>
 			<Include>
+				<And>
 				<Category>X-SuSE-Viewer</Category>
+				<Not>
+				<Category>Office</Category>
+				</Not>
+				</And>
 			</Include>
 		</Menu>
 		<Menu>
