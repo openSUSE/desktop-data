@@ -108,7 +108,7 @@
 		</Include>
 		<Menu>
 			<Name>Languages</Name>
-			<Directory>suse-edu-languages.directory</Directory>
+			<Directory>suse-edutainment-languages.directory</Directory>
 			<Include>
 				<Category>X-KDE-Edu-Language</Category>
 				<Category>X-SuSE-Language</Category>
@@ -116,28 +116,28 @@
 		</Menu>
 		<Menu>
 			<Name>Mathematics</Name>
-			<Directory>suse-edu-mathematics.directory</Directory>
+			<Directory>suse-edutainment-mathematics.directory</Directory>
 			<Include>
 				<Category>Math</Category>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Chemistry</Name>
-			<Directory>suse-edu-chemistry.directory</Directory>
+			<Directory>suse-edutainment-chemical.directory</Directory>
 			<Include>
 				<Category>Chemistry</Category>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Science</Name>
-			<Directory>suse-edu-science.directory</Directory>
+			<Directory>suse-edutainment-science.directory</Directory>
 			<Include>
 				<Category>Science</Category>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Tools</Name>
-			<Directory>suse-edu-teaching.directory</Directory>
+			<Directory>suse-edutainment-teaching.directory</Directory>
 			<Include>
 				<Category>Languages</Category>
 				<Category>X-KDE-Edu-Teaching</Category>
@@ -146,21 +146,21 @@
 		</Menu>
 		<Menu>
 			<Name>Art</Name>
-			<Directory>suse-edu-art.directory</Directory>
+			<Directory>suse-edutainment-art.directory</Directory>
 			<Include>
 				<Category>X-SuSE-Art</Category>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Astronomy</Name>
-			<Directory>suse-edu-astronomy.directory</Directory>
+			<Directory>suse-edutainment-astronomy.directory</Directory>
 			<Include>
 				<Category>Astronomy</Category>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Construction</Name>
-			<Directory>suse-edu-construction.directory</Directory>
+			<Directory>suse-edutainment-construction.directory</Directory>
 			<Include>
 				<Category>Engineering</Category>
 				<Category>X-SuSE-Construction</Category>
@@ -232,7 +232,7 @@
 		</Menu>
 		<Menu>
 			<Name>Kidsgames</Name>
-			<Directory>suse-games-kids.directory</Directory>
+			<Directory>suse-games-kidsgames.directory</Directory>
 			<Include>
 				<Category>X-KDE-KidsGame</Category>
 				<Category>X-SuSE-KidsGame</Category>
@@ -411,7 +411,7 @@
 		</Menu>
 		<Menu>
 			<Name>IP Telephone</Name>
-			<Directory>suse-internet-voip.directory</Directory>
+			<Directory>suse-internet-telephone.directory</Directory>
 			<Include>
 				<And>
 				<Category>Network</Category>
@@ -434,17 +434,11 @@
 			</Include>
 		</Menu>
 		<Menu>
-			<Name>InstantMessaging</Name>
+			<Name>Chat</Name>
 			<Directory>suse-internet-instantmessaging.directory</Directory>
 			<Include>
-				<Category>X-SuSE-InstantMessaging</Category>
-			</Include>
-		</Menu>
-		<Menu>
-			<Name>IRCClient</Name>
-			<Directory>suse-internet-ircclient.directory</Directory>
-			<Include>
 				<Category>X-SuSE-IRCClient</Category>
+				<Category>X-SuSE-InstantMessaging</Category>
 			</Include>
 		</Menu>
 		<Menu>
