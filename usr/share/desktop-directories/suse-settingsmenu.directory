@@ -49,5 +49,6 @@ Name[xh]=Izicwangciso
 Name[zh_CN]=设置
 Name[zh_TW]=設定值
 Name[zu]=Izilungiselelo
+NoDisplay=true
 Icon=package_settings
 Type=Directory
