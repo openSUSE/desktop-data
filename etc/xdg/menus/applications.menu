@@ -1016,6 +1016,7 @@ gi
 				<Category>Settings</Category>
 				<Category>Shell</Category>
 				<Category>Clock</Category>
+				<Category>Telephony</Category>
 				<Category>TerminalEmulator</Category>
 				<Category>Archiving</Category>
 				<Category>Filesystem</Category>
@@ -1066,6 +1067,17 @@ gi
 			<Directory>suse-utility-archiving.directory</Directory>
 			<Include>
 				<Category>Archiving</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<DontShowIfEmpty/>
+			<Name>Telephone</Name>
+			<Directory>suse-telephone.directory</Directory>
+			<Include>
+				<And>
+				<Category>System</Category>
+				<Category>Telephony</Category>
+				</And>
 			</Include>
 		</Menu>
 		<Menu>
@@ -1160,7 +1172,6 @@ gi
 				<Category>TrayIcon</Category>
 				<Category>Documentation</Category>
 				<Category>Database</Category>
-				<Category>Telephony</Category>
 				<Category>RemoteAccess</Category>
 				<Category>FileManager</Category>
 				<Category>Filesystem</Category>
@@ -1249,17 +1260,6 @@ gi
 			<Include>
 				<Category>Applet</Category>
 				<Category>TrayIcon</Category>
-			</Include>
-		</Menu>
-		<Menu>
-			<DontShowIfEmpty/>
-			<Name>Telephone</Name>
-			<Directory>suse-system-telephone.directory</Directory>
-			<Include>
-				<And>
-				<Category>System</Category>
-				<Category>Telephony</Category>
-				</And>
 			</Include>
 		</Menu>
 		<Menu>
