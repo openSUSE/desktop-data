@@ -1,6 +1,6 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Internationalisation
-Name[de]=Internationalisierung
-Icon=
+Name=Translation
+Name[de]=Übersetzen
+Icon=kbabel
 

@@ -32,12 +32,45 @@
 			<Not>
 			<Category>IDE</Category>
 			<Category>GUIDesigner</Category>
+			<Category>Documentation</Category>
 			<Category>X-SuSE-DevelopmentTools</Category>
 			<Category>X-SuSE-Debugger</Category>
 			<Category>X-SuSE-Profiling</Category>
+			<Category>X-SuSE-RevisionControl</Category>
+			<Category>X-SuSE-Translation</Category>
 			</Not>
 			</And>
 		</Include>
+		<Menu>
+			<Name>RevisionControl</Name>
+			<Directory>suse-development-revisioncontrol.directory</Directory>
+			<Include>
+				<And>
+				<Category>Development</Category>
+				<Category>RevisionControl</Category>
+				</And>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Translation</Name>
+			<Directory>suse-development-translation.directory</Directory>
+			<Include>
+				<And>
+				<Category>Development</Category>
+				<Category>Translation</Category>
+				</And>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Documentation</Name>
+			<Directory>suse-development-documentation.directory</Directory>
+			<Include>
+				<And>
+				<Category>Development</Category>
+				<Category>Documentation</Category>
+				</And>
+			</Include>
+		</Menu>
 		<Menu>
 			<Name>More</Name>
 			<Directory>suse-more.directory</Directory>
@@ -190,6 +223,7 @@
 				<Category>FirstPersonGame</Category>
 				<Category>AdventureGame</Category>
 				<Category>X-KDE-KidsGame</Category>
+				<Category>X-SuSE-ActionGame</Category>
 				<Category>X-SuSE-KidsGame</Category>
 				<Category>X-SuSE-LogicGame</Category>
 				<Category>X-SuSE-Adventure</Category>
@@ -203,7 +237,7 @@
 			<Name>Action</Name>
 			<Directory>suse-games-action.directory</Directory>
 			<Include>
-				<Category>X-SuSE-Games-Action</Category>
+				<Category>X-SuSE-ActionGame</Category>
 				<Category>FirstPersonGame</Category>
 				<Category>PlatformGame</Category>
 			</Include>
@@ -399,7 +433,7 @@
 			<Name>Peer to Peer</Name>
 			<Directory>suse-internet-p2p.directory</Directory>
 			<Include>
-				<Category>X-SuSE-Network-P2P</Category>
+				<Category>X-SuSE-P2P</Category>
 			</Include>
 		</Menu>
 		<Menu>
