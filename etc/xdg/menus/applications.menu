@@ -489,6 +489,7 @@
 				<Category>InstantMessaging</Category>
 				<Category>IRCClient</Category>
 				<Category>News</Category>
+				<Category>X-SuSE-RSS-News</Category>
 				<Category>SystemSetup</Category>
 				<Category>FileTransfer</Category>
 				<Category>P2P</Category>
@@ -579,6 +580,13 @@
 			<Directory>suse-internet-newsreader.directory</Directory>
 			<Include>
 				<Category>News</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>NewsReader</Name>
+			<Directory>suse-internet-news-feed-reader.directory</Directory>
+			<Include>
+				<Category>X-SuSE-RSS-News</Category>
 			</Include>
 		</Menu>
 		<Menu>
