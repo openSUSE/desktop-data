@@ -152,6 +152,7 @@
 				<Category>Games</Category>
 				<Not>
 				<Category>ArcadeGame</Category>
+				<Category>BlocksGame</Category>
 				<Category>BoardGame</Category>
 				<Category>CardGame</Category>
 				<Category>X-KDE-KidsGame</Category>
@@ -161,7 +162,11 @@
 				<Category>X-SuSE-Game-Logic</Category>
 				<Category>PlatformGame</Category>
 				<Category>PuzzleGame</Category>
-				<Category>X-SuSE-Roguelikes</Category>
+				<Category>X-SuSE-Adventure</Category>
+				<Category>X-SuSE-Game-Logic</Category>
+				<Category>X-SuSE-Simulation</Category>
+				<Category>X-SuSE-RolePlaying</Category>
+				<Category>SportsGame</Category>
 				<Category>Strategy</Category>
 				</Not>
 			</And>
@@ -183,6 +188,10 @@
 				<And>
 				<Category>Game</Category>
 				<Category>BoardGame</Category>
+				</And>
+				<And>
+				<Category>Game</Category>
+				<Category>BlocksGame</Category>
 				</And>
 			</Include>
 		</Menu>
@@ -217,32 +226,12 @@
 			</Include>
 		</Menu>
 		<Menu>
-			<Name>3D</Name>
-			<Directory>suse-games-3dgame.directory</Directory>
-			<Include>
-				<And>
-				<Category>Game</Category>
-				<Category>3DGame</Category>
-				</And>
-			</Include>
-		</Menu>
-		<Menu>
 			<Name>Amusement</Name>
 			<Directory>suse-games-amusement.directory</Directory>
 			<Include>
 				<And>
 				<Category>Game</Category>
 				<Category>Amusement</Category>
-				</And>
-			</Include>
-		</Menu>
-		<Menu>
-			<Name>Logic</Name>
-			<Directory>suse-games-logic.directory</Directory>
-			<Include>
-				<And>
-				<Category>Game</Category>
-				<Category>X-SuSE-Game-Logic</Category>
 				</And>
 			</Include>
 		</Menu>
@@ -264,15 +253,49 @@
 				<Category>Game</Category>
 				<Category>PuzzleGame</Category>
 				</And>
+				<And>
+				<Category>Game</Category>
+				<Category>X-SuSE-Game-Logic</Category>
+				</And>
 			</Include>
 		</Menu>
 		<Menu>
-			<Name>Roguelikes</Name>
-			<Directory>suse-games-roguelikes.directory</Directory>
+			<Name>Sport</Name>
+			<Directory>suse-games-sports.directory</Directory>
 			<Include>
 				<And>
 				<Category>Game</Category>
-				<Category>X-SuSE-Roguelikes</Category>
+				<Category>SportsGame</Category>
+				</And>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Adventure</Name>
+			<Directory>suse-games-adventure.directory</Directory>
+			<Include>
+				<And>
+				<Category>Game</Category>
+				<Category>X-SuSE-Adventure</Category>
+				</And>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Role-Playing</Name>
+			<Directory>suse-games-role-playing.directory</Directory>
+			<Include>
+				<And>
+				<Category>Game</Category>
+				<Category>X-SuSE-RolePlaying</Category>
+				</And>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Simulation</Name>
+			<Directory>suse-games-simulation.directory</Directory>
+			<Include>
+				<And>
+				<Category>Game</Category>
+				<Category>X-SuSESimulation</Category>
 				</And>
 			</Include>
 		</Menu>
@@ -438,6 +461,17 @@
 		<Directory>suse-multimedia.directory</Directory>
 		<Include>
 			<Category>X-SuSE-Core-Multimedia</Category>
+			<And>
+				AudioVideo
+				<Not>
+				<Category>AudioMixer</Category>
+				<Category>AudioVideoEditing</Category>
+				<Category>AudioVideoPlayer</Category>
+				<Category>X-SuSE-MidiPlayer</Category>
+				<Category>AudioVideoRecorder</Category>
+				<Category>Burning</Category>
+				</Not>
+			</And>
 		</Include>
 		<Menu>
 			<Name>AudioMixer</Name>
@@ -461,6 +495,7 @@
 			<Include>
 <!-- TOCHECK: AudioVideoPlayer -->
 				<Category>AudioVideoPlayer</Category>
+				<Category>X-SuSE-MidiPlayer</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -590,9 +625,45 @@
 				<Category>SystemSetup</Category>
 				<Category>PackageManager</Category>
 				<Category>Utility</Category>
+				<Category>X-SuSE-Service-Configuration</Category>
+				<And>
+				<Category>System</Category>
+				<Category>Network</Category>
+				</And>
 				</Not>
 			</And>
+			<Exclude>
+				<Filename>Gnome-gnome-system-log.desktop</Filename>
+				<Filename>Gnome-gdmflexiserver-xnest.desktop</Filename>
+				<Filename>Gnome-gdmflexiserver.desktop</Filename>
+				<Filename>Gnome-gdmsetup.desktop</Filename>
+				<Filename>Gnome-gfloppy.desktop</Filename>
+			<Exclude>
 		</Include>
+		<Menu>
+			<Name>Network</Name>
+			<Directory>suse-system-network.directory</Directory>
+			<Include>
+				<And>
+				<Category>System</Category>
+				<Category>Network</Category>
+				</And>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Service Configuration</Name>
+			<Directory>suse-system-service-configuration.directory</Directory>
+			<Include>
+				<Category>X-SuSE-Service-Configuration</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Applet</Name>
+			<Directory>suse-system-applet.directory</Directory>
+			<Include>
+				<Category>X-SuSE-Applet</Category>
+			</Include>
+		</Menu>
 		<Menu>
 			<Name>Archiving</Name>
 			<Directory>suse-system-archiving.directory</Directory>
