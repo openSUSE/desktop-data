@@ -1,12 +1,12 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Raster Graphic
+Name=Image Editing
 Icon=package_graphics
 
 Type=Directory
 Name[bg]=Растерна графика
 Name[cs]=Rastrová grafika
-Name[de]=Bitmap Grafik
+Name[de]=Bildbearbeitung
 Name[fr]=Infographie par quadrillage
 Name[ko]=래스터 그래픽
 Name[lt]=Taškinė grafika

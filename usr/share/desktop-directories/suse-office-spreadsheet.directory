@@ -1,12 +1,12 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Calculation
+Name=Spreadsheet
 Icon=kcalc
 
 Type=Directory
 Name[bg]=Пресмятане
 Name[cs]=Výpočty
-Name[de]=Kalkulation
+Name[de]=Tabellenkalkulation
 Name[fr]=Calcul
 Name[ko]=계산
 Name[lt]=Skaičiavimas

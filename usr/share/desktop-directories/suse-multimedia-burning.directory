@@ -1,16 +1,16 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Media Burning
+Name=CD/DVD Burning
 Icon=cdwriter_unmount
 
 Type=Directory
 Name[bg]=Записване на дискове
 Name[cs]=Vypalování
-Name[de]=Medien brennen
+Name[de]=CD/DVD brennen
 Name[fr]=Gravure multimédia
 Name[ko]=미디어 굽기
-Name[lt]=Media įrašymas
-Name[nl]=Media branden
+Name[lt]=CD/DVD įrašymas
+Name[nl]=CD/DVD branden
 Name[sk]=Vytváranie CD
 Name[sv]=Mediabränning
 Name[es]=Grabación de medios
