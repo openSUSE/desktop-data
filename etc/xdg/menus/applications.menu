@@ -172,11 +172,17 @@
 		</Include>
 		<Menu>
 			<DontShowIfEmpty/>
-			<Name>More Programs</Name>
-			<Directory>suse-more.directory</Directory>
+			<Name>Science</Name>
+			<Directory>suse-edutainment-science.directory</Directory>
 			<Include>
 				<And>
 				<Category>Education</Category>
+				<Category>Science</Category>
+				<Category>Biology</Category>
+				<Category>Geology</Category>
+				<Category>MedicalSoftware</Category>
+				<Category>Physics</Category>
+				<Category>Electronics</Category>
 				<Not>
 				<Category>X-SuSE-Core-Edutainment</Category>
 				<Category>Astronomy</Category>
@@ -191,7 +197,6 @@
 				<Category>Art</Category>
 				<Category>Math</Category>
 				<Category>Music</Category>
-				<Category>Science</Category>
 				<Category>Languages</Category>
 				<Category>Teaching</Category>
 				<Category>X-KDE-Edu-Teaching</Category>
@@ -235,19 +240,6 @@
 				<Category>Music</Category>
 				<Not><Category>AudioVideo</Category></Not>
 				</And>
-			</Include>
-		</Menu>
-		<Menu>
-			<DontShowIfEmpty/>
-			<Name>Science</Name>
-			<Directory>suse-edutainment-science.directory</Directory>
-			<Include>
-				<Category>Biology</Category>
-				<Category>Geology</Category>
-				<Category>MedicalSoftware</Category>
-				<Category>Physics</Category>
-				<Category>Electronics</Category>
-				<Category>Science</Category>
 			</Include>
 		</Menu>
 		<Menu>
