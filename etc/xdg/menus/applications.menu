@@ -583,7 +583,7 @@
 			</Include>
 		</Menu>
 		<Menu>
-			<Name>NewsReader</Name>
+			<Name>RSS Reader</Name>
 			<Directory>suse-internet-news-feed-reader.directory</Directory>
 			<Include>
 				<Category>X-SuSE-RSS-News</Category>
