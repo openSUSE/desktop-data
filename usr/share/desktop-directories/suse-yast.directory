@@ -1,18 +1,6 @@
 [Desktop Entry]
-Name=YaST2 modules
-Comment=YaST2 modules
-Comment[en]=YaST2 modules
-Comment[de]=YaST2 Module
-Comment[es]=Módulos
-Comment[hu]=YaST2 modulok
-Comment[cs]=YaST2 moduly
-Comment[ja]=YaST2 モジュール
+Name=YaST2 Modules
+Comment=YaST2 Modules
 Type=Directory
 Icon=package_settings
 
-Name[cs]=YaST2 moduly
-Name[de]=YaST2 Module
-Name[en]=YaST2 modules
-Name[es]=Módulos
-Name[hu]=YaST2 modulok
-Name[ja]=YaST2 モジュール
