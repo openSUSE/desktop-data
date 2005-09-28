@@ -1,5 +1,4 @@
 [Desktop Entry]
 Type=Directory
-Icon=app_armor
+Icon=apparmor/app_armor
 Name=AppArmor
-

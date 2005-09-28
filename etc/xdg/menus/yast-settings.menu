@@ -21,7 +21,7 @@
 		</And>
 	</Include>
 	<Menu>
-		<Name>System</Name>
+		<Name>AppArmor</Name>
 		<Directory>suse-yast-apparmor.directory</Directory>
 		<Include>
 			<Category>X-SuSE-YaST-AppArmor</Category>
