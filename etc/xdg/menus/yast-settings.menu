@@ -8,7 +8,7 @@
 		<And>
 		<Category>X-SuSE-YaST</Category>
 		<Not>
-		<Category>X-SuSE-YaST-AppAmor</Category>
+		<Category>X-SuSE-YaST-AppArmor</Category>
 		<Category>X-SuSE-YaST-Hardware</Category>
 		<Category>X-SuSE-YaST-Misc</Category>
 		<Category>X-SuSE-YaST-Network</Category>
@@ -22,9 +22,9 @@
 	</Include>
 	<Menu>
 		<Name>System</Name>
-		<Directory>suse-yast-appamor.directory</Directory>
+		<Directory>suse-yast-apparmor.directory</Directory>
 		<Include>
-			<Category>X-SuSE-YaST-AppAmor</Category>
+			<Category>X-SuSE-YaST-AppArmor</Category>
 		</Include>
 	</Menu>
 	<Menu>
