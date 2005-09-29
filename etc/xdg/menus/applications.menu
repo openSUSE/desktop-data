@@ -401,7 +401,7 @@
 				<Category>VectorGraphics</Category>
 				<Category>Scanning</Category>
 				<Category>OCR</Category>
-				<Category>Photograph</Category>
+				<Category>Photography</Category>
 				<Category>Viewer</Category>
 				<Category>3DGraphics</Category>
 				</Not>
@@ -455,16 +455,16 @@
 				<Category>Office</Category>
 				<Category>3DGraphics</Category>
 				<Category>VectorGraphics</Category>
-				<Category>Photograph</Category>
+				<Category>Photography</Category>
 				</Not>
 				</And>
 			</Include>
 		</Menu>
 		<Menu>
-			<Name>Photograph</Name>
-			<Directory>suse-graphics-photograph.directory</Directory>
+			<Name>Photography</Name>
+			<Directory>suse-graphics-photography.directory</Directory>
 			<Include>
-				<Category>Photograph</Category>
+				<Category>Photography</Category>
 			</Include>
 		</Menu>
 	</Menu>
