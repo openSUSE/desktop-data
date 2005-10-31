@@ -71,9 +71,9 @@ case "$SESSION" in
   ;;
 esac
 
-for browser in /usr/bin/mozilla \
+for browser in /usr/bin/firefox \
                /usr/X11R6/bin/Netscape \
-               /usr/X11R6/bin/MozillaFirebird
+               /usr/bin/mozilla
 do
   if [ -x "${browser}" ] ; then
      exec "${browser}" ${1+"$@"}
