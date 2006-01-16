@@ -1261,4 +1261,5 @@
 	</Menu>
 	<DefaultMergeDirs/>
 	<MergeFile>applications-kmenuedit.menu</MergeFile>
+        <MergeFile>custom.menu</MergeFile>
 </Menu>
