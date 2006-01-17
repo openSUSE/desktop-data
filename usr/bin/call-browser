@@ -1,18 +1,7 @@
 #! /bin/bash
 
-# try with $BROWSER first
-if [ -n "$BROWSER" ] ; then
-  if [ -x "$BROWSER" ] ; then
-    exec "$BROWSER" ${1+"$@"}
-  fi
-
-  LAUNCH="`which \"$BROWSER\" 2> /dev/null`"
-  if [ -x "$LAUNCH" ] ; then
-    exec "$LAUNCH" ${1+"$@"}
-  fi
-fi
-
 # Try DESKTOP_LAUNCH
+
 if [ -n "$DESKTOP_LAUNCH" ] ; then
   if [ -x "$DESKTOP_LAUNCH" ] ; then
     exec "$DESKTOP_LAUNCH" ${1+"$@"}
@@ -31,14 +20,6 @@ case "$DESKTOP_SESSION" in
   kde)       SESSION=kde ;;
   gnome)     SESSION=gnome ;;
 esac
-
-if [ -z "$SESSION" ] ; then
-  WM="${WINDOWMANAGER##*/}"
-  case "$WM" in
-    *kde*)   SESSION=kde ;;
-    *gnome*) SESSION=gnome ;;
-  esac
-fi
 
 if [ -z "$SESSION" ] ; then
   if [ -n "$KDE_FULL_SESSION" ] ; then
@@ -71,12 +52,14 @@ case "$SESSION" in
   ;;
 esac
 
-for browser in /usr/bin/firefox \
-               /usr/X11R6/bin/Netscape \
-               /usr/bin/mozilla
+for browser in $BROWSER firefox mozilla netscape
 do
   if [ -x "${browser}" ] ; then
      exec "${browser}" ${1+"$@"}
+  fi
+  LAUNCH="`which \"$browser\" 2> /dev/null`"
+  if [ -x "$LAUNCH" ] ; then
+    exec "$LAUNCH" ${1+"$@"}
   fi
 done
 
