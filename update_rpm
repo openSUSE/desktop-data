@@ -5,6 +5,6 @@ tdir=`mktemp -d`
 cd $tdir || exit 1
 svn export http://svn/svn/desktop/trunk/desktop-data
 rm desktop-data/update_rpm
-tar -cvj -f $opwd/desktop-data.tar.bz2 destkop-data
+tar -cvj -f $opwd/desktop-data.tar.bz2 desktop-data
 cd /
 rm -rf $tdir
