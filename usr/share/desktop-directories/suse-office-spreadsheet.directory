@@ -4,15 +4,3 @@ Name=Spreadsheet
 Icon=kcalc
 
 Type=Directory
-Name[bg]=Пресмятане
-Name[cs]=Výpočty
-Name[de]=Tabellenkalkulation
-Name[fr]=Calcul
-Name[hu]=Táblázatkezelés
-Name[ko]=계산
-Name[lt]=Skaičiavimas
-Name[nl]=Calculatie
-Name[sk]=Výpočty
-Name[sv]=Beräkning
-Name[es]=Cálculo
-Name[sl_SI]=Preglednice

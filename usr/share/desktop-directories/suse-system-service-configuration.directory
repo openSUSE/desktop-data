@@ -5,15 +5,3 @@ Icon=energy
 
 Type=Directory
 X-SuSE-GeneralDescription=true
-Name[bg]=Настройка
-Name[cs]=Nastavení
-Name[de]=Dienstkonfiguration
-Name[fr]=Configuration
-Name[hu]=Szolgáltatások beállítása
-Name[ko]=설정
-Name[lt]=Konfigūracija
-Name[nl]=Configuratie
-Name[sk]=Konfigurácia
-Name[sv]=Inställningar
-Name[es]=Configuración
-Name[sl_SI]=Prilagoditev

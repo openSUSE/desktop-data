@@ -4,14 +4,3 @@ Name=Sequencer
 Icon=kcmmidi
 
 Type=Directory
-Name[bg]=Секуенсер
-Name[cs]=Sekvencér
-Name[de]=Sequenzer
-Name[fr]=Séquenceur
-Name[hu]=Szekvenszer
-Name[ko]=전자 악기
-Name[lt]=Sekvenseris
-Name[nl]=Sequencer
-Name[sk]=Sequencer
-Name[sv]=Sequencer
-Name[es]=Secuenciador

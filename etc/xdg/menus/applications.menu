@@ -1246,6 +1246,11 @@
 		</Include>
                 <MergeFile>kde-settings.menu</MergeFile>
 	</Menu>
+	<Menu>
+		<Name>YaST</Name>
+		<Directory>suse-yast.directory</Directory>
+                <MergeFile>yast-settings.menu</MergeFile>
+	</Menu>
         <Move>
            <Old>YaST</Old><New>Settings/YaST</New>
         </Move>

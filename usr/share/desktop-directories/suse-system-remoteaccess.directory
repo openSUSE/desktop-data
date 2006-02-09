@@ -5,14 +5,3 @@ Icon=remote
 
 Type=Directory
 X-SuSE-GeneralDescription=true
-Name[bg]=Отдалечен достъп
-Name[cs]=Vzdálený přístup
-Name[de]=Verbindung zu Fremdrechner
-Name[fr]=Accès à distance
-Name[hu]=Távoli elérés
-Name[ko]=원격 접속
-Name[lt]=Nuotolinė prieiga
-Name[nl]=Remote toegang
-Name[sk]=Vzdialený prístup
-Name[sv]=Fjärråtkomst
-Name[sl_SI]=Oddaljeni dostop

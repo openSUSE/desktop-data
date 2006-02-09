@@ -4,16 +4,3 @@ Name=Dictionary
 Icon=contents
 
 Type=Directory
-Name[bg]=Речник
-Name[cs]=Slovník
-Name[de]=Wörterbuch
-Name[fr]=Dictionnaire
-Name[hu]=Szótár
-Name[ja]=辞典
-Name[ko]=디렉토리
-Name[lt]=Žodynas
-Name[nl]=Woordenboek
-Name[sk]=Slovník
-Name[sv]=Ordbok
-Name[es]=Diccionario
-Name[sl_SI]=Slovarji

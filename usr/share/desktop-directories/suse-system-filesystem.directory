@@ -5,15 +5,3 @@ Icon=kcmpartitions
 
 Type=Directory
 X-SuSE-GeneralDescription=true
-Name[bg]=Файлова система
-Name[cs]=Souborový systém
-Name[de]=Dateisystem
-Name[fr]=Système de fichiers
-Name[hu]=Fájlrendszer
-Name[ko]=파일 시스템
-Name[lt]=Bylų sistema
-Name[nl]=Bestandssysteem
-Name[sk]=Súborový systém
-Name[sv]=Filsystem
-Name[es]=Sistema de archivos
-Name[sl_SI]=Datotečni sistem

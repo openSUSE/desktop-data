@@ -1,21 +1,6 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Card Games
-Name[ca]=Jocs de cartes
-Name[cs]=Karetní hry
-Name[da]=Kortspil
-Name[de]=Kartenspiele
-Name[es]=Juegos de cartas
-Name[et]=Kaardimängud
-Name[fi]=Korttipelit
-Name[hu]=Kártyajátékok
-Name[it]=Giochi di carte
-Name[nl]=Kaartspellen
-Name[pt]=Jogos de Cartas
-Name[pt_BR]=Jogos de Cartas 
-Name[sv]=Kortspel
-Name[tr]=Kart Oyunları
-Name[uz]=Қарта ўйинлари
 Icon=package_games_card
 X-KDE-SuppressGenericNames=Game,Card Game
 Type=Directory

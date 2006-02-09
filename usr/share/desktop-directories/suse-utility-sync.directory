@@ -4,15 +4,3 @@ Name=Sync
 Icon=multisynk
 
 Type=Directory
-Name[bg]=Синхронизация
-Name[cs]=Synchronizace
-Name[de]=Synchronisieren
-Name[fr]=Sync
-Name[hu]=Adatszinkronizáció
-Name[ko]=동기화
-Name[lt]=Sync
-Name[nl]=Sync
-Name[sk]=Synchronizácia
-Name[sv]=Synkronisering
-Name[es]=Sincronización
-Name[sl_SI]=Usklajevanje (sync)

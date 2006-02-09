@@ -4,15 +4,3 @@ Name=Image Editing
 Icon=package_graphics
 
 Type=Directory
-Name[bg]=Растерна графика
-Name[cs]=Rastrová grafika
-Name[de]=Bildbearbeitung
-Name[fr]=Infographie par quadrillage
-Name[hu]=Bittérképes grafika
-Name[ko]=래스터 그래픽
-Name[lt]=Taškinė grafika
-Name[nl]=Grafisch raster
-Name[sk]=Bitmapová grafika
-Name[sv]=Rastergrafik
-Name[es]=Gráficos raster
-Name[sl_SI]=Rasterska grafika

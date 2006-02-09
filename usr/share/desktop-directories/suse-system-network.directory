@@ -5,15 +5,3 @@ Icon=nfs_unmount
 
 Type=Directory
 X-SuSE-GeneralDescription=true
-Name[bg]=Мрежа
-Name[cs]=Síť
-Name[de]=Netzwerk
-Name[fr]=Réseau
-Name[hu]=Hálózat
-Name[ko]=네트웍
-Name[lt]=Tinklas
-Name[nl]=Netwerk
-Name[sk]=Sieť
-Name[sv]=Nätverk
-Name[es]=Red
-Name[sl_SI]=Omrežje
