@@ -4,15 +4,3 @@ Name=Document Viewer
 Icon=kfind
 
 Type=Directory
-Name[bg]=Преглед на документи
-Name[cs]=Prohlížeč dokumentů
-Name[de]=Dokumentenansicht
-Name[fr]=Visualiseur de documents
-Name[hu]=Dokumentum-megjelenítő
-Name[ko]=문서 뷰어
-Name[lt]=Dokumentų žiūryklė
-Name[nl]=Document viewer
-Name[sk]=Prehliadač dokumentov
-Name[sv]=Dokumentvisare
-Name[es]=Visor de documentos
-Name[sl_SI]=Pregledovalniki dokumentov

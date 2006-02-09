@@ -4,15 +4,3 @@ Name=Flowchart
 Icon=randr
 
 Type=Directory
-Name[bg]=Flowchart
-Name[cs]=Diagramy
-Name[de]=Flussdiagramm
-Name[fr]=Organigramme
-Name[hu]=Folyamatábra
-Name[ko]=순서도
-Name[lt]=Blokinė schema
-Name[nl]=Stroomschema
-Name[sk]=Diagramy
-Name[sv]=Flödesschema
-Name[es]=Diagramas
-Name[sl_SI]=Diagrami poteka

@@ -5,15 +5,3 @@ Icon=emulator
 
 Type=Directory
 X-SuSE-GeneralDescription=true
-Name[bg]=Емулатор
-Name[cs]=Emulátor
-Name[de]=Emulator
-Name[fr]=Émulateur
-Name[hu]=Emulátorok
-Name[ko]=에뮬레이터
-Name[lt]=Emuliatorius
-Name[nl]=Emulator
-Name[sk]=Emulátor
-Name[sv]=Emulator
-Name[es]=Emulador
-Name[sl_SI]=Posnemovalniki (emulatorji)

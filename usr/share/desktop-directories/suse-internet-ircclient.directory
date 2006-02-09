@@ -4,15 +4,3 @@ Name=IRC Client
 Icon=gv
 
 Type=Directory
-Name[bg]=IRC клиент
-Name[cs]=IRC klient
-Name[de]=IRC Programm
-Name[fr]=Client IRC
-Name[hu]=IRC kliens
-Name[ko]=IRC 클라이언트
-Name[lt]=IRC klientas
-Name[nl]=IRC cliënt
-Name[sk]=Klient IRC
-Name[sv]=IRC-klient
-Name[es]=Cliente IRC
-Name[sl_SI]=IRC odjemalec

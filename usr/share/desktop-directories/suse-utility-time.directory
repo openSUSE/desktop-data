@@ -4,15 +4,3 @@ Name=Time
 Icon=clock
 
 Type=Directory
-Name[bg]=Време
-Name[cs]=Čas
-Name[de]=Zeit
-Name[fr]=Temps
-Name[hu]=Óra és idő
-Name[ko]=시간
-Name[lt]=Laikas
-Name[nl]=Tijd
-Name[sk]=Čas
-Name[sv]=Tid
-Name[es]=Hora
-Name[sl_SI]=Čas

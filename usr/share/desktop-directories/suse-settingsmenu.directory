@@ -1,23 +1,5 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Settings
-Name[ca]=Preferències
-Name[cs]=Nastavení
-Name[da]=Opsætning
-Name[de]=Einstellungen
-Name[es]=Preferencias
-Name[et]=Seadistused
-Name[fi]=Asetukset
-Name[hu]=Beállítások
-Name[it]=Impostazioni
-Name[nb]=Innstillinger
-Name[nl]=Instellingen
-Name[nn]=Innstillingar
-Name[pt]=Preferências
-Name[pt_BR]=Configurações
-Name[se]=Heivehusat
-Name[sv]=Inställningar
-Name[tr]=Ayarlar
-Name[uz]=Мосламалар
 Icon=package_settings
 Type=Directory

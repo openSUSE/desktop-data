@@ -5,15 +5,3 @@ Icon=tux
 
 Type=Directory
 X-SuSE-GeneralDescription=true
-Name[bg]=Настройка на услуги
-Name[cs]=Nastavení služeb
-Name[de]=Konfiguration
-Name[fr]=Configuration
-Name[hu]=Beállítás
-Name[ko]=서비스 설정
-Name[lt]=konfigūravimas
-Name[nl]=Configuratie
-Name[sk]=Konfigurácia
-Name[sv]=Konfiguration
-Name[es]=Configuración
-Name[sl_SI]=Prilagoditev/nastavitev servisov

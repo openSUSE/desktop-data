@@ -4,15 +4,3 @@ Name=Calculator
 Icon=kcalc
 
 Type=Directory
-Name[bg]=Калкулатор
-Name[cs]=Kalkulačka
-Name[de]=Rechner
-Name[fr]=Calculatrice
-Name[hu]=Számológép
-Name[ko]=계산기
-Name[lt]=Skaičiuoklis
-Name[nl]=Calculator
-Name[sk]=Kalkulačka
-Name[sv]=Miniräknare
-Name[es]=Calculadora
-Name[sl_SI]=Kalkulator

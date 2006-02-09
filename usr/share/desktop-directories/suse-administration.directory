@@ -3,17 +3,5 @@ Encoding=UTF-8
 Name=Administration
 Icon=wizard
 Type=Directory
-Name[bg]=Администриране
-Name[cs]=Správa systému
-Name[de]=Verwaltung
-Name[fr]=Administration
-Name[hu]=Rendszerkarbantartás
-Name[ko]=관리
-Name[lt]=Administravimas
-Name[nl]=Administratie
-Name[sk]=Administrácia
-Name[sv]=Administration
-Name[es]=Administración
-Name[sl_SI]=Administracija
 X-SuSE-GeneralDescription=false
 

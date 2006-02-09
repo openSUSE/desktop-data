@@ -4,14 +4,3 @@ Name=Archiving
 Icon=folder_tar
 Type=Directory
 
-Name[bg]=Архивиране
-Name[cs]=Archivace
-Name[de]=Archivierung
-Name[fr]=Archivage
-Name[hu]=Archiválás
-Name[ko]=파일 보관
-Name[lt]=Glaudinimas
-Name[nl]=Archivering
-Name[sk]=Archivácia
-Name[sv]=Arkivering
-Name[es]=Archivador

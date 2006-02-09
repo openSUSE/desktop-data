@@ -4,15 +4,3 @@ Name=Scanning
 Icon=scanner
 
 Type=Directory
-Name[bg]=Сканиране
-Name[cs]=Skenování
-Name[de]=Scannen
-Name[fr]=Scanneur
-Name[hu]=Lapolvasás
-Name[ko]=스캐닝
-Name[lt]=Skenavimas
-Name[nl]=Scannen
-Name[sk]=Skenovanie
-Name[sv]=Inläsning
-Name[es]=Escáner
-Name[sl_SI]=Optično branje (skeniranje)

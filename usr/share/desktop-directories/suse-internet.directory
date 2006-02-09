@@ -1,11 +1,6 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Internet
-Name[nb]=Internett
-Name[nn]=Internett
-Name[se]=Fierpmádat
-Name[tr]=İnternet
-Name[uz]=Интернет
 Icon=package_network
 
 Type=Directory

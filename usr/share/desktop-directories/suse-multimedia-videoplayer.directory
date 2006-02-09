@@ -4,6 +4,3 @@ Name=Video Player
 Icon=package_multimedia
 
 Type=Directory
-Name[de]=Video Wiedergabe
-Name[cs]=Video přehrávače
-Name[hu]=Videólejátszók

@@ -4,15 +4,3 @@ Name=Volume Control
 Icon=kmix
 
 Type=Directory
-Name[bg]=Управление силата на звука
-Name[cs]=Nastavení hlasitosti
-Name[de]=Lautstärkeregler
-Name[fr]=Contrôle du volume
-Name[hu]=Keverőpult
-Name[ko]=볼륨 제어
-Name[lt]=Garsumo valdymas
-Name[nl]=Volume besturing
-Name[sk]=Ovládanie hlasitosti
-Name[sv]=Volymkontroll
-Name[es]=Control del volumen
-Name[sl_SI]=Glasnost

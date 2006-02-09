@@ -4,7 +4,4 @@ Type=Directory
 Name=Backup
 Icon=hdd_unmount
 
-Name[de]=Datensicherung
-Name[cs]=Zálohování
-Name[hu]=Biztonsági mentés
 

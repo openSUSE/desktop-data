@@ -4,15 +4,3 @@ Name=Translation
 Icon=kbabel
 
 Type=Directory
-Name[bg]=Превод
-Name[cs]=Překlady
-Name[de]=Übersetzen
-Name[fr]=Traduction
-Name[hu]=Fordítás
-Name[ko]=번역
-Name[lt]=Vertimas
-Name[nl]=Vertaalwerk
-Name[sk]=Preklad
-Name[sv]=Översättning
-Name[es]=Traducción
-Name[sl_SI]=Prevajanje

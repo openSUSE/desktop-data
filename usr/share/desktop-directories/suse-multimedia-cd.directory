@@ -4,15 +4,3 @@ Name=CD Player
 Icon=cdaudio_unmount
 
 Type=Directory
-Name[bg]=CD плейър
-Name[cs]=CD přehrávač
-Name[de]=CD Spieler
-Name[fr]=Lecteur CD
-Name[hu]=CD lejátszó
-Name[ko]=CD 재생기
-Name[lt]=CD grotuvas
-Name[nl]=CD speler
-Name[sk]=CD prehrávač
-Name[sv]=Cd-spelare
-Name[es]=Reproductor de CD
-Name[sl_SI]=CD predvajalniki

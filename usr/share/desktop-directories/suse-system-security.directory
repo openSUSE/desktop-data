@@ -5,15 +5,3 @@ Icon=encrypted
 
 Type=Directory
 X-SuSE-GeneralDescription=true
-Name[bg]=Сигурност
-Name[cs]=Bezpečnost
-Name[de]=Sicherheit
-Name[fr]=Sécurité
-Name[hu]=Biztonság
-Name[ko]=보안
-Name[lt]=Apsauga
-Name[nl]=Beveiliging
-Name[sk]=Bezpečnosť
-Name[sv]=Säkerhet
-Name[es]=Seguridad
-Name[sl_SI]=Varnost
