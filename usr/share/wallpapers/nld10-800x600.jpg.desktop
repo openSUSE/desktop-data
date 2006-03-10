@@ -3,4 +3,4 @@ Encoding=UTF-8
 File=nld10-800x600.jpg
 Name=Default SUSE (800x600)
 ImageType=pixmap
-Hidden=True
+Hidden=true
