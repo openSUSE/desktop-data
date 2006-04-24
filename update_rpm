@@ -4,7 +4,7 @@ opwd=$PWD
 tdir=`mktemp -d`
 cd $tdir || exit 1
 svn export http://svn.suse.de/svn/desktop/branches/Code10-Desktop/desktop-data
-rm desktop-data/update_rpm
+rm desktop-data/update_rpm desktop-data/merge_suse
 tar -cvj -f $opwd/desktop-data.tar.bz2 desktop-data
 cd /
 rm -rf $tdir
