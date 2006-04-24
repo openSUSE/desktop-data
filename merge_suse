@@ -1,0 +1,8 @@
+svn up
+last=`svn pg last:merge`
+new=`LC_ALL=C svn info | grep Revision: | sed -e "s,.*: ,,"`
+echo svn merge -r$last:$new http://svn.suse.de/svn/desktop/trunk/desktop-data
+svn merge -r$last:$new http://svn.suse.de/svn/desktop/trunk/desktop-data
+svn ps last:merge $new .
+
+echo "svn commit -m 'merged $last:$new'"
