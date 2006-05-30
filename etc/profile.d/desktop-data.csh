@@ -4,3 +4,5 @@ if ( -r /etc/sysconfig/windowmanager ) then
   setenv XCURSOR_THEME "$X_MOUSE_CURSOR"
 endif
 
+setenv QT_HOME_DIR /usr/share/desktop-data
+
