@@ -35,13 +35,8 @@ GNOME_DIR="/opt/gnome"
 
 case "$SESSION" in
   kde)
-    if [ "${1:0:5}" == "mailto:" ]; then 
-       HANDLER="exec" 
-    else 
-       HANDLER="openURL" 
-    fi 
     if [ -x "${KDE_DIR}/bin/kfmclient" ] ; then
-       exec "${KDE_DIR}/bin/kfmclient" $HANDLER ${1+"$@"}
+       exec "${KDE_DIR}/bin/kfmclient" exec ${1+"$@"}
     fi
   ;;
 
