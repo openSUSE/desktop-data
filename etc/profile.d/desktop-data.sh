@@ -5,5 +5,5 @@ if [ -r /etc/sysconfig/windowmanager ]; then
   export XCURSOR_THEME
 fi
 
-export QT_HOME_DIR=/usr/share/desktop-data
+export QT_SYSTEM_DIR=/usr/share/desktop-data
 
