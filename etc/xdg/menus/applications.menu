@@ -207,6 +207,7 @@
 				<Category>News</Category>
 				<Category>X-SuSE-RSS-News</Category>
 				<Category>SystemSetup</Category>
+				<Category>X-SuSE-ControlCenter-Personal</Category>
 				<Category>FileTransfer</Category>
 				<Category>P2P</Category>
 				<Category>RemoteAccess</Category>
@@ -838,6 +839,7 @@
 				<Category>TerminalEmulator</Category>
 				<Category>Network</Category>
 				<Category>SystemSetup</Category>
+				<Category>X-SuSE-ControlCenter-Personal</Category>
 				<Category>PackageManager</Category>
 				<Category>Utility</Category>
 				<Category>Applet</Category>
@@ -944,6 +946,7 @@
 				<Category>HardwareSettings</Category>
 				<Category>SystemSetup</Category>
 				<Category>PackageManager</Category>
+				<Category>X-SuSE-ControlCenter-Personal</Category>
 			</Include>
 		</Menu>
 		<Menu>
