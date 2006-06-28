@@ -3,6 +3,9 @@ font=Sans Serif,10,-1,5,50,0,0,0,0,0
 style=plastik
 enableXft=true
 useXft=true
+XIMInputStyle=On The Spot
+resolveSymlinks=false
+useRtlExtensions=true
 
 [3.3]
 libraryPath=/opt/kde3/lib64/kde3/plugins/:/opt/kde3/lib/kde3/plugins
