@@ -19,9 +19,13 @@ disabled=#808080^e#fffaed^e#ffffff^e#ffffff^e#595856^e#d1cfc9^e#d1cfc9^e#ffffff^
 inactive=#000000^e#fffaed^e#ffffff^e#ffffff^e#595856^e#d1cfc9^e#101010^e#ffffff^e#101010^e#ffffff^e#fbf8f1^e#000000^e#5a81b4^e#ffffff^e#4072b4^e#8e79b0^e
 
 [General]
-libraryPath=/opt/kde3/lib64/kde3/plugins/:/opt/kde3/lib/kde3/plugins
 font=Sans Serif,10,-1,5,50,0,0,0,0,0
 style=plastik
 enableXft=true
 useXft=true
+useRtlExtensions=true
+resolveSymlinks=false
+XIMInputStyle=On The Spot
 
+[3.3]
+libraryPath=/opt/kde3/lib64/kde3/plugins/:/opt/kde3/lib/kde3/plugins
