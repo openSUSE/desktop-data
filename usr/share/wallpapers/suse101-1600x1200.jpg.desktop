@@ -1,3 +1,5 @@
 [Wallpaper]
-File=suse101-1600x1200.jpg
-Hidden=true
+Encoding=UTF-8
+File=default-1600x1200.jpg
+Name=Default SUSE 10.1 (1600x1200)
+ImageType=pixmap
