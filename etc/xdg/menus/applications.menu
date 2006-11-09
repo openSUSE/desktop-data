@@ -1209,7 +1209,6 @@
 			<Name>Monitor</Name>
 			<Directory>suse-system-monitor.directory</Directory>
 			<Include>
-				<Category>X-KDE-information</Category>
 				<And>
 				<Category>System</Category>
 				<Category>Monitor</Category>
