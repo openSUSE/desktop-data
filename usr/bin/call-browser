@@ -47,7 +47,7 @@ case "$SESSION" in
   ;;
 esac
 
-for browser in $BROWSER firefox mozilla netscape
+for browser in $BROWSER firefox seamonkey opera
 do
   if [ -x "${browser}" ] ; then
      exec "${browser}" ${1+"$@"}
