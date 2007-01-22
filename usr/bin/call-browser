@@ -31,7 +31,7 @@ if [ -z "$SESSION" ] ; then
 fi
 
 KDE_DIR="/opt/kde3"
-GNOME_DIR="/opt/gnome"
+GNOME_DIR="/usr"
 
 case "$SESSION" in
   kde)
