@@ -1,7 +1,7 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Security
-Icon=encrypted
+Icon=package_system_security
 
 Type=Directory
 X-SuSE-GeneralDescription=true

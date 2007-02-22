@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Directory
-Icon=system
+Icon=package_yast_system
 Name=System
 
 NoDisplay=true

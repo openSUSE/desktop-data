@@ -1,5 +1,5 @@
 [Desktop Entry]
 Type=Directory
-Icon=network
+Icon=package_yast_network
 Name=Network Devices
 NoDisplay=true

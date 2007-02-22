@@ -1,7 +1,7 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Emulator
-Icon=emulator
+Icon=package_system_emulator
 
 Type=Directory
 X-SuSE-GeneralDescription=true

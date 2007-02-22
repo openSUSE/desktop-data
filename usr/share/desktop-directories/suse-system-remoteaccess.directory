@@ -1,7 +1,7 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Remote Access
-Icon=remote
+Icon=package_system_remoteaccess
 
 Type=Directory
 X-SuSE-GeneralDescription=true

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Desktop Applet
-Icon=desktop
+Icon=package_system_applet
 
 Type=Directory
 X-SuSE-GeneralDescription=true

@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Directory
-Icon=software
+Icon=package_yast_software
 Name=Software
 
 NoDisplay=true

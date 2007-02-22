@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Directory
-Icon=network_advanced
+Icon=package_yast_netAdvanced
 Name=Network Services
 
 NoDisplay=true

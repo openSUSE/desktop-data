@@ -1,7 +1,7 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=File System
-Icon=kcmpartitions
+Icon=package_system_filesystem
 
 Type=Directory
 X-SuSE-GeneralDescription=true

@@ -1,7 +1,7 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Service Configuration
-Icon=energy
+Icon=package_system_service-configuration
 
 Type=Directory
 X-SuSE-GeneralDescription=true

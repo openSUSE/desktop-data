@@ -1,5 +1,5 @@
 [Desktop Entry]
 Type=Directory
-Icon=apparmor/app_armor
+Icon=package_yast_apparmor
 Name=AppArmor
 NoDisplay=true

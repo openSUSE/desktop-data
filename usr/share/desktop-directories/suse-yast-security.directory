@@ -1,5 +1,5 @@
 [Desktop Entry]
 Type=Directory
-Icon=security
+Icon=package_yast_security
 Name=Security and Users
 NoDisplay=true
