@@ -58,6 +58,7 @@
 			</Include>
 			<Exclude>
 				<Filename>realplay.desktop</Filename>
+                                <Filename>kde-realplay-kde.desktop</Filename>
 			</Exclude>
 		</Menu>
 		<Menu>
