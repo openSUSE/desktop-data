@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=YaST2 Modules
-Comment=YaST2 Modules
 Type=Directory
 Icon=package_settings
 NoDisplay=true
+Encoding=UTF-8
+

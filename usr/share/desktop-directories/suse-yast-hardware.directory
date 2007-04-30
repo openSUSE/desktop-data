@@ -4,3 +4,4 @@ Icon=package_yast_hardware
 Name=Hardware
 
 NoDisplay=true
+Encoding=UTF-8

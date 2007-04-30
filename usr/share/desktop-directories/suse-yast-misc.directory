@@ -3,3 +3,5 @@ Type=Directory
 Icon=package_yast_misc
 Name=Misc
 NoDisplay=true
+Encoding=UTF-8
+

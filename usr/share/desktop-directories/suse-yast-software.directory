@@ -4,3 +4,5 @@ Icon=package_yast_software
 Name=Software
 
 NoDisplay=true
+Encoding=UTF-8
+
