@@ -1090,6 +1090,7 @@
 				<Category>X-SuSE-ServiceConfiguration</Category>
 				<Category>X-KDE-Settings-Hardware</Category>
 				<Category>Security</Category>
+				<Category>X-SuSE-YaST-Virtualization</Category>
 				</Not>
 				</And>
 				</Include>
@@ -1229,6 +1230,13 @@
 			<Directory>suse-system-remoteaccess.directory</Directory>
 			<Include>
 				<Category>RemoteAccess</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Virtualization</Name>
+			<Directory>suse-system-virtualization.directory</Directory>
+			<Include>
+				<Category>X-SuSE-YaST-Virtualization</Category>
 			</Include>
 		</Menu>
 		<Menu>
