@@ -803,6 +803,7 @@
 				<Category>Chart</Category>
 				<Category>FlowChart</Category>
 				<Category>PDFViewer</Category>
+				<Category>X-SuSE-PDFViewer</Category>
 				<Category>Viewer</Category>
 				<Category>X-SuSE-Editor</Category>
 				<Category>X-SuSE-AddressBook</Category>
@@ -848,6 +849,7 @@
 			<Directory>suse-office-documentviewer.directory</Directory>
 			<Include>
 				<Category>PDFViewer</Category>
+				<Category>X-SuSE-PDFViewer</Category>
 				<And>
 				<Category>Office</Category>
 				<Category>Viewer</Category>
