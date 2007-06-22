@@ -271,7 +271,6 @@
 				<Category>3DGame</Category>
 				<Category>Amusement</Category>
 				<Category>PlatformGame</Category>
-				<Category>PuzzleGame</Category>
 				<Category>SportsGame</Category>
 				<Category>FirstPersonGame</Category>
 				<Category>AdventureGame</Category>
@@ -349,7 +348,6 @@
 			<Name>Puzzle</Name>
 			<Directory>suse-games-puzzle.directory</Directory>
 			<Include>
-				<Category>PuzzleGame</Category>
 				<Category>LogicGame</Category>
 			</Include>
 		</Menu>
