@@ -162,7 +162,7 @@
         </box>
       </item>
       <item type="rect" id="system_button" button="true">
-        <show type="reboot" modes="console"/>
+	      <!-- must not be there see bug 295794    <show type="reboot" modes="console"/> -->
         <pos y="50%" width="box" height="100%" anchor="w"/>
         <box xpadding="0" spacing="2" orientation="horizontal">
           <item type="pixmap">
