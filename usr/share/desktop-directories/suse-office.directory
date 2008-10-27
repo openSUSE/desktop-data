@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Office
+Icon=package_wordprocessing
+SortOrder=koshell.desktop,kword.desktop,kspread.desktop,kpresenter.desktop
+Type=Directory

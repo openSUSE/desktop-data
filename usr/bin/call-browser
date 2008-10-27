@@ -1,0 +1,64 @@
+#! /bin/bash
+
+# Try DESKTOP_LAUNCH
+
+if [ -n "$DESKTOP_LAUNCH" ] ; then
+  if [ -x "$DESKTOP_LAUNCH" ] ; then
+    exec "$DESKTOP_LAUNCH" ${1+"$@"}
+  fi
+
+  LAUNCH="`which \"$DESKTOP_LAUNCH\" 2> /dev/null`"
+  if [ -x "$LAUNCH" ] ; then
+    exec "$LAUNCH" ${1+"$@"}
+  fi
+fi
+
+# DESKTOP_LAUNCH not defined, we have to guess...
+
+SESSION=
+case "$DESKTOP_SESSION" in
+  kde)       SESSION=kde ;;
+  gnome)     SESSION=gnome ;;
+esac
+
+if [ -z "$SESSION" ] ; then
+  if [ -n "$KDE_FULL_SESSION" ] ; then
+    SESSION=kde
+  fi
+  if [ -n "$GNOME_DESKTOP_SESSION_ID" ] ; then
+    SESSION=gnome
+  fi
+fi
+
+KDE_DIR="/opt/kde3"
+GNOME_DIR="/opt/gnome"
+
+case "$SESSION" in
+  kde)
+    if [ -x "${KDE_DIR}/bin/kfmclient" ] ; then
+       exec "${KDE_DIR}/bin/kfmclient" exec ${1+"$@"}
+    fi
+  ;;
+
+  gnome)
+    if [ -x "${GNOME_DIR}/bin/gnome-open" ] ; then
+       exec "${GNOME_DIR}/bin/gnome-open" ${1+"$@"}
+    fi
+  ;;
+esac
+
+for browser in $BROWSER firefox mozilla netscape
+do
+  if [ -x "${browser}" ] ; then
+     exec "${browser}" ${1+"$@"}
+  fi
+  LAUNCH="`which \"$browser\" 2> /dev/null`"
+  if [ -x "$LAUNCH" ] ; then
+    exec "$LAUNCH" ${1+"$@"}
+  fi
+done
+
+xmessage -center "Unable to launch $1.
+No browser was found."
+
+exit 1
