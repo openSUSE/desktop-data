@@ -1286,7 +1286,7 @@
         </Move>
 	<Menu>
 		<Name>GNOME Settings</Name>
-		<MergeFile>preferences.menu</MergeFile>
+		<MergeFile>settings.menu</MergeFile>
 		<Directory>Hidden.directory</Directory>
 	</Menu>
 	<DefaultMergeDirs/>
