@@ -828,6 +828,7 @@
 				<And>
 				<Category>System</Category>
 				<Not>
+				<Category>X-SuSE-YaST</Category>
 				<Category>X-SuSE-Core-System</Category>
 				<Category>HardwareSettings</Category>
 				<Category>Emulator</Category>
@@ -1175,7 +1176,7 @@
         </Move>
 	<Menu>
 		<Name>GNOME Settings</Name>
-		<MergeFile>preferences.menu</MergeFile>
+		<MergeFile>settings.menu</MergeFile>
 		<Directory>Hidden.directory</Directory>
 	</Menu>
 	<DefaultMergeDirs/>
