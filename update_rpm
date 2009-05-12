@@ -3,8 +3,9 @@
 opwd=$PWD
 tdir=`mktemp -d`
 cd $tdir || exit 1
-svn export http://svn/svn/desktop/trunk/desktop-data
+git clone git://git.opensuse.org/projects/desktop/desktop-data.git
 rm desktop-data/update_rpm
+rm -rf desktop-data/.git
 tar -cvj -f $opwd/desktop-data.tar.bz2 desktop-data
 cd /
 rm -rf $tdir
