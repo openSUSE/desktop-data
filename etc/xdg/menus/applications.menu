@@ -167,7 +167,6 @@
 				<Category>ComputerScience</Category>
 				<Category>Biology</Category>
 				<Category>Economy</Category>
-				<Category>Geography</Category>
 				<Category>Geology</Category>
 				<Category>Geoscience</Category>
 				<Category>History</Category>
@@ -187,6 +186,7 @@
 				<Category>DataVisualization</Category>
 				<Category>Engineering</Category>
 				<Category>Electricity</Category>
+				<Category>Geography</Category>
 				<Category>Art</Category>
 				<Category>Math</Category>
 				<Category>NumericalAnalysis</Category>
@@ -256,6 +256,13 @@
 			<Directory>suse-edutainment-astronomy.directory</Directory>
 			<Include>
 				<Category>Astronomy</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Geographyy</Name>
+			<Directory>suse-edutainment-geography.directory</Directory>
+			<Include>
+				<Category>Geography</Category>
 			</Include>
 		</Menu>
 		<Menu>
