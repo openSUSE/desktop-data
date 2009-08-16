@@ -989,10 +989,6 @@
 				<Category>Utility</Category>
 				<Category>Settings</Category>
 				</And>
-				<And>
-				<Category>Utility</Category>
-				<Category>Accessibility</Category>
-				</And>
 				<Category>DesktopSettings</Category>
 				<Category>X-SuSE-DesktopUtility</Category>
 			</Include>
@@ -1003,6 +999,13 @@
 			<Include>
 				<Category>TextEditor</Category>
 				<Category>X-SuSE-Editor</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Accessibility</Name>
+			<Directory>suse-utility-accessibility.directory</Directory>
+			<Include>
+				<Category>Accessibility</Category>
 			</Include>
 		</Menu>
 		<Menu>
@@ -1112,6 +1115,7 @@
 				<Category>FileManager</Category>
 				<Category>Filesystem</Category>
 				<Category>Archiving</Category>
+				<Category>Accessibility</Category>
 				<Category>X-SuSE-Backup</Category>
 				<Category>X-SuSE-ServiceConfiguration</Category>
 				<Category>X-KDE-Settings-Hardware</Category>
