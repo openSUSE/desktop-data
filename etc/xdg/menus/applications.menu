@@ -8,7 +8,7 @@
 	<KDELegacyDirs/>
 	<DefaultAppDirs/>
 	<DefaultDirectoryDirs/>
-        <DefaultLayout inline="true" inline_value="1"/>
+        <DefaultLayout inline="true" inline_limit="1"/>
 
 	<Include>
 		<Category>X-SuSE-core</Category>
