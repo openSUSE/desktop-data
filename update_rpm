@@ -3,7 +3,7 @@
 opwd=$PWD
 tdir=`mktemp -d`
 cd $tdir || exit 1
-git clone git://git.opensuse.org/projects/desktop/desktop-data.git
+git clone git://gitorious.org/opensuse/desktop-data.git
 rm desktop-data/update_rpm
 rm -rf desktop-data/.git
 tar -cvj -f $opwd/desktop-data.tar.bz2 desktop-data
