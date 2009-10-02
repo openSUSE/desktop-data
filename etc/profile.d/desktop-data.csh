@@ -27,10 +27,6 @@ if ( -r /etc/sysconfig/windowmanager) then
 	   set location=local
 	   breaksw
 	endsw
-    else
-	if ( "${location}" == "`hostname -f`" ) then
-	    set location=local
-	endif
     endif
     if ( "$location" == "local" ) then
 	eval `sed -n -e 's/^\(X_MOUSE_CURSOR\) *=/set \1=/p' < /etc/sysconfig/windowmanager`

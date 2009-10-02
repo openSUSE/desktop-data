@@ -12,10 +12,6 @@ if test -r /etc/sysconfig/windowmanager; then
         :0|:0.0) location=local ;; # console
         *)       location=local ;; # other displays
 	esac
-    else
-	if test "$location" = "$(hostname -f)" ; then
-	    location=local
-	fi
     fi
     if test "$location" = local ; then
 	. /etc/sysconfig/windowmanager
