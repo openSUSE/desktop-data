@@ -8,6 +8,7 @@ if test -d "$MY_DESKTOP_DATA_CHECKOUT"; then
     pushd desktop-data
     git checkout -f master
     git pull
+    git clean -x -d -f
     popd
 else
     git clone git://gitorious.org/opensuse/desktop-data.git
