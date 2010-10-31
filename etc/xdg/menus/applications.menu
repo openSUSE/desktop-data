@@ -8,7 +8,10 @@
 	<KDELegacyDirs/>
 	<DefaultAppDirs/>
 	<DefaultDirectoryDirs/>
-        <DefaultLayout inline="true" inline_limit="1"/>
+	<DefaultLayout inline="true" inline_limit="1">
+		<Merge type="menus"/>
+		<Merge type="files"/>
+	</DefaultLayout>
 
 	<Include>
 		<Category>X-SuSE-core</Category>
