@@ -1297,9 +1297,8 @@
            <Old>YaST</Old><New>Settings/YaST</New>
         </Move>
 	<Menu>
-		<Name>GNOME Settings</Name>
-		<Directory>suse-settings.directory</Directory>
-		<MergeFile>settings.menu</MergeFile>
+		<Name>KDE 3 Settings</Name>
+		<Directory>Hidden.directory</Directory>
 	</Menu>
 	<DefaultMergeDirs/>
 	<MergeFile>applications-kmenuedit.menu</MergeFile>
