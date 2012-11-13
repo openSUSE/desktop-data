@@ -684,7 +684,6 @@
 			<Name>VideoPlayer</Name>
 			<Directory>suse-multimedia-videoplayer.directory</Directory>
 			<Include>
-				<Category>Audio</Category>
 				<And>
 				<Category>AudioVideo</Category>
 				<Category>Player</Category>
