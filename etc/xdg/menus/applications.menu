@@ -162,42 +162,42 @@
 			<Directory>suse-edutainment-science.directory</Directory>
 			<Include>
 				<And>
-				<Category>Education</Category>
-				<Or>
-				<Category>Science</Category>
-				<Category>ComputerScience</Category>
-				<Category>Biology</Category>
-				<Category>Economy</Category>
-				<Category>Geology</Category>
-				<Category>Geoscience</Category>
-				<Category>History</Category>
-				<Category>ImageProcessing</Category>
-				<Category>Literature</Category>
-				<Category>MedicalSoftware</Category>
-				<Category>Physics</Category>
-				<Category>Robotics</Category>
-				<Category>Sports</Category>
-				<Category>Electronics</Category>
-				</Or>
-				<Not>
-				<Category>X-SuSE-Core-Edutainment</Category>
-				<Category>Astronomy</Category>
-				<Category>Chemistry</Category>
-				<Category>Construction</Category>
-				<Category>DataVisualization</Category>
-				<Category>Engineering</Category>
-				<Category>Electricity</Category>
-				<Category>Geography</Category>
-				<Category>Art</Category>
-				<Category>Math</Category>
-				<Category>NumericalAnalysis</Category>
-				<Category>Music</Category>
-				<Category>ParallelComputing</Category>
-				<Category>Languages</Category>
-				<Category>Teaching</Category>
-				<Category>X-KDE-Edu-Teaching</Category>
-				<Category>X-KDE-Edu-Language</Category>
-				</Not>
+					<Category>Education</Category>
+					<Or>
+						<Category>Science</Category>
+						<Category>ComputerScience</Category>
+						<Category>Biology</Category>
+						<Category>Economy</Category>
+						<Category>Geology</Category>
+						<Category>Geoscience</Category>
+						<Category>History</Category>
+						<Category>ImageProcessing</Category>
+						<Category>Literature</Category>
+						<Category>MedicalSoftware</Category>
+						<Category>Physics</Category>
+						<Category>Robotics</Category>
+						<Category>Sports</Category>
+						<Category>Electronics</Category>
+					</Or>
+					<Not>
+						<Category>X-SuSE-Core-Edutainment</Category>
+						<Category>Astronomy</Category>
+						<Category>Chemistry</Category>
+						<Category>Construction</Category>
+						<Category>DataVisualization</Category>
+						<Category>Engineering</Category>
+						<Category>Electricity</Category>
+						<Category>Geography</Category>
+						<Category>Art</Category>
+						<Category>Math</Category>
+						<Category>NumericalAnalysis</Category>
+						<Category>Music</Category>
+						<Category>ParallelComputing</Category>
+						<Category>Languages</Category>
+						<Category>Teaching</Category>
+						<Category>X-KDE-Edu-Teaching</Category>
+						<Category>X-KDE-Edu-Language</Category>
+					</Not>
 				</And>
 			</Include>
 		</Menu>
@@ -231,9 +231,9 @@
 			<Directory>suse-edutainment-music.directory</Directory>
 			<Include>
 				<And>
-				<Category>Education</Category>
-				<Category>Music</Category>
-				<Not><Category>AudioVideo</Category></Not>
+					<Category>Education</Category>
+					<Category>Music</Category>
+					<Not><Category>AudioVideo</Category></Not>
 				</And>
 			</Include>
 		</Menu>
