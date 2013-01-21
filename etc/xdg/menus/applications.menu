@@ -238,58 +238,14 @@
 		</Menu>
 	</Menu>
 	<Menu>
-		<Name>Edutainment</Name>
-		<Directory>suse-edutainment.directory</Directory>
+		<Name>Education</Name>
+		<Directory>suse-education.directory</Directory>
 		<Include>
-			<Category>X-SuSE-Core-Edutainment</Category>
+			<Category>X-SuSE-Core-Education</Category>
 		</Include>
 		<Menu>
-			<Name>Science</Name>
-			<Directory>suse-edutainment-science.directory</Directory>
-			<Include>
-				<And>
-					<Category>Education</Category>
-					<Or>
-						<Category>Science</Category>
-						<Category>ComputerScience</Category>
-						<Category>Biology</Category>
-						<Category>Economy</Category>
-						<Category>Geology</Category>
-						<Category>Geoscience</Category>
-						<Category>History</Category>
-						<Category>ImageProcessing</Category>
-						<Category>Literature</Category>
-						<Category>MedicalSoftware</Category>
-						<Category>Physics</Category>
-						<Category>Robotics</Category>
-						<Category>Sports</Category>
-						<Category>Electronics</Category>
-					</Or>
-					<Not>
-						<Category>X-SuSE-Core-Edutainment</Category>
-						<Category>Astronomy</Category>
-						<Category>Chemistry</Category>
-						<Category>Construction</Category>
-						<Category>DataVisualization</Category>
-						<Category>Engineering</Category>
-						<Category>Electricity</Category>
-						<Category>Geography</Category>
-						<Category>Art</Category>
-						<Category>Math</Category>
-						<Category>NumericalAnalysis</Category>
-						<Category>Music</Category>
-						<Category>ParallelComputing</Category>
-						<Category>Languages</Category>
-						<Category>Teaching</Category>
-						<Category>X-KDE-Edu-Teaching</Category>
-						<Category>X-KDE-Edu-Language</Category>
-					</Not>
-				</And>
-			</Include>
-		</Menu>
-		<Menu>
 			<Name>Languages</Name>
-			<Directory>suse-edutainment-languages.directory</Directory>
+			<Directory>suse-education-languages.directory</Directory>
 			<Include>
 				<Category>Languages</Category>
 				<Category>X-KDE-Edu-Language</Category>
@@ -297,7 +253,7 @@
 		</Menu>
 		<Menu>
 			<Name>Mathematics</Name>
-			<Directory>suse-edutainment-mathematics.directory</Directory>
+			<Directory>suse-education-mathematics.directory</Directory>
 			<Include>
 				<Category>DataVisualization</Category>
 				<Category>Math</Category>
@@ -307,14 +263,14 @@
 		</Menu>
 		<Menu>
 			<Name>Chemistry</Name>
-			<Directory>suse-edutainment-chemical.directory</Directory>
+			<Directory>suse-education-chemical.directory</Directory>
 			<Include>
 				<Category>Chemistry</Category>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Music</Name>
-			<Directory>suse-edutainment-music.directory</Directory>
+			<Directory>suse-education-music.directory</Directory>
 			<Include>
 				<And>
 					<Category>Education</Category>
@@ -325,7 +281,7 @@
 		</Menu>
 		<Menu>
 			<Name>Teaching</Name>
-			<Directory>suse-edutainment-teaching.directory</Directory>
+			<Directory>suse-education-teaching.directory</Directory>
 			<Include>
 				<Category>X-KDE-Edu-Teaching</Category>
 				<Category>Teaching</Category>
@@ -333,28 +289,28 @@
 		</Menu>
 		<Menu>
 			<Name>Art</Name>
-			<Directory>suse-edutainment-art.directory</Directory>
+			<Directory>suse-education-art.directory</Directory>
 			<Include>
 				<Category>Art</Category>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Astronomy</Name>
-			<Directory>suse-edutainment-astronomy.directory</Directory>
+			<Directory>suse-education-astronomy.directory</Directory>
 			<Include>
 				<Category>Astronomy</Category>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Geographyy</Name>
-			<Directory>suse-edutainment-geography.directory</Directory>
+			<Directory>suse-education-geography.directory</Directory>
 			<Include>
 				<Category>Geography</Category>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Construction</Name>
-			<Directory>suse-edutainment-construction.directory</Directory>
+			<Directory>suse-education-construction.directory</Directory>
 			<Include>
 				<Category>Electricity</Category>
 				<Category>Engineering</Category>
