@@ -230,7 +230,7 @@
 			</Include>
 		</Menu>
 		<Menu>
-			<Name>Geographyy</Name>
+			<Name>Geography</Name>
 			<Directory>suse-science-geography.directory</Directory>
 			<Include>
 				<Category>Geography</Category>
@@ -302,7 +302,7 @@
 			</Include>
 		</Menu>
 		<Menu>
-			<Name>Geographyy</Name>
+			<Name>Geography</Name>
 			<Directory>suse-education-geography.directory</Directory>
 			<Include>
 				<Category>Geography</Category>
