@@ -613,6 +613,7 @@
 				<Category>IRCClient</Category>
 				<Category>News</Category>
 				<Category>X-SuSE-RSS-News</Category>
+				<Category>Feed</Category>
 				<Category>SystemSetup</Category>
 				<Category>X-SuSE-ControlCenter-Personal</Category>
 				<Category>FileTransfer</Category>
@@ -707,10 +708,13 @@
 			</Include>
 		</Menu>
 		<Menu>
-			<Name>RSS Reader</Name>
+			<Name>Feed</Name>
 			<Directory>suse-internet-news-feed-reader.directory</Directory>
 			<Include>
+				<Or>
+				<Category>Feed</Category>
 				<Category>X-SuSE-RSS-News</Category>
+				</Or>
 			</Include>
 		</Menu>
 		<Menu>
