@@ -603,6 +603,9 @@
 			<Include>
 				<And>
 				<Category>Network</Category>
+				<Or>
+				<Category>NetworkService</Category>
+				</Or>
 				<Not>
 				<Category>X-SuSE-Core-Internet</Category>
 				<Category>Email</Category>
