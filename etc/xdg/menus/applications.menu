@@ -207,7 +207,10 @@
 			<Name>Languages</Name>
 			<Directory>suse-science-languages.directory</Directory>
 			<Include>
-				<Category>Languages</Category>
+				<And>
+					<Category>Science</Category>
+					<Category>Languages</Category>
+				</And>
 				<Category>X-KDE-Edu-Language</Category>
 			</Include>
 		</Menu>
@@ -215,31 +218,45 @@
 			<Name>Mathematics</Name>
 			<Directory>suse-science-mathematics.directory</Directory>
 			<Include>
-				<Category>DataVisualization</Category>
-				<Category>Math</Category>
-				<Category>NumericalAnalysis</Category>
-				<Category>ParallelComputing</Category>
+				<And>
+					<Category>Science</Category>
+					<Or>
+						<Category>DataVisualization</Category>
+						<Category>Math</Category>
+						<Category>NumericalAnalysis</Category>
+						<Category>ParallelComputing</Category>
+					</Or>
+				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Chemistry</Name>
 			<Directory>suse-science-chemical.directory</Directory>
 			<Include>
-				<Category>Chemistry</Category>
+				<And>
+					<Category>Science</Category>
+					<Category>Chemistry</Category>
+				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Astronomy</Name>
 			<Directory>suse-science-astronomy.directory</Directory>
 			<Include>
-				<Category>Astronomy</Category>
+				<And>
+					<Category>Science</Category>
+					<Category>Astronomy</Category>
+				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Geography</Name>
 			<Directory>suse-science-geography.directory</Directory>
 			<Include>
-				<Category>Geography</Category>
+				<And>
+					<Category>Science</Category>
+					<Category>Geography</Category>
+				</And>
 			</Include>
 		</Menu>
 	</Menu>
@@ -300,25 +317,38 @@
 			<Name>Languages</Name>
 			<Directory>suse-education-languages.directory</Directory>
 			<Include>
-				<Category>Languages</Category>
-				<Category>X-KDE-Edu-Language</Category>
+				<And>
+					<Category>Education</Category>
+					<Or>
+						<Category>Languages</Category>
+						<Category>X-KDE-Edu-Language</Category>
+					</Or>
+				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Mathematics</Name>
 			<Directory>suse-education-mathematics.directory</Directory>
 			<Include>
-				<Category>DataVisualization</Category>
-				<Category>Math</Category>
-				<Category>NumericalAnalysis</Category>
-				<Category>ParallelComputing</Category>
+				<And>
+					<Category>Education</Category>
+					<Or>
+						<Category>DataVisualization</Category>
+						<Category>Math</Category>
+						<Category>NumericalAnalysis</Category>
+						<Category>ParallelComputing</Category>
+					</Or>
+				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Chemistry</Name>
 			<Directory>suse-education-chemical.directory</Directory>
 			<Include>
-				<Category>Chemistry</Category>
+				<And>
+					<Category>Education</Category>
+					<Category>Chemistry</Category>
+				</And>
 			</Include>
 		</Menu>
 		<Menu>
@@ -336,38 +366,57 @@
 			<Name>Teaching</Name>
 			<Directory>suse-education-teaching.directory</Directory>
 			<Include>
-				<Category>X-KDE-Edu-Teaching</Category>
-				<Category>Teaching</Category>
+				<And>
+					<Category>Education</Category>
+					<Or>
+						<Category>X-KDE-Edu-Teaching</Category>
+						<Category>Teaching</Category>
+					</Or>
+				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Art</Name>
 			<Directory>suse-education-art.directory</Directory>
 			<Include>
-				<Category>Art</Category>
+				<And>
+					<Category>Education</Category>
+					<Category>Art</Category>
+				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Astronomy</Name>
 			<Directory>suse-education-astronomy.directory</Directory>
 			<Include>
-				<Category>Astronomy</Category>
+				<And>
+					<Category>Education</Category>
+					<Category>Astronomy</Category>
+				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Geography</Name>
 			<Directory>suse-education-geography.directory</Directory>
 			<Include>
-				<Category>Geography</Category>
+				<And>
+					<Category>Education</Category>
+					<Category>Geography</Category>
+				</And>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Construction</Name>
 			<Directory>suse-education-construction.directory</Directory>
 			<Include>
-				<Category>Electricity</Category>
-				<Category>Engineering</Category>
-				<Category>Construction</Category>
+				<And>
+					<Category>Education</Category>
+					<Or>
+						<Category>Electricity</Category>
+						<Category>Engineering</Category>
+						<Category>Construction</Category>
+					</Or>
+				</And>
 			</Include>
 		</Menu>
 	</Menu>
