@@ -383,6 +383,9 @@
 			<Include>
 				<And>
 				<Category>Game</Category>
+				<Or>
+				<Category>Shooter</Category>
+				</Or>
 				<Not>
 				<Category>X-SuSE-Core-Game</Category>
 				<Category>ArcadeGame</Category>
