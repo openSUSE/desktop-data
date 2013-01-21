@@ -164,14 +164,19 @@
 				<And>
 					<Category>Science</Category>
 					<Or>
-						<Category>ComputerScience</Category>
+						<Category>Art</Category>
+						<Category>Artificial Intelligence</Category>
 						<Category>Biology</Category>
+						<Category>Construction</Category>
+						<Category>ComputerScience</Category>
 						<Category>Economy</Category>
 						<Category>Geology</Category>
 						<Category>Geoscience</Category>
 						<Category>History</Category>
+						<Category>Humanities</Category>
 						<Category>ImageProcessing</Category>
 						<Category>Literature</Category>
+						<Category>Maps</Category>
 						<Category>MedicalSoftware</Category>
 						<Category>Physics</Category>
 						<Category>Robotics</Category>
