@@ -8,7 +8,10 @@
 	<KDELegacyDirs/>
 	<DefaultAppDirs/>
 	<DefaultDirectoryDirs/>
-        <DefaultLayout inline="true" inline_limit="1"/>
+	<DefaultLayout inline="true" inline_limit="1">
+		<Merge type="menus"/>
+		<Merge type="files"/>
+	</DefaultLayout>
 
 	<Include>
 		<Category>X-SuSE-core</Category>
@@ -835,7 +838,6 @@
 			<Name>VideoPlayer</Name>
 			<Directory>suse-multimedia-videoplayer.directory</Directory>
 			<Include>
-				<Category>Audio</Category>
 				<And>
 				<Category>AudioVideo</Category>
 				<Category>Player</Category>
