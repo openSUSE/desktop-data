@@ -1,8 +1,10 @@
 #! /bin/sh
 
-opwd=$PWD
-tdir=`mktemp -d`
-cd $tdir || exit 1
+opwd="$PWD"
+trap '[ -n "${tdir}" ] && { cd /; rm -rf -- "${tdir}"; }' EXIT
+tdir="$(mktemp -d)"
+pushd "${tdir}" || exit 1
+cd "${tdir}" || exit 1
 if test -d "$MY_DESKTOP_DATA_CHECKOUT"; then
     cp -aR "$MY_DESKTOP_DATA_CHECKOUT" desktop-data
     pushd desktop-data
@@ -11,10 +13,10 @@ if test -d "$MY_DESKTOP_DATA_CHECKOUT"; then
     git clean -x -d -f
     popd
 else
-    git clone git://gitorious.org/opensuse/desktop-data.git
+    git clone https://github.com/openSUSE/desktop-data.git || exit 1
 fi
 rm desktop-data/update_rpm
 rm -rf desktop-data/.git
-tar -cvj -f $opwd/desktop-data.tar.bz2 desktop-data
-cd /
-rm -rf $tdir
+tar -cvj -f "${opwd}/desktop-data.tar.bz2" desktop-data
+rm -rf "${tdir}"
+popd 
