@@ -1,7 +1,7 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Settings-Modules
-Icon=package_settings
+Icon=applications-system
 X-KDE-BaseGroup=settings
 Type=Directory
 NoDisplay=true

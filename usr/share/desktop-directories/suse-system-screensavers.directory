@@ -1,8 +1,0 @@
-[Desktop Entry]
-NoDisplay=true
-Encoding=UTF-8
-Name=Screen Savers
-Icon=package_system_screensavers
-X-KDE-BaseGroup=screensavers
-Comment=Screen saver demos
-Type=Directory
