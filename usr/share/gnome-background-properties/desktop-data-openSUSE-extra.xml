@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+		<filename>/usr/share/wallpapers/Bear.jpg</filename>
+          <options>stretched</options>
+		<name>Bear</name>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<name>Blue Blobs</name>
+		<filename>/usr/share/wallpapers/blueblobs2.png</filename>
+          <options>stretched</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<filename>/usr/share/wallpapers/Boulders.jpg</filename>
+          <options>stretched</options>
+		<name>Boulders</name>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<filename>/usr/share/wallpapers/chloroblinds.png</filename>
+          <options>stretched</options>
+		<name>Chloroblinds</name>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<name>Clouds</name>
+		<filename>/usr/share/wallpapers/Clouds.jpg</filename>
+          <options>stretched</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<filename>/usr/share/wallpapers/deepwired.png</filename>
+          <options>stretched</options>
+		<name>Deepwired</name>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<filename>/usr/share/wallpapers/Green.jpg</filename>
+          <options>stretched</options>
+		<name>Green</name>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<filename>/usr/share/wallpapers/Haze.jpg</filename>
+          <options>stretched</options>
+		<name>Haze</name>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<filename>/usr/share/wallpapers/Hillside.jpg</filename>
+          <options>stretched</options>
+		<name>Hillside</name>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<filename>/usr/share/wallpapers/Mountains.jpg</filename>
+          <options>stretched</options>
+		<name>Mountains</name>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<filename>/usr/share/wallpapers/Naptime.jpg</filename>
+          <options>stretched</options>
+		<name>Naptime</name>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<name>Swirled Leaf</name>
+		<filename>/usr/share/wallpapers/NatureSeries001.jpg</filename>
+          <options>stretched</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<name>Electric Flower</name>
+		<filename>/usr/share/wallpapers/NatureSeries002.jpg</filename>
+          <options>stretched</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<name>Tendril</name>
+		<filename>/usr/share/wallpapers/NatureSeries003.jpg</filename>
+          <options>stretched</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<name>Crabapple</name>
+		<filename>/usr/share/wallpapers/NatureSeries004.jpg</filename>
+          <options>stretched</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<name>Rain Drops</name>
+		<filename>/usr/share/wallpapers/NatureSeries005.jpg</filename>
+          <options>stretched</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<name>Evening Dew</name>
+		<filename>/usr/share/wallpapers/NatureSeries006.jpg</filename>
+          <options>stretched</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<name>Green Leaf</name>
+		<filename>/usr/share/wallpapers/NatureSeries007.jpg</filename>
+          <options>stretched</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<name>Parallel Veins</name>
+		<filename>/usr/share/wallpapers/NatureSeries008.jpg</filename>
+          <options>stretched</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<name>Yellow Flower</name>
+		<filename>/usr/share/wallpapers/NatureSeries009.jpg</filename>
+          <options>stretched</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<name>Orange Flower</name>
+		<filename>/usr/share/wallpapers/NatureSeries010.jpg</filename>
+          <options>stretched</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<name>Phantom Leaves</name>
+		<filename>/usr/share/wallpapers/NatureSeries011.jpg</filename>
+          <options>stretched</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<name>Brown Eyed Susans</name>
+		<filename>/usr/share/wallpapers/NatureSeries012.jpg</filename>
+          <options>stretched</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<name>Florida Sunset</name>
+		<filename>/usr/share/wallpapers/NatureSeries014.jpg</filename>
+          <options>stretched</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<filename>/usr/share/wallpapers/Relax.jpg</filename>
+          <options>stretched</options>
+		<name>Relax</name>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<filename>/usr/share/wallpapers/Silence.jpg</filename>
+          <options>stretched</options>
+		<name>Silence</name>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<filename>/usr/share/wallpapers/silkx.png</filename>
+          <options>stretched</options>
+		<name>Silk X</name>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<filename>/usr/share/wallpapers/silky.png</filename>
+          <options>stretched</options>
+		<name>Silk Y</name>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<filename>/usr/share/wallpapers/skyblinds.png</filename>
+          <options>stretched</options>
+		<name>Skyblinds</name>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<filename>/usr/share/wallpapers/SLEswirl.png</filename>
+          <options>stretched</options>
+		<name>SLE Swirl</name>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<filename>/usr/share/wallpapers/Soaring.jpg</filename>
+          <options>stretched</options>
+		<name>Soaring</name>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<filename>/usr/share/wallpapers/SpringFlowers.jpg</filename>
+          <options>stretched</options>
+		<name>Spring Flowers</name>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<filename>/usr/share/wallpapers/tennebone.png</filename>
+          <options>stretched</options>
+		<name>Tennebon Emboss</name>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<filename>/usr/share/wallpapers/tennebong.png</filename>
+          <options>stretched</options>
+		<name>Tennebon Green</name>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<filename>/usr/share/wallpapers/tennebon.png</filename>
+          <options>stretched</options>
+		<name>Tennebon</name>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<filename>/usr/share/wallpapers/tennebons.png</filename>
+          <options>stretched</options>
+		<name>Tennebon Soft</name>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<filename>/usr/share/wallpapers/Turtle.jpg</filename>
+          <options>stretched</options>
+		<name>Turtle</name>
+  </wallpaper>
+  <wallpaper deleted="false">
+		<filename>/usr/share/wallpapers/Wolf.jpg</filename>
+          <options>stretched</options>
+		<name>Wolf</name>
+  </wallpaper>
+</wallpapers>
