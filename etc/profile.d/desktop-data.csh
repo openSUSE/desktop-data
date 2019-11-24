@@ -30,11 +30,11 @@ if ( -r /etc/sysconfig/windowmanager) then
     endif
     if ( "$location" == "local" ) then
 	eval `sed -n -e 's/^\(X_MOUSE_CURSOR\) *=/set \1=/p' < /etc/sysconfig/windowmanager`
-	setenv XCURSOR_THEME "$X_MOUSE_CURSOR"
-	unset XCURSOR_THEME
+	if (! "$X_MOUSE_CURSOR" == "" ) then
+		setenv XCURSOR_THEME "$X_MOUSE_CURSOR"
+		unset XCURSOR_THEME
+	endif
     endif
     unset location
     unset line
 endif
-
-setenv QT_SYSTEM_DIR /usr/share/desktop-data

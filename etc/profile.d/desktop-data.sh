@@ -15,10 +15,10 @@ if test -r /etc/sysconfig/windowmanager; then
     fi
     if test "$location" = local ; then
 	. /etc/sysconfig/windowmanager
-	XCURSOR_THEME="$X_MOUSE_CURSOR"
-	export XCURSOR_THEME
+	if ! [ "x$X_MOUSE_CURSOR" = "x" ]; then
+		XCURSOR_THEME="$X_MOUSE_CURSOR"
+		export XCURSOR_THEME
+	fi
     fi
     unset location
 fi
-
-export QT_SYSTEM_DIR=/usr/share/desktop-data
