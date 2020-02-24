@@ -30,9 +30,11 @@ if ( -r /etc/sysconfig/windowmanager) then
     endif
     if ( "$location" == "local" ) then
 	eval `sed -n -e 's/^\(X_MOUSE_CURSOR\) *=/set \1=/p' < /etc/sysconfig/windowmanager`
-	if ( "$X_MOUSE_CURSOR" != "" ) then
+	if ( ${?X_MOUSE_CURSOR} ) then
+	    if ( ${%X_MOUSE_CURSOR} > 0 ) then
 		setenv XCURSOR_THEME "$X_MOUSE_CURSOR"
 		unset XCURSOR_THEME
+	    endif
 	endif
     endif
     unset location
